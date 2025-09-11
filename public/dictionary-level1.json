@@ -1,0 +1,26 @@
+
+{
+  "name": "中学1年生レベル",
+  "words": [
+    { "english": "apple", "japanese": "りんご" },
+    { "english": "book", "japanese": "本" },
+    { "english": "cat", "japanese": "猫" },
+    { "english": "dog", "japanese": "犬" },
+    { "english": "egg", "japanese": "卵" },
+    { "english": "flower", "japanese": "花" },
+    { "english": "good", "japanese": "良い" },
+    { "english": "hello", "japanese": "こんにちは" },
+    { "english": "ice", "japanese": "氷" },
+    { "english": "juice", "japanese": "ジュース" },
+    { "english": "key", "japanese": "鍵" },
+    { "english": "like", "japanese": "好き" },
+    { "english": "money", "japanese": "お金" },
+    { "english": "name", "japanese": "名前" },
+    { "english": "orange", "japanese": "オレンジ" },
+    { "english": "pen", "japanese": "ペン" },
+    { "english": "queen", "japanese": "女王" },
+    { "english": "red", "japanese": "赤い" },
+    { "english": "sun", "japanese": "太陽" },
+    { "english": "tree", "japanese": "木" }
+  ]
+}

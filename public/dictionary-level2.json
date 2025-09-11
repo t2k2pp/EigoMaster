@@ -1,0 +1,26 @@
+
+{
+  "name": "中学2年生レベル",
+  "words": [
+    { "english": "beautiful", "japanese": "美しい" },
+    { "english": "country", "japanese": "国" },
+    { "english": "different", "japanese": "違う" },
+    { "english": "example", "japanese": "例" },
+    { "english": "family", "japanese": "家族" },
+    { "english": "future", "japanese": "未来" },
+    { "english": "group", "japanese": "グループ" },
+    { "english": "history", "japanese": "歴史" },
+    { "english": "important", "japanese": "重要な" },
+    { "english": "language", "japanese": "言語" },
+    { "english": "music", "japanese": "音楽" },
+    { "english": "number", "japanese": "数" },
+    { "english": "people", "japanese": "人々" },
+    { "english": "question", "japanese": "質問" },
+    { "english": "school", "japanese": "学校" },
+    { "english": "student", "japanese": "学生" },
+    { "english": "teacher", "japanese": "先生" },
+    { "english": "usually", "japanese": "たいてい" },
+    { "english": "visit", "japanese": "訪れる" },
+    { "english": "world", "japanese": "世界" }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Eigo Master",
+  "description": "A Duolingo-style application for learning English vocabulary through spelling quizzes, flashcards, and a dictionary. It's designed for Japanese junior high school students, featuring gamification and progress tracking.",
+  "requestFramePermissions": []
+}

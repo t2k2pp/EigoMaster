@@ -1,0 +1,26 @@
+
+{
+  "name": "中学3年生レベル",
+  "words": [
+    { "english": "ability", "japanese": "能力" },
+    { "english": "believe", "japanese": "信じる" },
+    { "english": "culture", "japanese": "文化" },
+    { "english": "decide", "japanese": "決める" },
+    { "english": "environment", "japanese": "環境" },
+    { "english": "foreign", "japanese": "外国の" },
+    { "english": "government", "japanese": "政府" },
+    { "english": "however", "japanese": "しかしながら" },
+    { "english": "increase", "japanese": "増加する" },
+    { "english": "knowledge", "japanese": "知識" },
+    { "english": "necessary", "japanese": "必要な" },
+    { "english": "opinion", "japanese": "意見" },
+    { "english": "possible", "japanese": "可能な" },
+    { "english": "receive", "japanese": "受け取る" },
+    { "english": "science", "japanese": "科学" },
+    { "english": "technology", "japanese": "技術" },
+    { "english": "understand", "japanese": "理解する" },
+    { "english": "various", "japanese": "様々な" },
+    { "english": "without", "japanese": "〜なしで" },
+    { "english": "experience", "japanese": "経験" }
+  ]
+}
