@@ -1,0 +1,421 @@
+{
+  "name": "中学生 J-L",
+  "words": [
+    {
+      "english": "jack",
+      "japanese": "ジャック（人名）／ジャッキ"
+    },
+    {
+      "english": "jackson",
+      "japanese": "ジャクソン（姓・地名）"
+    },
+    {
+      "english": "james",
+      "japanese": "ジェームズ（人名）"
+    },
+    {
+      "english": "japan",
+      "japanese": "日本"
+    },
+    {
+      "english": "japanese",
+      "japanese": "日本語／日本の"
+    },
+    {
+      "english": "java",
+      "japanese": "ジャワ島／Java（言語）"
+    },
+    {
+      "english": "jersey",
+      "japanese": "ジャージー／ユニフォーム"
+    },
+    {
+      "english": "jesus",
+      "japanese": "イエス（キリスト）"
+    },
+    {
+      "english": "jewelry",
+      "japanese": "宝石類／ジュエリー"
+    },
+    {
+      "english": "jim",
+      "japanese": "ジム（人名）"
+    },
+    {
+      "english": "joe",
+      "japanese": "ジョー（人名）"
+    },
+    {
+      "english": "johnson",
+      "japanese": "ジョンソン（姓）"
+    },
+    {
+      "english": "joined",
+      "japanese": "参加した／結合した"
+    },
+    {
+      "english": "joint",
+      "japanese": "関節／共同の"
+    },
+    {
+      "english": "jones",
+      "japanese": "ジョーンズ（姓）"
+    },
+    {
+      "english": "jul",
+      "japanese": "7月（略）"
+    },
+    {
+      "english": "jump",
+      "japanese": "跳ぶ"
+    },
+    {
+      "english": "jun",
+      "japanese": "6月（略）"
+    },
+    {
+      "english": "justice",
+      "japanese": "正義／司法"
+    },
+    {
+      "english": "kansas",
+      "japanese": "カンザス"
+    },
+    {
+      "english": "kb",
+      "japanese": "キロバイト（KB）"
+    },
+    {
+      "english": "keyword",
+      "japanese": "キーワード"
+    },
+    {
+      "english": "keywords",
+      "japanese": "キーワード（複数）"
+    },
+    {
+      "english": "kids",
+      "japanese": "子どもたち"
+    },
+    {
+      "english": "kind",
+      "japanese": "種類／親切な"
+    },
+    {
+      "english": "kinds",
+      "japanese": "種類（複数）"
+    },
+    {
+      "english": "king",
+      "japanese": "王"
+    },
+    {
+      "english": "kingdom",
+      "japanese": "王国"
+    },
+    {
+      "english": "kit",
+      "japanese": "道具一式／キット"
+    },
+    {
+      "english": "kitchen",
+      "japanese": "台所"
+    },
+    {
+      "english": "km",
+      "japanese": "キロメートル（km）"
+    },
+    {
+      "english": "knew",
+      "japanese": "クンエウ"
+    },
+    {
+      "english": "knowledge",
+      "japanese": "知識"
+    },
+    {
+      "english": "known",
+      "japanese": "知られている"
+    },
+    {
+      "english": "kong",
+      "japanese": "香港（の一部）"
+    },
+    {
+      "english": "lab",
+      "japanese": "研究室（略）"
+    },
+    {
+      "english": "label",
+      "japanese": "ラベル"
+    },
+    {
+      "english": "labor",
+      "japanese": "労働"
+    },
+    {
+      "english": "laboratory",
+      "japanese": "実験室"
+    },
+    {
+      "english": "lack",
+      "japanese": "不足／欠如"
+    },
+    {
+      "english": "lake",
+      "japanese": "湖"
+    },
+    {
+      "english": "land",
+      "japanese": "土地／着陸する"
+    },
+    {
+      "english": "languages",
+      "japanese": "言語（複数）"
+    },
+    {
+      "english": "laptop",
+      "japanese": "ノートパソコン"
+    },
+    {
+      "english": "larger",
+      "japanese": "より大きい"
+    },
+    {
+      "english": "largest",
+      "japanese": "最大の"
+    },
+    {
+      "english": "las",
+      "japanese": "ラス（地名の一部）"
+    },
+    {
+      "english": "laser",
+      "japanese": "レーザー"
+    },
+    {
+      "english": "late",
+      "japanese": "遅い／後期の"
+    },
+    {
+      "english": "later",
+      "japanese": "後で"
+    },
+    {
+      "english": "latin",
+      "japanese": "ラテン語／ラテンの"
+    },
+    {
+      "english": "laws",
+      "japanese": "法律（複数）"
+    },
+    {
+      "english": "lcd",
+      "japanese": "液晶ディスプレイ（LCD）"
+    },
+    {
+      "english": "le",
+      "japanese": "フランス語の定冠詞（le）"
+    },
+    {
+      "english": "lead",
+      "japanese": "導く／鉛（名詞）"
+    },
+    {
+      "english": "leader",
+      "japanese": "指導者／リーダー"
+    },
+    {
+      "english": "leaders",
+      "japanese": "指導者（複数）"
+    },
+    {
+      "english": "leadership",
+      "japanese": "指導力／リーダーシップ"
+    },
+    {
+      "english": "leading",
+      "japanese": "先導する／一流の"
+    },
+    {
+      "english": "league",
+      "japanese": "リーグ"
+    },
+    {
+      "english": "leather",
+      "japanese": "革"
+    },
+    {
+      "english": "leave",
+      "japanese": "去る／休暇"
+    },
+    {
+      "english": "led",
+      "japanese": "導いた／LED（発光ダイオード）"
+    },
+    {
+      "english": "lee",
+      "japanese": "リー（姓）／風下"
+    },
+    {
+      "english": "length",
+      "japanese": "ルエングス"
+    },
+    {
+      "english": "lesbian",
+      "japanese": "ルエスブイアン"
+    },
+    {
+      "english": "letter",
+      "japanese": "ルエトトエル"
+    },
+    {
+      "english": "letters",
+      "japanese": "ルエトトエルス"
+    },
+    {
+      "english": "levels",
+      "japanese": "ルエヴエルス"
+    },
+    {
+      "english": "license",
+      "japanese": "ルイクエンスエ"
+    },
+    {
+      "english": "lighting",
+      "japanese": "ルイグハトイング"
+    },
+    {
+      "english": "likely",
+      "japanese": "ルイクエルイ"
+    },
+    {
+      "english": "limit",
+      "japanese": "ルイムイト"
+    },
+    {
+      "english": "limited",
+      "japanese": "ルイムイトエド"
+    },
+    {
+      "english": "lines",
+      "japanese": "ルインエス"
+    },
+    {
+      "english": "linux",
+      "japanese": "ルインウクス"
+    },
+    {
+      "english": "listen",
+      "japanese": "聞く"
+    },
+    {
+      "english": "listings",
+      "japanese": "ルイストイングス"
+    },
+    {
+      "english": "lists",
+      "japanese": "ルイストス"
+    },
+    {
+      "english": "literature",
+      "japanese": "ルイトエルアチャー"
+    },
+    {
+      "english": "lives",
+      "japanese": "住む（三単現／複数）"
+    },
+    {
+      "english": "living",
+      "japanese": "ルイヴイング"
+    },
+    {
+      "english": "llc",
+      "japanese": "ルルク"
+    },
+    {
+      "english": "load",
+      "japanese": "ルオアド"
+    },
+    {
+      "english": "loan",
+      "japanese": "ルオアン"
+    },
+    {
+      "english": "loans",
+      "japanese": "ルオアンス"
+    },
+    {
+      "english": "located",
+      "japanese": "ルオクアトエド"
+    },
+    {
+      "english": "locations",
+      "japanese": "ルオクアションス"
+    },
+    {
+      "english": "logged",
+      "japanese": "ルオググエド"
+    },
+    {
+      "english": "logo",
+      "japanese": "ルオグオ"
+    },
+    {
+      "english": "longer",
+      "japanese": "ルオングエル"
+    },
+    {
+      "english": "looked",
+      "japanese": "見る（過去）"
+    },
+    {
+      "english": "looks",
+      "japanese": "見る（三単現／複数）"
+    },
+    {
+      "english": "lord",
+      "japanese": "ルオルド"
+    },
+    {
+      "english": "los",
+      "japanese": "ルオス"
+    },
+    {
+      "english": "loss",
+      "japanese": "ルオスス"
+    },
+    {
+      "english": "lost",
+      "japanese": "ルオスト"
+    },
+    {
+      "english": "lot",
+      "japanese": "ルオト"
+    },
+    {
+      "english": "lots",
+      "japanese": "ルオトス"
+    },
+    {
+      "english": "louis",
+      "japanese": "ルオウイス"
+    },
+    {
+      "english": "lower",
+      "japanese": "ルオウエル"
+    },
+    {
+      "english": "lowest",
+      "japanese": "ルオウエスト"
+    },
+    {
+      "english": "ltd",
+      "japanese": "ルトド"
+    },
+    {
+      "english": "lyrics",
+      "japanese": "歌詞"
+    }
+  ]
+}

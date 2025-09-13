@@ -1,0 +1,713 @@
+{
+  "name": "中学生 G-I",
+  "words": [
+    {
+      "english": "ga",
+      "japanese": "（略）"
+    },
+    {
+      "english": "gain",
+      "japanese": "得る／増加"
+    },
+    {
+      "english": "galleries",
+      "japanese": "ギャラリー（複数）"
+    },
+    {
+      "english": "gaming",
+      "japanese": "ゲームをする"
+    },
+    {
+      "english": "gamma",
+      "japanese": "ガンマ"
+    },
+    {
+      "english": "gas",
+      "japanese": "気体／ガス"
+    },
+    {
+      "english": "gave",
+      "japanese": "与えた"
+    },
+    {
+      "english": "gear",
+      "japanese": "装置／歯車"
+    },
+    {
+      "english": "gene",
+      "japanese": "遺伝子"
+    },
+    {
+      "english": "generally",
+      "japanese": "一般的に"
+    },
+    {
+      "english": "generated",
+      "japanese": "生成された"
+    },
+    {
+      "english": "generation",
+      "japanese": "世代／発生"
+    },
+    {
+      "english": "george",
+      "japanese": "ジョージ（人名）"
+    },
+    {
+      "english": "georgia",
+      "japanese": "ジョージア（州名）"
+    },
+    {
+      "english": "german",
+      "japanese": "ドイツの／ドイツ語"
+    },
+    {
+      "english": "germany",
+      "japanese": "ドイツ"
+    },
+    {
+      "english": "gets",
+      "japanese": "得る（三単現／複数）"
+    },
+    {
+      "english": "getting",
+      "japanese": "得ている"
+    },
+    {
+      "english": "gifts",
+      "japanese": "贈り物（複数）"
+    },
+    {
+      "english": "girl",
+      "japanese": "少女"
+    },
+    {
+      "english": "gives",
+      "japanese": "与える（三単現／複数）"
+    },
+    {
+      "english": "giving",
+      "japanese": "与えている"
+    },
+    {
+      "english": "glass",
+      "japanese": "ガラス／コップ"
+    },
+    {
+      "english": "global",
+      "japanese": "世界的な／グローバル"
+    },
+    {
+      "english": "gmt",
+      "japanese": "グリニッジ標準時（GMT）"
+    },
+    {
+      "english": "goal",
+      "japanese": "目標／ゴール"
+    },
+    {
+      "english": "goals",
+      "japanese": "目標（複数）"
+    },
+    {
+      "english": "goes",
+      "japanese": "行く（三単現）"
+    },
+    {
+      "english": "gold",
+      "japanese": "金"
+    },
+    {
+      "english": "golden",
+      "japanese": "黄金の"
+    },
+    {
+      "english": "golf",
+      "japanese": "ゴルフ"
+    },
+    {
+      "english": "gone",
+      "japanese": "グオンエ"
+    },
+    {
+      "english": "goods",
+      "japanese": "商品（複数）／物品"
+    },
+    {
+      "english": "google",
+      "japanese": "グーグル"
+    },
+    {
+      "english": "grade",
+      "japanese": "学年／等級"
+    },
+    {
+      "english": "graduate",
+      "japanese": "卒業する／大学院生"
+    },
+    {
+      "english": "grand",
+      "japanese": "壮大な／1000ドル（米口語）"
+    },
+    {
+      "english": "grant",
+      "japanese": "助成金／与える"
+    },
+    {
+      "english": "graphic",
+      "japanese": "図形の／グラフィック"
+    },
+    {
+      "english": "graphics",
+      "japanese": "グラフィックス"
+    },
+    {
+      "english": "greater",
+      "japanese": "より大きい／〜大都市圏"
+    },
+    {
+      "english": "green",
+      "japanese": "緑"
+    },
+    {
+      "english": "ground",
+      "japanese": "地面／根拠"
+    },
+    {
+      "english": "growing",
+      "japanese": "成長している／増加する"
+    },
+    {
+      "english": "growth",
+      "japanese": "成長／増加"
+    },
+    {
+      "english": "guarantee",
+      "japanese": "保証する／保証"
+    },
+    {
+      "english": "guest",
+      "japanese": "客／ゲスト"
+    },
+    {
+      "english": "guidelines",
+      "japanese": "指針（複数）／ガイドライン"
+    },
+    {
+      "english": "guides",
+      "japanese": "案内書（複数）／案内人（複数）"
+    },
+    {
+      "english": "guitar",
+      "japanese": "ギター"
+    },
+    {
+      "english": "guy",
+      "japanese": "男／やつ"
+    },
+    {
+      "english": "guys",
+      "japanese": "みんな／君たち"
+    },
+    {
+      "english": "hair",
+      "japanese": "髪"
+    },
+    {
+      "english": "half",
+      "japanese": "半分"
+    },
+    {
+      "english": "hall",
+      "japanese": "ホール"
+    },
+    {
+      "english": "handle",
+      "japanese": "扱う／取っ手"
+    },
+    {
+      "english": "handling",
+      "japanese": "取り扱い"
+    },
+    {
+      "english": "hands",
+      "japanese": "手（複数）"
+    },
+    {
+      "english": "happy",
+      "japanese": "しあわせな"
+    },
+    {
+      "english": "hardcore",
+      "japanese": "過激な／ハードコア"
+    },
+    {
+      "english": "hardware",
+      "japanese": "ハードウェア"
+    },
+    {
+      "english": "harry",
+      "japanese": "ハリー（人名）"
+    },
+    {
+      "english": "having",
+      "japanese": "持っている"
+    },
+    {
+      "english": "hawaii",
+      "japanese": "ハワイ"
+    },
+    {
+      "english": "headlines",
+      "japanese": "見出し（複数）"
+    },
+    {
+      "english": "hear",
+      "japanese": "聞く"
+    },
+    {
+      "english": "heard",
+      "japanese": "聞いた"
+    },
+    {
+      "english": "hearing",
+      "japanese": "聴覚／公聴会"
+    },
+    {
+      "english": "heart",
+      "japanese": "心／心臓"
+    },
+    {
+      "english": "heat",
+      "japanese": "熱"
+    },
+    {
+      "english": "heavy",
+      "japanese": "重い"
+    },
+    {
+      "english": "held",
+      "japanese": "開催された／持った"
+    },
+    {
+      "english": "hello",
+      "japanese": "こんにちは"
+    },
+    {
+      "english": "helpful",
+      "japanese": "役に立つ"
+    },
+    {
+      "english": "hentai",
+      "japanese": "（不適切語）"
+    },
+    {
+      "english": "hi",
+      "japanese": "やあ／こんにちは"
+    },
+    {
+      "english": "higher",
+      "japanese": "より高い"
+    },
+    {
+      "english": "highest",
+      "japanese": "最高の"
+    },
+    {
+      "english": "highly",
+      "japanese": "非常に"
+    },
+    {
+      "english": "hill",
+      "japanese": "丘"
+    },
+    {
+      "english": "himself",
+      "japanese": "彼自身"
+    },
+    {
+      "english": "hire",
+      "japanese": "雇う／賃借りする"
+    },
+    {
+      "english": "historical",
+      "japanese": "歴史の"
+    },
+    {
+      "english": "hit",
+      "japanese": "打つ／ヒット"
+    },
+    {
+      "english": "hits",
+      "japanese": "ヒット（複数）"
+    },
+    {
+      "english": "hold",
+      "japanese": "持つ／開催する"
+    },
+    {
+      "english": "holiday",
+      "japanese": "休日"
+    },
+    {
+      "english": "holidays",
+      "japanese": "休日（複数）"
+    },
+    {
+      "english": "homepage",
+      "japanese": "ホームページ"
+    },
+    {
+      "english": "homes",
+      "japanese": "家（複数）"
+    },
+    {
+      "english": "hong",
+      "japanese": "香港（の一部）"
+    },
+    {
+      "english": "hope",
+      "japanese": "望む／希望"
+    },
+    {
+      "english": "horse",
+      "japanese": "馬"
+    },
+    {
+      "english": "hospital",
+      "japanese": "病院"
+    },
+    {
+      "english": "host",
+      "japanese": "主催者／ホスト"
+    },
+    {
+      "english": "hosting",
+      "japanese": "ホスティング"
+    },
+    {
+      "english": "hour",
+      "japanese": "時間"
+    },
+    {
+      "english": "housing",
+      "japanese": "住宅"
+    },
+    {
+      "english": "houston",
+      "japanese": "ヒューストン"
+    },
+    {
+      "english": "hp",
+      "japanese": "HP（略）"
+    },
+    {
+      "english": "hr",
+      "japanese": "時間（略）／人事（HR）"
+    },
+    {
+      "english": "html",
+      "japanese": "HTML"
+    },
+    {
+      "english": "huge",
+      "japanese": "巨大な"
+    },
+    {
+      "english": "ibm",
+      "japanese": "IBM"
+    },
+    {
+      "english": "ice",
+      "japanese": "氷"
+    },
+    {
+      "english": "icon",
+      "japanese": "アイコン"
+    },
+    {
+      "english": "idea",
+      "japanese": "考え"
+    },
+    {
+      "english": "ideas",
+      "japanese": "考え（複数）"
+    },
+    {
+      "english": "identified",
+      "japanese": "特定された"
+    },
+    {
+      "english": "identify",
+      "japanese": "特定する／身元を確認する"
+    },
+    {
+      "english": "ie",
+      "japanese": "すなわち（i.e.）"
+    },
+    {
+      "english": "iii",
+      "japanese": "III（ローマ数字）"
+    },
+    {
+      "english": "il",
+      "japanese": "イリノイ州（略）"
+    },
+    {
+      "english": "illinois",
+      "japanese": "イリノイ"
+    },
+    {
+      "english": "im",
+      "japanese": "インスタントメッセージ（IM）"
+    },
+    {
+      "english": "immediately",
+      "japanese": "ただちに"
+    },
+    {
+      "english": "impact",
+      "japanese": "影響／衝撃"
+    },
+    {
+      "english": "implementation",
+      "japanese": "実装／実行"
+    },
+    {
+      "english": "improve",
+      "japanese": "改善する"
+    },
+    {
+      "english": "improvement",
+      "japanese": "改善"
+    },
+    {
+      "english": "inc",
+      "japanese": "株式会社（Inc.）"
+    },
+    {
+      "english": "incest",
+      "japanese": "（不適切語）"
+    },
+    {
+      "english": "inch",
+      "japanese": "インチ"
+    },
+    {
+      "english": "included",
+      "japanese": "含まれた"
+    },
+    {
+      "english": "income",
+      "japanese": "収入"
+    },
+    {
+      "english": "increase",
+      "japanese": "増加する／増やす"
+    },
+    {
+      "english": "increased",
+      "japanese": "増加した"
+    },
+    {
+      "english": "independent",
+      "japanese": "独立した"
+    },
+    {
+      "english": "india",
+      "japanese": "インド"
+    },
+    {
+      "english": "indian",
+      "japanese": "インド人／インドの"
+    },
+    {
+      "english": "indiana",
+      "japanese": "インディアナ"
+    },
+    {
+      "english": "individual",
+      "japanese": "個人の／個々の"
+    },
+    {
+      "english": "individuals",
+      "japanese": "個人（複数）"
+    },
+    {
+      "english": "industrial",
+      "japanese": "産業の"
+    },
+    {
+      "english": "informed",
+      "japanese": "通知された／情報通の"
+    },
+    {
+      "english": "initial",
+      "japanese": "最初の／頭文字"
+    },
+    {
+      "english": "inn",
+      "japanese": "インン"
+    },
+    {
+      "english": "input",
+      "japanese": "インプウト"
+    },
+    {
+      "english": "inside",
+      "japanese": "インスイドエ"
+    },
+    {
+      "english": "install",
+      "japanese": "インストアルル"
+    },
+    {
+      "english": "installation",
+      "japanese": "インストアルルアション"
+    },
+    {
+      "english": "installed",
+      "japanese": "インストアルルエド"
+    },
+    {
+      "english": "instead",
+      "japanese": "その代わりに"
+    },
+    {
+      "english": "institute",
+      "japanese": "研究所／協会"
+    },
+    {
+      "english": "institutions",
+      "japanese": "機関（複数）"
+    },
+    {
+      "english": "instructions",
+      "japanese": "説明書（複数）／指示（複数）"
+    },
+    {
+      "english": "instruments",
+      "japanese": "器具（複数）／楽器（複数）"
+    },
+    {
+      "english": "int",
+      "japanese": "整数型（プログラミング）／国際（略）"
+    },
+    {
+      "english": "integrated",
+      "japanese": "統合された"
+    },
+    {
+      "english": "integration",
+      "japanese": "統合"
+    },
+    {
+      "english": "intelligence",
+      "japanese": "知能／情報（インテリジェンス）"
+    },
+    {
+      "english": "intended",
+      "japanese": "意図された"
+    },
+    {
+      "english": "interactive",
+      "japanese": "双方向の／インタラクティブ"
+    },
+    {
+      "english": "interested",
+      "japanese": "興味がある"
+    },
+    {
+      "english": "interesting",
+      "japanese": "おもしろい"
+    },
+    {
+      "english": "interests",
+      "japanese": "興味（複数）／利子（複数）"
+    },
+    {
+      "english": "interface",
+      "japanese": "インターフェース"
+    },
+    {
+      "english": "internal",
+      "japanese": "内部の"
+    },
+    {
+      "english": "interview",
+      "japanese": "面接／インタビュー"
+    },
+    {
+      "english": "introduction",
+      "japanese": "紹介／序論"
+    },
+    {
+      "english": "investment",
+      "japanese": "投資"
+    },
+    {
+      "english": "involved",
+      "japanese": "関与した／込み入った"
+    },
+    {
+      "english": "iowa",
+      "japanese": "アイオワ"
+    },
+    {
+      "english": "ip",
+      "japanese": "インターネットプロトコル（IP）"
+    },
+    {
+      "english": "ipod",
+      "japanese": "iPod"
+    },
+    {
+      "english": "iraq",
+      "japanese": "イラク"
+    },
+    {
+      "english": "ireland",
+      "japanese": "アイルランド"
+    },
+    {
+      "english": "iron",
+      "japanese": "鉄／アイロン"
+    },
+    {
+      "english": "isbn",
+      "japanese": "ISBN"
+    },
+    {
+      "english": "island",
+      "japanese": "島"
+    },
+    {
+      "english": "islands",
+      "japanese": "島々（複数）"
+    },
+    {
+      "english": "israel",
+      "japanese": "イスラエル"
+    },
+    {
+      "english": "issued",
+      "japanese": "発行された"
+    },
+    {
+      "english": "italian",
+      "japanese": "イタリア語／イタリアの"
+    },
+    {
+      "english": "italy",
+      "japanese": "イトアルイ"
+    },
+    {
+      "english": "itself",
+      "japanese": "イトスエルフ"
+    },
+    {
+      "english": "iv",
+      "japanese": "イヴ"
+    }
+  ]
+}

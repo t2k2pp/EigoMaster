@@ -1,0 +1,28 @@
+{
+  "files": [
+    "dictionaries/elementary/a-c.json",
+    "dictionaries/elementary/d-f.json",
+    "dictionaries/elementary/g-i.json",
+    "dictionaries/elementary/j-l.json",
+    "dictionaries/elementary/m-o.json",
+    "dictionaries/elementary/p-r.json",
+    "dictionaries/elementary/s-u.json",
+    "dictionaries/elementary/v-z.json",
+    "dictionaries/middle/a-c.json",
+    "dictionaries/middle/d-f.json",
+    "dictionaries/middle/g-i.json",
+    "dictionaries/middle/j-l.json",
+    "dictionaries/middle/m-o.json",
+    "dictionaries/middle/p-r.json",
+    "dictionaries/middle/s-u.json",
+    "dictionaries/middle/v-z.json",
+    "dictionaries/high/a-c.json",
+    "dictionaries/high/d-f.json",
+    "dictionaries/high/g-i.json",
+    "dictionaries/high/j-l.json",
+    "dictionaries/high/m-o.json",
+    "dictionaries/high/p-r.json",
+    "dictionaries/high/s-u.json",
+    "dictionaries/high/v-z.json"
+  ]
+}

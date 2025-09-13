@@ -1,0 +1,1001 @@
+{
+  "name": "高校生 M-O",
+  "words": [
+    {
+      "english": "machinery",
+      "japanese": "ムアチインエルイ"
+    },
+    {
+      "english": "mad",
+      "japanese": "ムアド"
+    },
+    {
+      "english": "madison",
+      "japanese": "ムアドイスオン"
+    },
+    {
+      "english": "magnetic",
+      "japanese": "ムアグンエトイク"
+    },
+    {
+      "english": "maine",
+      "japanese": "ムアインエ"
+    },
+    {
+      "english": "mainly",
+      "japanese": "ムアインルイ"
+    },
+    {
+      "english": "maintained",
+      "japanese": "ムアイントアインエド"
+    },
+    {
+      "english": "maintaining",
+      "japanese": "ムアイントアインイング"
+    },
+    {
+      "english": "majority",
+      "japanese": "ムアジオルイトイ"
+    },
+    {
+      "english": "maker",
+      "japanese": "ムアクエル"
+    },
+    {
+      "english": "makers",
+      "japanese": "ムアクエルス"
+    },
+    {
+      "english": "malaysia",
+      "japanese": "ムアルアイスイア"
+    },
+    {
+      "english": "mall",
+      "japanese": "ムアルル"
+    },
+    {
+      "english": "managed",
+      "japanese": "ムアンアグエド"
+    },
+    {
+      "english": "managers",
+      "japanese": "ムアンアグエルス"
+    },
+    {
+      "english": "managing",
+      "japanese": "ムアンアグイング"
+    },
+    {
+      "english": "manchester",
+      "japanese": "ムアンチエストエル"
+    },
+    {
+      "english": "manner",
+      "japanese": "ムアンンエル"
+    },
+    {
+      "english": "mapping",
+      "japanese": "ムアププイング"
+    },
+    {
+      "english": "marc",
+      "japanese": "ムアルク"
+    },
+    {
+      "english": "margaret",
+      "japanese": "ムアルグアルエト"
+    },
+    {
+      "english": "maria",
+      "japanese": "ムアルイア"
+    },
+    {
+      "english": "marie",
+      "japanese": "ムアルイエ"
+    },
+    {
+      "english": "marked",
+      "japanese": "ムアルクエド"
+    },
+    {
+      "english": "marketplace",
+      "japanese": "ムアルクエトプルアクエ"
+    },
+    {
+      "english": "marks",
+      "japanese": "ムアルクス"
+    },
+    {
+      "english": "marriage",
+      "japanese": "ムアルルイアグエ"
+    },
+    {
+      "english": "married",
+      "japanese": "ムアルルイエド"
+    },
+    {
+      "english": "marshall",
+      "japanese": "ムアルシアルル"
+    },
+    {
+      "english": "massage",
+      "japanese": "ムアススアグエ"
+    },
+    {
+      "english": "massive",
+      "japanese": "ムアススイヴエ"
+    },
+    {
+      "english": "masters",
+      "japanese": "ムアストエルス"
+    },
+    {
+      "english": "matches",
+      "japanese": "ムアトチエス"
+    },
+    {
+      "english": "math",
+      "japanese": "ムアス"
+    },
+    {
+      "english": "mathematics",
+      "japanese": "ムアスエムアトイクス"
+    },
+    {
+      "english": "matrix",
+      "japanese": "ムアトルイクス"
+    },
+    {
+      "english": "matt",
+      "japanese": "ムアトト"
+    },
+    {
+      "english": "matters",
+      "japanese": "ムアトトエルス"
+    },
+    {
+      "english": "matthew",
+      "japanese": "ムアトスエウ"
+    },
+    {
+      "english": "mayor",
+      "japanese": "ムアイオル"
+    },
+    {
+      "english": "mc",
+      "japanese": "ムク"
+    },
+    {
+      "english": "meal",
+      "japanese": "ムエアル"
+    },
+    {
+      "english": "meaning",
+      "japanese": "ムエアンイング"
+    },
+    {
+      "english": "meant",
+      "japanese": "ムエアント"
+    },
+    {
+      "english": "measured",
+      "japanese": "ムエアジャード"
+    },
+    {
+      "english": "measurement",
+      "japanese": "ムエアジャームエント"
+    },
+    {
+      "english": "measurements",
+      "japanese": "ムエアジャームエントス"
+    },
+    {
+      "english": "meat",
+      "japanese": "ムエアト"
+    },
+    {
+      "english": "mechanical",
+      "japanese": "ムエチアンイクアル"
+    },
+    {
+      "english": "mechanism",
+      "japanese": "ムエチアンイスム"
+    },
+    {
+      "english": "mechanisms",
+      "japanese": "ムエチアンイスムス"
+    },
+    {
+      "english": "med",
+      "japanese": "ムエド"
+    },
+    {
+      "english": "medication",
+      "japanese": "ムエドイクアション"
+    },
+    {
+      "english": "medline",
+      "japanese": "ムエドルインエ"
+    },
+    {
+      "english": "meets",
+      "japanese": "ムエエトス"
+    },
+    {
+      "english": "melbourne",
+      "japanese": "ムエルブオウルンエ"
+    },
+    {
+      "english": "memorabilia",
+      "japanese": "ムエムオルアブイルイア"
+    },
+    {
+      "english": "memorial",
+      "japanese": "ムエムオルイアル"
+    },
+    {
+      "english": "memories",
+      "japanese": "ムエムオルイエス"
+    },
+    {
+      "english": "mens",
+      "japanese": "ムエンス"
+    },
+    {
+      "english": "mention",
+      "japanese": "ムエンション"
+    },
+    {
+      "english": "mentioned",
+      "japanese": "ムエンションエド"
+    },
+    {
+      "english": "merchandise",
+      "japanese": "ムエルチアンドイスエ"
+    },
+    {
+      "english": "merchants",
+      "japanese": "ムエルチアントス"
+    },
+    {
+      "english": "mercury",
+      "japanese": "ムエルクウルイ"
+    },
+    {
+      "english": "mesh",
+      "japanese": "ムエシ"
+    },
+    {
+      "english": "messenger",
+      "japanese": "ムエススエングエル"
+    },
+    {
+      "english": "metabolism",
+      "japanese": "ムエトアブオルイスム"
+    },
+    {
+      "english": "meter",
+      "japanese": "ムエトエル"
+    },
+    {
+      "english": "metro",
+      "japanese": "ムエトルオ"
+    },
+    {
+      "english": "mexican",
+      "japanese": "ムエクスイクアン"
+    },
+    {
+      "english": "mg",
+      "japanese": "ムグ"
+    },
+    {
+      "english": "miami",
+      "japanese": "ムイアムイ"
+    },
+    {
+      "english": "micro",
+      "japanese": "ムイクルオ"
+    },
+    {
+      "english": "mile",
+      "japanese": "ムイルエ"
+    },
+    {
+      "english": "milfhunter",
+      "japanese": "ムイルフハウントエル"
+    },
+    {
+      "english": "milfs",
+      "japanese": "ムイルフス"
+    },
+    {
+      "english": "milk",
+      "japanese": "ムイルク"
+    },
+    {
+      "english": "mill",
+      "japanese": "ムイルル"
+    },
+    {
+      "english": "miller",
+      "japanese": "ムイルルエル"
+    },
+    {
+      "english": "millions",
+      "japanese": "ムイルルイオンス"
+    },
+    {
+      "english": "milwaukee",
+      "japanese": "ムイルウアウクエエ"
+    },
+    {
+      "english": "mine",
+      "japanese": "ムインエ"
+    },
+    {
+      "english": "mining",
+      "japanese": "ムインイング"
+    },
+    {
+      "english": "ministry",
+      "japanese": "ムインイストルイ"
+    },
+    {
+      "english": "minor",
+      "japanese": "ムインオル"
+    },
+    {
+      "english": "minority",
+      "japanese": "ムインオルイトイ"
+    },
+    {
+      "english": "mirror",
+      "japanese": "ムイルルオル"
+    },
+    {
+      "english": "misc",
+      "japanese": "ムイスク"
+    },
+    {
+      "english": "missed",
+      "japanese": "ムイススエド"
+    },
+    {
+      "english": "mississippi",
+      "japanese": "ムイススイススイププイ"
+    },
+    {
+      "english": "missouri",
+      "japanese": "ムイススオウルイ"
+    },
+    {
+      "english": "mit",
+      "japanese": "ムイト"
+    },
+    {
+      "english": "mixed",
+      "japanese": "ムイクスエド"
+    },
+    {
+      "english": "ml",
+      "japanese": "ムル"
+    },
+    {
+      "english": "mn",
+      "japanese": "ムン"
+    },
+    {
+      "english": "mod",
+      "japanese": "ムオド"
+    },
+    {
+      "english": "modeling",
+      "japanese": "ムオドエルイング"
+    },
+    {
+      "english": "modem",
+      "japanese": "ムオドエム"
+    },
+    {
+      "english": "moderator",
+      "japanese": "ムオドエルアトオル"
+    },
+    {
+      "english": "modes",
+      "japanese": "ムオドエス"
+    },
+    {
+      "english": "modify",
+      "japanese": "ムオドイフイ"
+    },
+    {
+      "english": "modules",
+      "japanese": "ムオドウルエス"
+    },
+    {
+      "english": "molecular",
+      "japanese": "ムオルエクウルアル"
+    },
+    {
+      "english": "mom",
+      "japanese": "ムオム"
+    },
+    {
+      "english": "monitors",
+      "japanese": "ムオンイトオルス"
+    },
+    {
+      "english": "monster",
+      "japanese": "ムオンストエル"
+    },
+    {
+      "english": "montana",
+      "japanese": "ムオントアンア"
+    },
+    {
+      "english": "moon",
+      "japanese": "ムオオン"
+    },
+    {
+      "english": "moore",
+      "japanese": "ムオオルエ"
+    },
+    {
+      "english": "moral",
+      "japanese": "ムオルアル"
+    },
+    {
+      "english": "morgan",
+      "japanese": "ムオルグアン"
+    },
+    {
+      "english": "mortgages",
+      "japanese": "ムオルトグアグエス"
+    },
+    {
+      "english": "mostly",
+      "japanese": "ムオストルイ"
+    },
+    {
+      "english": "motorcycle",
+      "japanese": "ムオトオルクイクルエ"
+    },
+    {
+      "english": "motors",
+      "japanese": "ムオトオルス"
+    },
+    {
+      "english": "mountains",
+      "japanese": "ムオウントアインス"
+    },
+    {
+      "english": "mouth",
+      "japanese": "口"
+    },
+    {
+      "english": "moves",
+      "japanese": "動く（三単現／複数）"
+    },
+    {
+      "english": "mp",
+      "japanese": "ムプ"
+    },
+    {
+      "english": "mpeg",
+      "japanese": "ムプエグ"
+    },
+    {
+      "english": "mph",
+      "japanese": "ムフ"
+    },
+    {
+      "english": "mt",
+      "japanese": "ムト"
+    },
+    {
+      "english": "municipal",
+      "japanese": "ムウンイクイプアル"
+    },
+    {
+      "english": "murder",
+      "japanese": "ムウルドエル"
+    },
+    {
+      "english": "muscle",
+      "japanese": "ムウスクルエ"
+    },
+    {
+      "english": "mutual",
+      "japanese": "ムウトウアル"
+    },
+    {
+      "english": "mysql",
+      "japanese": "ムイスクル"
+    },
+    {
+      "english": "mystery",
+      "japanese": "ムイストエルイ"
+    },
+    {
+      "english": "nancy",
+      "japanese": "ンアンクイ"
+    },
+    {
+      "english": "narrow",
+      "japanese": "ンアルルオウ"
+    },
+    {
+      "english": "nasa",
+      "japanese": "ンアスア"
+    },
+    {
+      "english": "nashville",
+      "japanese": "ンアシヴイルルエ"
+    },
+    {
+      "english": "nations",
+      "japanese": "ンアションス"
+    },
+    {
+      "english": "nationwide",
+      "japanese": "ンアションウイドエ"
+    },
+    {
+      "english": "navigate",
+      "japanese": "ンアヴイグアトエ"
+    },
+    {
+      "english": "navy",
+      "japanese": "ンアヴイ"
+    },
+    {
+      "english": "nba",
+      "japanese": "ンブア"
+    },
+    {
+      "english": "nd",
+      "japanese": "ンド"
+    },
+    {
+      "english": "nearby",
+      "japanese": "ンエアルブイ"
+    },
+    {
+      "english": "nearest",
+      "japanese": "ンエアルエスト"
+    },
+    {
+      "english": "nebraska",
+      "japanese": "ンエブルアスクア"
+    },
+    {
+      "english": "nec",
+      "japanese": "ンエク"
+    },
+    {
+      "english": "necessarily",
+      "japanese": "ンエクエススアルイルイ"
+    },
+    {
+      "english": "neck",
+      "japanese": "ンエック"
+    },
+    {
+      "english": "negative",
+      "japanese": "ンエグアトイヴエ"
+    },
+    {
+      "english": "neighborhood",
+      "japanese": "ンエイグハブオルハオオド"
+    },
+    {
+      "english": "neither",
+      "japanese": "ンエイスエル"
+    },
+    {
+      "english": "nelson",
+      "japanese": "ンエルスオン"
+    },
+    {
+      "english": "netherlands",
+      "japanese": "ンエスエルルアンドス"
+    },
+    {
+      "english": "nevada",
+      "japanese": "ンエヴアドア"
+    },
+    {
+      "english": "newest",
+      "japanese": "ンエウエスト"
+    },
+    {
+      "english": "newly",
+      "japanese": "ンエウルイ"
+    },
+    {
+      "english": "newspaper",
+      "japanese": "ンエウスプアプエル"
+    },
+    {
+      "english": "newspapers",
+      "japanese": "ンエウスプアプエルス"
+    },
+    {
+      "english": "nfl",
+      "japanese": "ンフル"
+    },
+    {
+      "english": "nh",
+      "japanese": "ンハ"
+    },
+    {
+      "english": "nick",
+      "japanese": "ンイック"
+    },
+    {
+      "english": "nights",
+      "japanese": "夜（三単現／複数）"
+    },
+    {
+      "english": "nikon",
+      "japanese": "ンイクオン"
+    },
+    {
+      "english": "nine",
+      "japanese": "ンインエ"
+    },
+    {
+      "english": "nintendo",
+      "japanese": "ンイントエンドオ"
+    },
+    {
+      "english": "nl",
+      "japanese": "ンル"
+    },
+    {
+      "english": "nm",
+      "japanese": "ンム"
+    },
+    {
+      "english": "nobody",
+      "japanese": "ンオブオドイ"
+    },
+    {
+      "english": "node",
+      "japanese": "ンオドエ"
+    },
+    {
+      "english": "noise",
+      "japanese": "ンオイスエ"
+    },
+    {
+      "english": "normally",
+      "japanese": "ンオルムアルルイ"
+    },
+    {
+      "english": "northwest",
+      "japanese": "ンオルスウエスト"
+    },
+    {
+      "english": "norway",
+      "japanese": "ンオルウアイ"
+    },
+    {
+      "english": "notebook",
+      "japanese": "ンオトエブオオク"
+    },
+    {
+      "english": "notebooks",
+      "japanese": "ンオトエブオオクス"
+    },
+    {
+      "english": "noted",
+      "japanese": "～でない（過去）"
+    },
+    {
+      "english": "notices",
+      "japanese": "ンオトイクエス"
+    },
+    {
+      "english": "notification",
+      "japanese": "ンオトイフイクアション"
+    },
+    {
+      "english": "notify",
+      "japanese": "ンオトイフイ"
+    },
+    {
+      "english": "nova",
+      "japanese": "ンオヴア"
+    },
+    {
+      "english": "novel",
+      "japanese": "ンオヴエル"
+    },
+    {
+      "english": "nr",
+      "japanese": "ンル"
+    },
+    {
+      "english": "ns",
+      "japanese": "ンス"
+    },
+    {
+      "english": "nsw",
+      "japanese": "ンスウ"
+    },
+    {
+      "english": "nt",
+      "japanese": "ント"
+    },
+    {
+      "english": "null",
+      "japanese": "ンウルル"
+    },
+    {
+      "english": "numerous",
+      "japanese": "ンウムエルオウス"
+    },
+    {
+      "english": "nurse",
+      "japanese": "ンウルスエ"
+    },
+    {
+      "english": "nutrition",
+      "japanese": "ンウトルイション"
+    },
+    {
+      "english": "nv",
+      "japanese": "ンヴ"
+    },
+    {
+      "english": "nw",
+      "japanese": "ンウ"
+    },
+    {
+      "english": "nz",
+      "japanese": "ンズ"
+    },
+    {
+      "english": "oak",
+      "japanese": "オアク"
+    },
+    {
+      "english": "objective",
+      "japanese": "オブジエクトイヴエ"
+    },
+    {
+      "english": "objectives",
+      "japanese": "オブジエクトイヴエス"
+    },
+    {
+      "english": "obligation",
+      "japanese": "オブルイグアション"
+    },
+    {
+      "english": "observations",
+      "japanese": "オブスエルヴアションス"
+    },
+    {
+      "english": "observed",
+      "japanese": "オブスエルヴエド"
+    },
+    {
+      "english": "obtain",
+      "japanese": "オブトアイン"
+    },
+    {
+      "english": "obvious",
+      "japanese": "オブヴイオウス"
+    },
+    {
+      "english": "obviously",
+      "japanese": "オブヴイオウスルイ"
+    },
+    {
+      "english": "occupation",
+      "japanese": "オククウプアション"
+    },
+    {
+      "english": "occur",
+      "japanese": "オククウル"
+    },
+    {
+      "english": "occurred",
+      "japanese": "オククウルルエド"
+    },
+    {
+      "english": "occurs",
+      "japanese": "オククウルス"
+    },
+    {
+      "english": "odds",
+      "japanese": "オドドス"
+    },
+    {
+      "english": "officers",
+      "japanese": "オフフイクエルス"
+    },
+    {
+      "english": "offices",
+      "japanese": "オフフイクエス"
+    },
+    {
+      "english": "officials",
+      "japanese": "オフフイクイアルス"
+    },
+    {
+      "english": "offline",
+      "japanese": "オフフルインエ"
+    },
+    {
+      "english": "okay",
+      "japanese": "オクアイ"
+    },
+    {
+      "english": "oklahoma",
+      "japanese": "オクルアハオムア"
+    },
+    {
+      "english": "oldest",
+      "japanese": "オルドエスト"
+    },
+    {
+      "english": "ongoing",
+      "japanese": "オングオイング"
+    },
+    {
+      "english": "onto",
+      "japanese": "オントオ"
+    },
+    {
+      "english": "op",
+      "japanese": "オプ"
+    },
+    {
+      "english": "opened",
+      "japanese": "開ける（過去）"
+    },
+    {
+      "english": "opens",
+      "japanese": "開ける（三単現／複数）"
+    },
+    {
+      "english": "opera",
+      "japanese": "オプエルア"
+    },
+    {
+      "english": "operate",
+      "japanese": "オプエルアトエ"
+    },
+    {
+      "english": "operated",
+      "japanese": "オプエルアトエド"
+    },
+    {
+      "english": "operational",
+      "japanese": "オプエルアションアル"
+    },
+    {
+      "english": "operator",
+      "japanese": "オプエルアトオル"
+    },
+    {
+      "english": "operators",
+      "japanese": "オプエルアトオルス"
+    },
+    {
+      "english": "optical",
+      "japanese": "オプトイクアル"
+    },
+    {
+      "english": "optimization",
+      "japanese": "オプトイムイズアション"
+    },
+    {
+      "english": "oracle",
+      "japanese": "オルアクルエ"
+    },
+    {
+      "english": "ordered",
+      "japanese": "オルドエルエド"
+    },
+    {
+      "english": "ordering",
+      "japanese": "オルドエルイング"
+    },
+    {
+      "english": "ordinary",
+      "japanese": "オルドインアルイ"
+    },
+    {
+      "english": "org",
+      "japanese": "オルグ"
+    },
+    {
+      "english": "organic",
+      "japanese": "オルグアンイク"
+    },
+    {
+      "english": "organisation",
+      "japanese": "オルグアンイスアション"
+    },
+    {
+      "english": "organisations",
+      "japanese": "オルグアンイスアションス"
+    },
+    {
+      "english": "organized",
+      "japanese": "オルグアンイズエド"
+    },
+    {
+      "english": "orgy",
+      "japanese": "オルグイ"
+    },
+    {
+      "english": "oriented",
+      "japanese": "オルイエントエド"
+    },
+    {
+      "english": "originally",
+      "japanese": "オルイグインアルルイ"
+    },
+    {
+      "english": "orlando",
+      "japanese": "オルルアンドオ"
+    },
+    {
+      "english": "orleans",
+      "japanese": "オルルエアンス"
+    },
+    {
+      "english": "ourselves",
+      "japanese": "オウルスエルヴエス"
+    },
+    {
+      "english": "outcome",
+      "japanese": "オウトクオムエ"
+    },
+    {
+      "english": "outcomes",
+      "japanese": "オウトクオムエス"
+    },
+    {
+      "english": "outdoors",
+      "japanese": "オウトドオオルス"
+    },
+    {
+      "english": "outlet",
+      "japanese": "オウトルエト"
+    },
+    {
+      "english": "outlook",
+      "japanese": "オウトルオオク"
+    },
+    {
+      "english": "outstanding",
+      "japanese": "オウトストアンドイング"
+    },
+    {
+      "english": "overnight",
+      "japanese": "オヴエルンイグハト"
+    },
+    {
+      "english": "overseas",
+      "japanese": "オヴエルスエアス"
+    },
+    {
+      "english": "ownership",
+      "japanese": "オウンエルシイプ"
+    },
+    {
+      "english": "oxford",
+      "japanese": "オクスフオルド"
+    },
+    {
+      "english": "oz",
+      "japanese": "オズ"
+    }
+  ]
+}

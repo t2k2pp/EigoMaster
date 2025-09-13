@@ -1,0 +1,557 @@
+{
+  "name": "小学生 A-C",
+  "words": [
+    {
+      "english": "about",
+      "japanese": "～について"
+    },
+    {
+      "english": "above",
+      "japanese": "上に"
+    },
+    {
+      "english": "access",
+      "japanese": "アクセス"
+    },
+    {
+      "english": "accessories",
+      "japanese": "付属品"
+    },
+    {
+      "english": "account",
+      "japanese": "アカウント"
+    },
+    {
+      "english": "act",
+      "japanese": "行動する"
+    },
+    {
+      "english": "action",
+      "japanese": "行動"
+    },
+    {
+      "english": "activities",
+      "japanese": "活動"
+    },
+    {
+      "english": "add",
+      "japanese": "加える"
+    },
+    {
+      "english": "added",
+      "japanese": "追加した"
+    },
+    {
+      "english": "additional",
+      "japanese": "追加の"
+    },
+    {
+      "english": "address",
+      "japanese": "住所"
+    },
+    {
+      "english": "advanced",
+      "japanese": "上級の"
+    },
+    {
+      "english": "after",
+      "japanese": "後で"
+    },
+    {
+      "english": "again",
+      "japanese": "また"
+    },
+    {
+      "english": "against",
+      "japanese": "〜に反対して"
+    },
+    {
+      "english": "age",
+      "japanese": "年齢"
+    },
+    {
+      "english": "agreement",
+      "japanese": "合意"
+    },
+    {
+      "english": "air",
+      "japanese": "空気"
+    },
+    {
+      "english": "al",
+      "japanese": "ほか（略）"
+    },
+    {
+      "english": "all",
+      "japanese": "すべて"
+    },
+    {
+      "english": "also",
+      "japanese": "～も"
+    },
+    {
+      "english": "always",
+      "japanese": "いつも"
+    },
+    {
+      "english": "am",
+      "japanese": "～である"
+    },
+    {
+      "english": "america",
+      "japanese": "アメリカ"
+    },
+    {
+      "english": "american",
+      "japanese": "アメリカの"
+    },
+    {
+      "english": "an",
+      "japanese": "（不定冠詞）"
+    },
+    {
+      "english": "analysis",
+      "japanese": "分析"
+    },
+    {
+      "english": "and",
+      "japanese": "そして"
+    },
+    {
+      "english": "another",
+      "japanese": "別の"
+    },
+    {
+      "english": "any",
+      "japanese": "どれでも"
+    },
+    {
+      "english": "application",
+      "japanese": "アプリ／申請"
+    },
+    {
+      "english": "april",
+      "japanese": "4月"
+    },
+    {
+      "english": "archive",
+      "japanese": "アーカイブ"
+    },
+    {
+      "english": "are",
+      "japanese": "～である"
+    },
+    {
+      "english": "area",
+      "japanese": "地域"
+    },
+    {
+      "english": "areas",
+      "japanese": "地域"
+    },
+    {
+      "english": "around",
+      "japanese": "周りに"
+    },
+    {
+      "english": "art",
+      "japanese": "美術"
+    },
+    {
+      "english": "article",
+      "japanese": "記事"
+    },
+    {
+      "english": "articles",
+      "japanese": "記事"
+    },
+    {
+      "english": "as",
+      "japanese": "～として"
+    },
+    {
+      "english": "association",
+      "japanese": "協会"
+    },
+    {
+      "english": "at",
+      "japanese": "～で"
+    },
+    {
+      "english": "audio",
+      "japanese": "音声"
+    },
+    {
+      "english": "august",
+      "japanese": "8月"
+    },
+    {
+      "english": "australia",
+      "japanese": "オーストラリア"
+    },
+    {
+      "english": "author",
+      "japanese": "著者"
+    },
+    {
+      "english": "available",
+      "japanese": "利用できる"
+    },
+    {
+      "english": "away",
+      "japanese": "離れて"
+    },
+    {
+      "english": "baby",
+      "japanese": "赤ちゃん"
+    },
+    {
+      "english": "back",
+      "japanese": "うしろ"
+    },
+    {
+      "english": "based",
+      "japanese": "～に基づいた"
+    },
+    {
+      "english": "be",
+      "japanese": "～である"
+    },
+    {
+      "english": "because",
+      "japanese": "なぜなら"
+    },
+    {
+      "english": "become",
+      "japanese": "～になる"
+    },
+    {
+      "english": "been",
+      "japanese": "～であった"
+    },
+    {
+      "english": "before",
+      "japanese": "前に"
+    },
+    {
+      "english": "being",
+      "japanese": "～であること"
+    },
+    {
+      "english": "below",
+      "japanese": "下に"
+    },
+    {
+      "english": "best",
+      "japanese": "いちばんよい"
+    },
+    {
+      "english": "better",
+      "japanese": "よりよい"
+    },
+    {
+      "english": "between",
+      "japanese": "～の間に"
+    },
+    {
+      "english": "big",
+      "japanese": "大きい"
+    },
+    {
+      "english": "black",
+      "japanese": "くろ"
+    },
+    {
+      "english": "blog",
+      "japanese": "ブログ"
+    },
+    {
+      "english": "blue",
+      "japanese": "あお"
+    },
+    {
+      "english": "board",
+      "japanese": "板"
+    },
+    {
+      "english": "body",
+      "japanese": "からだ"
+    },
+    {
+      "english": "book",
+      "japanese": "ほん"
+    },
+    {
+      "english": "books",
+      "japanese": "本（複数）"
+    },
+    {
+      "english": "both",
+      "japanese": "両方"
+    },
+    {
+      "english": "box",
+      "japanese": "はこ"
+    },
+    {
+      "english": "browse",
+      "japanese": "閲覧する"
+    },
+    {
+      "english": "building",
+      "japanese": "建物"
+    },
+    {
+      "english": "business",
+      "japanese": "仕事"
+    },
+    {
+      "english": "but",
+      "japanese": "しかし"
+    },
+    {
+      "english": "buy",
+      "japanese": "買う"
+    },
+    {
+      "english": "by",
+      "japanese": "～によって"
+    },
+    {
+      "english": "ca",
+      "japanese": "カリフォルニア州（略）"
+    },
+    {
+      "english": "california",
+      "japanese": "カリフォルニア"
+    },
+    {
+      "english": "call",
+      "japanese": "呼ぶ"
+    },
+    {
+      "english": "can",
+      "japanese": "～できる"
+    },
+    {
+      "english": "canada",
+      "japanese": "カナダ"
+    },
+    {
+      "english": "car",
+      "japanese": "車"
+    },
+    {
+      "english": "card",
+      "japanese": "カード"
+    },
+    {
+      "english": "cards",
+      "japanese": "カード（複数）"
+    },
+    {
+      "english": "care",
+      "japanese": "世話"
+    },
+    {
+      "english": "cars",
+      "japanese": "車（複数）"
+    },
+    {
+      "english": "cart",
+      "japanese": "カート"
+    },
+    {
+      "english": "case",
+      "japanese": "場合"
+    },
+    {
+      "english": "categories",
+      "japanese": "分類"
+    },
+    {
+      "english": "category",
+      "japanese": "種類"
+    },
+    {
+      "english": "cd",
+      "japanese": "CD"
+    },
+    {
+      "english": "cell",
+      "japanese": "細胞"
+    },
+    {
+      "english": "center",
+      "japanese": "中心"
+    },
+    {
+      "english": "central",
+      "japanese": "中央の"
+    },
+    {
+      "english": "change",
+      "japanese": "変える"
+    },
+    {
+      "english": "changes",
+      "japanese": "変更"
+    },
+    {
+      "english": "check",
+      "japanese": "確認する"
+    },
+    {
+      "english": "child",
+      "japanese": "子ども"
+    },
+    {
+      "english": "children",
+      "japanese": "子どもたち"
+    },
+    {
+      "english": "china",
+      "japanese": "中国"
+    },
+    {
+      "english": "city",
+      "japanese": "都市"
+    },
+    {
+      "english": "class",
+      "japanese": "じゅぎょう"
+    },
+    {
+      "english": "click",
+      "japanese": "クリックする"
+    },
+    {
+      "english": "club",
+      "japanese": "クラブ"
+    },
+    {
+      "english": "co",
+      "japanese": "会社（略）"
+    },
+    {
+      "english": "code",
+      "japanese": "コード"
+    },
+    {
+      "english": "college",
+      "japanese": "大学"
+    },
+    {
+      "english": "color",
+      "japanese": "色"
+    },
+    {
+      "english": "come",
+      "japanese": "来る"
+    },
+    {
+      "english": "comment",
+      "japanese": "コメント"
+    },
+    {
+      "english": "comments",
+      "japanese": "コメント（複数）"
+    },
+    {
+      "english": "committee",
+      "japanese": "委員会"
+    },
+    {
+      "english": "community",
+      "japanese": "コミュニティ"
+    },
+    {
+      "english": "companies",
+      "japanese": "会社（複数）"
+    },
+    {
+      "english": "company",
+      "japanese": "会社"
+    },
+    {
+      "english": "compare",
+      "japanese": "比較する"
+    },
+    {
+      "english": "complete",
+      "japanese": "完了する"
+    },
+    {
+      "english": "computer",
+      "japanese": "コンピュータ"
+    },
+    {
+      "english": "computers",
+      "japanese": "コンピュータ（複数）"
+    },
+    {
+      "english": "conditions",
+      "japanese": "条件（複数）"
+    },
+    {
+      "english": "contact",
+      "japanese": "連絡"
+    },
+    {
+      "english": "content",
+      "japanese": "内容"
+    },
+    {
+      "english": "control",
+      "japanese": "管理"
+    },
+    {
+      "english": "copyright",
+      "japanese": "著作権"
+    },
+    {
+      "english": "cost",
+      "japanese": "費用"
+    },
+    {
+      "english": "could",
+      "japanese": "～できた"
+    },
+    {
+      "english": "council",
+      "japanese": "評議会"
+    },
+    {
+      "english": "country",
+      "japanese": "国"
+    },
+    {
+      "english": "county",
+      "japanese": "郡"
+    },
+    {
+      "english": "course",
+      "japanese": "講座"
+    },
+    {
+      "english": "court",
+      "japanese": "裁判所"
+    },
+    {
+      "english": "create",
+      "japanese": "作成する"
+    },
+    {
+      "english": "credit",
+      "japanese": "クレジット"
+    },
+    {
+      "english": "current",
+      "japanese": "現在の"
+    },
+    {
+      "english": "customer",
+      "japanese": "客"
+    }
+  ]
+}

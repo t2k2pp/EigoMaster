@@ -1,0 +1,297 @@
+{
+  "name": "小学生 D-F",
+  "words": [
+    {
+      "english": "data",
+      "japanese": "データ"
+    },
+    {
+      "english": "date",
+      "japanese": "日付／デート"
+    },
+    {
+      "english": "day",
+      "japanese": "日"
+    },
+    {
+      "english": "days",
+      "japanese": "日（複数）"
+    },
+    {
+      "english": "de",
+      "japanese": "（略）"
+    },
+    {
+      "english": "dec",
+      "japanese": "12月（略）"
+    },
+    {
+      "english": "december",
+      "japanese": "12月"
+    },
+    {
+      "english": "delivery",
+      "japanese": "配達"
+    },
+    {
+      "english": "department",
+      "japanese": "部門"
+    },
+    {
+      "english": "description",
+      "japanese": "説明"
+    },
+    {
+      "english": "design",
+      "japanese": "デザイン／設計"
+    },
+    {
+      "english": "details",
+      "japanese": "詳細"
+    },
+    {
+      "english": "development",
+      "japanese": "開発"
+    },
+    {
+      "english": "did",
+      "japanese": "する"
+    },
+    {
+      "english": "different",
+      "japanese": "異なる"
+    },
+    {
+      "english": "digital",
+      "japanese": "デジタル"
+    },
+    {
+      "english": "directory",
+      "japanese": "目録／ディレクトリ"
+    },
+    {
+      "english": "discussion",
+      "japanese": "議論"
+    },
+    {
+      "english": "do",
+      "japanese": "する"
+    },
+    {
+      "english": "does",
+      "japanese": "する"
+    },
+    {
+      "english": "down",
+      "japanese": "下へ"
+    },
+    {
+      "english": "download",
+      "japanese": "ダウンロード"
+    },
+    {
+      "english": "during",
+      "japanese": "～の間に"
+    },
+    {
+      "english": "dvd",
+      "japanese": "DVD"
+    },
+    {
+      "english": "each",
+      "japanese": "それぞれ"
+    },
+    {
+      "english": "east",
+      "japanese": "東"
+    },
+    {
+      "english": "easy",
+      "japanese": "簡単な"
+    },
+    {
+      "english": "ebay",
+      "japanese": "イーベイ"
+    },
+    {
+      "english": "edition",
+      "japanese": "版"
+    },
+    {
+      "english": "education",
+      "japanese": "教育"
+    },
+    {
+      "english": "email",
+      "japanese": "電子メール／メール"
+    },
+    {
+      "english": "end",
+      "japanese": "終わり"
+    },
+    {
+      "english": "energy",
+      "japanese": "エネルギー"
+    },
+    {
+      "english": "enter",
+      "japanese": "入る／入力する"
+    },
+    {
+      "english": "entertainment",
+      "japanese": "娯楽"
+    },
+    {
+      "english": "equipment",
+      "japanese": "装置／備品"
+    },
+    {
+      "english": "estate",
+      "japanese": "不動産"
+    },
+    {
+      "english": "even",
+      "japanese": "～でさえ"
+    },
+    {
+      "english": "event",
+      "japanese": "行事"
+    },
+    {
+      "english": "events",
+      "japanese": "行事（複数）"
+    },
+    {
+      "english": "every",
+      "japanese": "毎～"
+    },
+    {
+      "english": "example",
+      "japanese": "例"
+    },
+    {
+      "english": "experience",
+      "japanese": "経験"
+    },
+    {
+      "english": "family",
+      "japanese": "かぞく"
+    },
+    {
+      "english": "faq",
+      "japanese": "よくある質問"
+    },
+    {
+      "english": "fax",
+      "japanese": "ファクス"
+    },
+    {
+      "english": "features",
+      "japanese": "機能（複数）"
+    },
+    {
+      "english": "february",
+      "japanese": "2月"
+    },
+    {
+      "english": "feedback",
+      "japanese": "フィードバック"
+    },
+    {
+      "english": "few",
+      "japanese": "少しの"
+    },
+    {
+      "english": "field",
+      "japanese": "分野"
+    },
+    {
+      "english": "file",
+      "japanese": "ファイル"
+    },
+    {
+      "english": "files",
+      "japanese": "ファイル（複数）"
+    },
+    {
+      "english": "film",
+      "japanese": "映画／フィルム"
+    },
+    {
+      "english": "financial",
+      "japanese": "財務の／金融の"
+    },
+    {
+      "english": "find",
+      "japanese": "見つける"
+    },
+    {
+      "english": "first",
+      "japanese": "最初の"
+    },
+    {
+      "english": "following",
+      "japanese": "次の"
+    },
+    {
+      "english": "food",
+      "japanese": "食べ物"
+    },
+    {
+      "english": "for",
+      "japanese": "～のため"
+    },
+    {
+      "english": "form",
+      "japanese": "形／用紙"
+    },
+    {
+      "english": "format",
+      "japanese": "形式"
+    },
+    {
+      "english": "forum",
+      "japanese": "フォーラム"
+    },
+    {
+      "english": "forums",
+      "japanese": "フォーラム（複数）"
+    },
+    {
+      "english": "found",
+      "japanese": "見つけた"
+    },
+    {
+      "english": "four",
+      "japanese": "四"
+    },
+    {
+      "english": "free",
+      "japanese": "無料の／自由な"
+    },
+    {
+      "english": "friend",
+      "japanese": "友だち"
+    },
+    {
+      "english": "friends",
+      "japanese": "友だち（複数）"
+    },
+    {
+      "english": "from",
+      "japanese": "～から"
+    },
+    {
+      "english": "full",
+      "japanese": "いっぱいの"
+    },
+    {
+      "english": "further",
+      "japanese": "さらに"
+    },
+    {
+      "english": "future",
+      "japanese": "未来／将来"
+    }
+  ]
+}

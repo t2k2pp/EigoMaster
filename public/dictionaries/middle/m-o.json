@@ -1,0 +1,769 @@
+{
+  "name": "中学生 M-O",
+  "words": [
+    {
+      "english": "ma",
+      "japanese": "修士号（MA）／マサチューセッツ州（略）"
+    },
+    {
+      "english": "mac",
+      "japanese": "Mac（アップル製コンピュータ）"
+    },
+    {
+      "english": "machine",
+      "japanese": "機械"
+    },
+    {
+      "english": "machines",
+      "japanese": "機械（複数）"
+    },
+    {
+      "english": "magazine",
+      "japanese": "雑誌"
+    },
+    {
+      "english": "magazines",
+      "japanese": "雑誌（複数）"
+    },
+    {
+      "english": "magic",
+      "japanese": "魔法／不思議"
+    },
+    {
+      "english": "mailing",
+      "japanese": "郵送／メーリング"
+    },
+    {
+      "english": "maintain",
+      "japanese": "維持する"
+    },
+    {
+      "english": "maintenance",
+      "japanese": "保守／維持"
+    },
+    {
+      "english": "makes",
+      "japanese": "作る（三単現／複数）"
+    },
+    {
+      "english": "male",
+      "japanese": "男性の"
+    },
+    {
+      "english": "manage",
+      "japanese": "管理する"
+    },
+    {
+      "english": "manager",
+      "japanese": "管理者／マネージャー"
+    },
+    {
+      "english": "manual",
+      "japanese": "手動の／説明書"
+    },
+    {
+      "english": "manufacturer",
+      "japanese": "製造業者"
+    },
+    {
+      "english": "manufacturers",
+      "japanese": "製造業者（複数）"
+    },
+    {
+      "english": "manufacturing",
+      "japanese": "製造（産業）"
+    },
+    {
+      "english": "maps",
+      "japanese": "地図（複数）"
+    },
+    {
+      "english": "mar",
+      "japanese": "3月（略）"
+    },
+    {
+      "english": "marine",
+      "japanese": "海の／海兵隊"
+    },
+    {
+      "english": "mark",
+      "japanese": "印をつける／点数"
+    },
+    {
+      "english": "markets",
+      "japanese": "市場（複数）"
+    },
+    {
+      "english": "martin",
+      "japanese": "マーティン（人名）"
+    },
+    {
+      "english": "mary",
+      "japanese": "メアリー（人名）"
+    },
+    {
+      "english": "maryland",
+      "japanese": "メリーランド"
+    },
+    {
+      "english": "mass",
+      "japanese": "大量の／質量／ミサ"
+    },
+    {
+      "english": "massachusetts",
+      "japanese": "マサチューセッツ"
+    },
+    {
+      "english": "master",
+      "japanese": "達人／修士"
+    },
+    {
+      "english": "match",
+      "japanese": "一致する／試合"
+    },
+    {
+      "english": "matching",
+      "japanese": "一致する（進行）／照合"
+    },
+    {
+      "english": "material",
+      "japanese": "ムアトエルイアル"
+    },
+    {
+      "english": "materials",
+      "japanese": "材料／資料（複数）"
+    },
+    {
+      "english": "matter",
+      "japanese": "事柄／物質"
+    },
+    {
+      "english": "mature",
+      "japanese": "成熟した"
+    },
+    {
+      "english": "max",
+      "japanese": "最大（max）"
+    },
+    {
+      "english": "maximum",
+      "japanese": "最大"
+    },
+    {
+      "english": "maybe",
+      "japanese": "たぶん"
+    },
+    {
+      "english": "mb",
+      "japanese": "メガバイト（MB）"
+    },
+    {
+      "english": "md",
+      "japanese": "医師（MD）／メリーランド州（MD）"
+    },
+    {
+      "english": "mean",
+      "japanese": "意味する／平均"
+    },
+    {
+      "english": "means",
+      "japanese": "手段（複数）／資力"
+    },
+    {
+      "english": "measure",
+      "japanese": "測る／対策"
+    },
+    {
+      "english": "measures",
+      "japanese": "対策（複数）／測定"
+    },
+    {
+      "english": "medicine",
+      "japanese": "医学／薬"
+    },
+    {
+      "english": "medium",
+      "japanese": "媒体／中くらい"
+    },
+    {
+      "english": "meet",
+      "japanese": "会う"
+    },
+    {
+      "english": "meetings",
+      "japanese": "会議（複数）"
+    },
+    {
+      "english": "membership",
+      "japanese": "会員（資格）"
+    },
+    {
+      "english": "mental",
+      "japanese": "精神の"
+    },
+    {
+      "english": "menu",
+      "japanese": "メニュー"
+    },
+    {
+      "english": "merchant",
+      "japanese": "商人／加盟店"
+    },
+    {
+      "english": "met",
+      "japanese": "会った"
+    },
+    {
+      "english": "metal",
+      "japanese": "金属"
+    },
+    {
+      "english": "method",
+      "japanese": "方法"
+    },
+    {
+      "english": "methods",
+      "japanese": "方法（複数）"
+    },
+    {
+      "english": "mexico",
+      "japanese": "メキシコ"
+    },
+    {
+      "english": "mi",
+      "japanese": "ミシガン州（MI）／マイル（mi）"
+    },
+    {
+      "english": "michael",
+      "japanese": "マイケル（人名）"
+    },
+    {
+      "english": "michigan",
+      "japanese": "ミシガン"
+    },
+    {
+      "english": "microsoft",
+      "japanese": "マイクロソフト"
+    },
+    {
+      "english": "mid",
+      "japanese": "中間の（mid）"
+    },
+    {
+      "english": "middle",
+      "japanese": "中間の／中央の"
+    },
+    {
+      "english": "mike",
+      "japanese": "マイク（人名）／マイクロフォン"
+    },
+    {
+      "english": "miles",
+      "japanese": "マイル（複数）"
+    },
+    {
+      "english": "milf",
+      "japanese": "（不適切語）"
+    },
+    {
+      "english": "military",
+      "japanese": "軍の／軍事の"
+    },
+    {
+      "english": "min",
+      "japanese": "分（略）／最小（min）"
+    },
+    {
+      "english": "mind",
+      "japanese": "心／考え"
+    },
+    {
+      "english": "mini",
+      "japanese": "小型の"
+    },
+    {
+      "english": "minimum",
+      "japanese": "最小"
+    },
+    {
+      "english": "minister",
+      "japanese": "大臣／牧師"
+    },
+    {
+      "english": "minnesota",
+      "japanese": "ミネソタ"
+    },
+    {
+      "english": "minute",
+      "japanese": "分"
+    },
+    {
+      "english": "minutes",
+      "japanese": "分（複数）"
+    },
+    {
+      "english": "miscellaneous",
+      "japanese": "雑多な／その他"
+    },
+    {
+      "english": "miss",
+      "japanese": "逃す／ミス（敬称）"
+    },
+    {
+      "english": "missing",
+      "japanese": "行方不明の／欠けている"
+    },
+    {
+      "english": "mission",
+      "japanese": "任務／使命"
+    },
+    {
+      "english": "mix",
+      "japanese": "混ぜる／混合"
+    },
+    {
+      "english": "mm",
+      "japanese": "ミリメートル（mm）"
+    },
+    {
+      "english": "mo",
+      "japanese": "ミズーリ州（MO）／月（mo.）"
+    },
+    {
+      "english": "mode",
+      "japanese": "様式／モード"
+    },
+    {
+      "english": "models",
+      "japanese": "モデル（複数）"
+    },
+    {
+      "english": "modern",
+      "japanese": "現代的な"
+    },
+    {
+      "english": "modified",
+      "japanese": "変更された"
+    },
+    {
+      "english": "module",
+      "japanese": "モジュール"
+    },
+    {
+      "english": "moment",
+      "japanese": "瞬間"
+    },
+    {
+      "english": "mon",
+      "japanese": "月（略）"
+    },
+    {
+      "english": "monday",
+      "japanese": "月曜日"
+    },
+    {
+      "english": "monitor",
+      "japanese": "監視する／モニター"
+    },
+    {
+      "english": "monitoring",
+      "japanese": "監視"
+    },
+    {
+      "english": "monthly",
+      "japanese": "毎月の"
+    },
+    {
+      "english": "morning",
+      "japanese": "朝"
+    },
+    {
+      "english": "mortgage",
+      "japanese": "住宅ローン"
+    },
+    {
+      "english": "mother",
+      "japanese": "母"
+    },
+    {
+      "english": "motion",
+      "japanese": "ムオション"
+    },
+    {
+      "english": "motor",
+      "japanese": "ムオトオル"
+    },
+    {
+      "english": "motorola",
+      "japanese": "ムオトオルオルア"
+    },
+    {
+      "english": "mount",
+      "japanese": "ムオウント"
+    },
+    {
+      "english": "mountain",
+      "japanese": "ムオウントアイン"
+    },
+    {
+      "english": "mouse",
+      "japanese": "ムオウスエ"
+    },
+    {
+      "english": "move",
+      "japanese": "動く"
+    },
+    {
+      "english": "moved",
+      "japanese": "ムオヴエド"
+    },
+    {
+      "english": "movement",
+      "japanese": "ムオヴエムエント"
+    },
+    {
+      "english": "moving",
+      "japanese": "ムオヴイング"
+    },
+    {
+      "english": "mr",
+      "japanese": "ムル"
+    },
+    {
+      "english": "ms",
+      "japanese": "Ms.（女性の敬称）／ミリ秒（ms）"
+    },
+    {
+      "english": "msn",
+      "japanese": "MSN"
+    },
+    {
+      "english": "multi",
+      "japanese": "複数の／マルチ"
+    },
+    {
+      "english": "multimedia",
+      "japanese": "マルチメディア"
+    },
+    {
+      "english": "multiple",
+      "japanese": "複数の"
+    },
+    {
+      "english": "museum",
+      "japanese": "博物館"
+    },
+    {
+      "english": "musical",
+      "japanese": "音楽の／ミュージカル"
+    },
+    {
+      "english": "myself",
+      "japanese": "自分自身"
+    },
+    {
+      "english": "na",
+      "japanese": "該当なし（N/A）"
+    },
+    {
+      "english": "naked",
+      "japanese": "裸の"
+    },
+    {
+      "english": "named",
+      "japanese": "～という名前の"
+    },
+    {
+      "english": "names",
+      "japanese": "名前（複数）"
+    },
+    {
+      "english": "nation",
+      "japanese": "国家"
+    },
+    {
+      "english": "native",
+      "japanese": "母語の／先住の"
+    },
+    {
+      "english": "natural",
+      "japanese": "自然の"
+    },
+    {
+      "english": "nature",
+      "japanese": "自然／性質"
+    },
+    {
+      "english": "navigation",
+      "japanese": "ナビゲーション／航法"
+    },
+    {
+      "english": "nc",
+      "japanese": "ノースカロライナ州（NC）"
+    },
+    {
+      "english": "ne",
+      "japanese": "ネブラスカ州（NE）"
+    },
+    {
+      "english": "near",
+      "japanese": "近くの／近い"
+    },
+    {
+      "english": "nearly",
+      "japanese": "ほとんど"
+    },
+    {
+      "english": "necessary",
+      "japanese": "必要な"
+    },
+    {
+      "english": "needed",
+      "japanese": "必要とされた"
+    },
+    {
+      "english": "networking",
+      "japanese": "ネットワーキング／人脈づくり"
+    },
+    {
+      "english": "networks",
+      "japanese": "ネットワーク（複数）"
+    },
+    {
+      "english": "newsletter",
+      "japanese": "ニュースレター"
+    },
+    {
+      "english": "newsletters",
+      "japanese": "ニュースレター（複数）"
+    },
+    {
+      "english": "nice",
+      "japanese": "すてきな"
+    },
+    {
+      "english": "nj",
+      "japanese": "ニュージャージー州（NJ）"
+    },
+    {
+      "english": "nokia",
+      "japanese": "ノキア"
+    },
+    {
+      "english": "none",
+      "japanese": "何もない／一つもない"
+    },
+    {
+      "english": "nor",
+      "japanese": "～もまた～ない"
+    },
+    {
+      "english": "normal",
+      "japanese": "ンオルムアル"
+    },
+    {
+      "english": "northern",
+      "japanese": "ンオルスエルン"
+    },
+    {
+      "english": "notes",
+      "japanese": "～でない（複数）"
+    },
+    {
+      "english": "nothing",
+      "japanese": "ンオスイング"
+    },
+    {
+      "english": "nuclear",
+      "japanese": "ンウクルエアル"
+    },
+    {
+      "english": "nude",
+      "japanese": "ンウドエ"
+    },
+    {
+      "english": "numbers",
+      "japanese": "ンウムブエルス"
+    },
+    {
+      "english": "nursing",
+      "japanese": "ンウルスイング"
+    },
+    {
+      "english": "ny",
+      "japanese": "ンイ"
+    },
+    {
+      "english": "object",
+      "japanese": "オブジエクト"
+    },
+    {
+      "english": "objects",
+      "japanese": "オブジエクトス"
+    },
+    {
+      "english": "obtained",
+      "japanese": "オブトアインエド"
+    },
+    {
+      "english": "ocean",
+      "japanese": "オクエアン"
+    },
+    {
+      "english": "offered",
+      "japanese": "オフフエルエド"
+    },
+    {
+      "english": "offering",
+      "japanese": "オフフエルイング"
+    },
+    {
+      "english": "officer",
+      "japanese": "オフフイクエル"
+    },
+    {
+      "english": "official",
+      "japanese": "オフフイクイアル"
+    },
+    {
+      "english": "often",
+      "japanese": "オフトエン"
+    },
+    {
+      "english": "oh",
+      "japanese": "オハ"
+    },
+    {
+      "english": "ohio",
+      "japanese": "オハイオ"
+    },
+    {
+      "english": "oil",
+      "japanese": "オイル"
+    },
+    {
+      "english": "ok",
+      "japanese": "オク"
+    },
+    {
+      "english": "older",
+      "japanese": "オルドエル"
+    },
+    {
+      "english": "ones",
+      "japanese": "～の上に（複数）"
+    },
+    {
+      "english": "ontario",
+      "japanese": "オントアルイオ"
+    },
+    {
+      "english": "opening",
+      "japanese": "開ける（進行）"
+    },
+    {
+      "english": "operating",
+      "japanese": "オプエルアトイング"
+    },
+    {
+      "english": "operation",
+      "japanese": "オプエルアション"
+    },
+    {
+      "english": "operations",
+      "japanese": "オプエルアションス"
+    },
+    {
+      "english": "opinion",
+      "japanese": "オプインイオン"
+    },
+    {
+      "english": "opinions",
+      "japanese": "オプインイオンス"
+    },
+    {
+      "english": "opportunities",
+      "japanese": "オププオルトウンイトイエス"
+    },
+    {
+      "english": "opportunity",
+      "japanese": "オププオルトウンイトイ"
+    },
+    {
+      "english": "option",
+      "japanese": "オプション"
+    },
+    {
+      "english": "optional",
+      "japanese": "オプションアル"
+    },
+    {
+      "english": "oral",
+      "japanese": "オルアル"
+    },
+    {
+      "english": "orange",
+      "japanese": "オレンジ"
+    },
+    {
+      "english": "orders",
+      "japanese": "オルドエルス"
+    },
+    {
+      "english": "oregon",
+      "japanese": "オルエグオン"
+    },
+    {
+      "english": "organization",
+      "japanese": "オルグアンイズアション"
+    },
+    {
+      "english": "organizations",
+      "japanese": "オルグアンイズアションス"
+    },
+    {
+      "english": "origin",
+      "japanese": "オルイグイン"
+    },
+    {
+      "english": "os",
+      "japanese": "オス"
+    },
+    {
+      "english": "otherwise",
+      "japanese": "オスエルウイスエ"
+    },
+    {
+      "english": "outdoor",
+      "japanese": "オウトドオオル"
+    },
+    {
+      "english": "output",
+      "japanese": "オウトプウト"
+    },
+    {
+      "english": "outside",
+      "japanese": "オウトスイドエ"
+    },
+    {
+      "english": "overall",
+      "japanese": "オヴエルアルル"
+    },
+    {
+      "english": "overview",
+      "japanese": "オヴエルヴイエウ"
+    },
+    {
+      "english": "owned",
+      "japanese": "オウンエド"
+    },
+    {
+      "english": "owner",
+      "japanese": "オウンエル"
+    },
+    {
+      "english": "owners",
+      "japanese": "所有者（複数）"
+    }
+  ]
+}

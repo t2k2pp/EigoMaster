@@ -1,0 +1,565 @@
+{
+  "name": "小学生 S-U",
+  "words": [
+    {
+      "english": "safety",
+      "japanese": "安全"
+    },
+    {
+      "english": "said",
+      "japanese": "言った"
+    },
+    {
+      "english": "sale",
+      "japanese": "販売／特売"
+    },
+    {
+      "english": "sales",
+      "japanese": "売上（複数）"
+    },
+    {
+      "english": "same",
+      "japanese": "同じ"
+    },
+    {
+      "english": "san",
+      "japanese": "サン（地名接頭）"
+    },
+    {
+      "english": "save",
+      "japanese": "保存する／救う"
+    },
+    {
+      "english": "say",
+      "japanese": "言う"
+    },
+    {
+      "english": "school",
+      "japanese": "がっこう"
+    },
+    {
+      "english": "schools",
+      "japanese": "学校（複数）"
+    },
+    {
+      "english": "science",
+      "japanese": "科学"
+    },
+    {
+      "english": "search",
+      "japanese": "検索する"
+    },
+    {
+      "english": "second",
+      "japanese": "2番目／秒"
+    },
+    {
+      "english": "section",
+      "japanese": "区分／節"
+    },
+    {
+      "english": "security",
+      "japanese": "安全／警備"
+    },
+    {
+      "english": "see",
+      "japanese": "見る"
+    },
+    {
+      "english": "select",
+      "japanese": "選ぶ"
+    },
+    {
+      "english": "self",
+      "japanese": "スエルフ"
+    },
+    {
+      "english": "sell",
+      "japanese": "売る"
+    },
+    {
+      "english": "seller",
+      "japanese": "売り手"
+    },
+    {
+      "english": "send",
+      "japanese": "送る"
+    },
+    {
+      "english": "september",
+      "japanese": "9月"
+    },
+    {
+      "english": "series",
+      "japanese": "シリーズ"
+    },
+    {
+      "english": "server",
+      "japanese": "サーバー"
+    },
+    {
+      "english": "service",
+      "japanese": "サービス"
+    },
+    {
+      "english": "services",
+      "japanese": "サービス（複数）"
+    },
+    {
+      "english": "set",
+      "japanese": "設定する／置く"
+    },
+    {
+      "english": "sex",
+      "japanese": "性／性別"
+    },
+    {
+      "english": "shall",
+      "japanese": "～しましょう／～するものとする"
+    },
+    {
+      "english": "share",
+      "japanese": "共有する"
+    },
+    {
+      "english": "she",
+      "japanese": "かのじょ"
+    },
+    {
+      "english": "shipping",
+      "japanese": "発送／送料"
+    },
+    {
+      "english": "shop",
+      "japanese": "店／買い物をする"
+    },
+    {
+      "english": "shopping",
+      "japanese": "買い物"
+    },
+    {
+      "english": "should",
+      "japanese": "～すべき"
+    },
+    {
+      "english": "show",
+      "japanese": "見せる"
+    },
+    {
+      "english": "side",
+      "japanese": "側"
+    },
+    {
+      "english": "sign",
+      "japanese": "表示／署名する"
+    },
+    {
+      "english": "similar",
+      "japanese": "似ている"
+    },
+    {
+      "english": "since",
+      "japanese": "～以来／～なので"
+    },
+    {
+      "english": "single",
+      "japanese": "一つの／独身の"
+    },
+    {
+      "english": "site",
+      "japanese": "サイト"
+    },
+    {
+      "english": "sites",
+      "japanese": "サイト（複数）"
+    },
+    {
+      "english": "size",
+      "japanese": "大きさ／サイズ"
+    },
+    {
+      "english": "small",
+      "japanese": "小さい"
+    },
+    {
+      "english": "so",
+      "japanese": "だから"
+    },
+    {
+      "english": "social",
+      "japanese": "社会の／社交の"
+    },
+    {
+      "english": "society",
+      "japanese": "社会"
+    },
+    {
+      "english": "software",
+      "japanese": "ソフトウェア"
+    },
+    {
+      "english": "some",
+      "japanese": "いくつかの"
+    },
+    {
+      "english": "something",
+      "japanese": "何か"
+    },
+    {
+      "english": "source",
+      "japanese": "源／出典"
+    },
+    {
+      "english": "south",
+      "japanese": "南"
+    },
+    {
+      "english": "space",
+      "japanese": "空間／宇宙"
+    },
+    {
+      "english": "special",
+      "japanese": "特別な"
+    },
+    {
+      "english": "sports",
+      "japanese": "スポーツ（複数）"
+    },
+    {
+      "english": "staff",
+      "japanese": "職員"
+    },
+    {
+      "english": "standard",
+      "japanese": "標準"
+    },
+    {
+      "english": "star",
+      "japanese": "星／スター"
+    },
+    {
+      "english": "start",
+      "japanese": "始める"
+    },
+    {
+      "english": "state",
+      "japanese": "状態／州"
+    },
+    {
+      "english": "states",
+      "japanese": "州（複数）"
+    },
+    {
+      "english": "status",
+      "japanese": "状態／ステータス"
+    },
+    {
+      "english": "still",
+      "japanese": "まだ／静止した"
+    },
+    {
+      "english": "stock",
+      "japanese": "在庫／株式"
+    },
+    {
+      "english": "store",
+      "japanese": "店"
+    },
+    {
+      "english": "stores",
+      "japanese": "店（複数）"
+    },
+    {
+      "english": "stories",
+      "japanese": "物語（複数）"
+    },
+    {
+      "english": "story",
+      "japanese": "物語"
+    },
+    {
+      "english": "street",
+      "japanese": "通り"
+    },
+    {
+      "english": "student",
+      "japanese": "せいと"
+    },
+    {
+      "english": "students",
+      "japanese": "生徒（三単現／複数）"
+    },
+    {
+      "english": "study",
+      "japanese": "べんきょうする"
+    },
+    {
+      "english": "subject",
+      "japanese": "教科"
+    },
+    {
+      "english": "such",
+      "japanese": "そのような"
+    },
+    {
+      "english": "sun",
+      "japanese": "太陽"
+    },
+    {
+      "english": "support",
+      "japanese": "支援する／支持"
+    },
+    {
+      "english": "sure",
+      "japanese": "確かな／もちろん"
+    },
+    {
+      "english": "system",
+      "japanese": "システム"
+    },
+    {
+      "english": "systems",
+      "japanese": "システム（複数）"
+    },
+    {
+      "english": "table",
+      "japanese": "表／テーブル"
+    },
+    {
+      "english": "take",
+      "japanese": "取る"
+    },
+    {
+      "english": "tax",
+      "japanese": "トアクス"
+    },
+    {
+      "english": "team",
+      "japanese": "トエアム"
+    },
+    {
+      "english": "technology",
+      "japanese": "トエチンオルオグイ"
+    },
+    {
+      "english": "teen",
+      "japanese": "トエエン"
+    },
+    {
+      "english": "tell",
+      "japanese": "伝える"
+    },
+    {
+      "english": "term",
+      "japanese": "トエルム"
+    },
+    {
+      "english": "terms",
+      "japanese": "トエルムス"
+    },
+    {
+      "english": "test",
+      "japanese": "トエスト"
+    },
+    {
+      "english": "texas",
+      "japanese": "トエクスアス"
+    },
+    {
+      "english": "text",
+      "japanese": "トエクスト"
+    },
+    {
+      "english": "than",
+      "japanese": "スアン"
+    },
+    {
+      "english": "that",
+      "japanese": "その"
+    },
+    {
+      "english": "the",
+      "japanese": "（定冠詞）"
+    },
+    {
+      "english": "their",
+      "japanese": "スエイル"
+    },
+    {
+      "english": "them",
+      "japanese": "スエム"
+    },
+    {
+      "english": "then",
+      "japanese": "それから"
+    },
+    {
+      "english": "there",
+      "japanese": "そこに"
+    },
+    {
+      "english": "these",
+      "japanese": "これら"
+    },
+    {
+      "english": "they",
+      "japanese": "かれら"
+    },
+    {
+      "english": "things",
+      "japanese": "スイングス"
+    },
+    {
+      "english": "think",
+      "japanese": "考える"
+    },
+    {
+      "english": "this",
+      "japanese": "この"
+    },
+    {
+      "english": "those",
+      "japanese": "それら"
+    },
+    {
+      "english": "thread",
+      "japanese": "糸／スレッド"
+    },
+    {
+      "english": "three",
+      "japanese": "三"
+    },
+    {
+      "english": "through",
+      "japanese": "～を通って"
+    },
+    {
+      "english": "time",
+      "japanese": "時間"
+    },
+    {
+      "english": "times",
+      "japanese": "時間（三単現／複数）"
+    },
+    {
+      "english": "title",
+      "japanese": "題名／タイトル"
+    },
+    {
+      "english": "to",
+      "japanese": "～へ／～する"
+    },
+    {
+      "english": "today",
+      "japanese": "今日"
+    },
+    {
+      "english": "too",
+      "japanese": "～も／あまりにも"
+    },
+    {
+      "english": "tools",
+      "japanese": "道具（複数）"
+    },
+    {
+      "english": "top",
+      "japanese": "上部／トップ"
+    },
+    {
+      "english": "topic",
+      "japanese": "話題／トピック"
+    },
+    {
+      "english": "total",
+      "japanese": "合計"
+    },
+    {
+      "english": "track",
+      "japanese": "跡／追跡する"
+    },
+    {
+      "english": "trade",
+      "japanese": "貿易／取引"
+    },
+    {
+      "english": "training",
+      "japanese": "訓練／トレーニング"
+    },
+    {
+      "english": "travel",
+      "japanese": "旅行"
+    },
+    {
+      "english": "try",
+      "japanese": "試みる"
+    },
+    {
+      "english": "tv",
+      "japanese": "テレビ"
+    },
+    {
+      "english": "two",
+      "japanese": "二"
+    },
+    {
+      "english": "type",
+      "japanese": "種類／タイプ"
+    },
+    {
+      "english": "uk",
+      "japanese": "英国（略）"
+    },
+    {
+      "english": "under",
+      "japanese": "～の下に"
+    },
+    {
+      "english": "united",
+      "japanese": "連合した／合衆"
+    },
+    {
+      "english": "university",
+      "japanese": "大学"
+    },
+    {
+      "english": "until",
+      "japanese": "～まで"
+    },
+    {
+      "english": "up",
+      "japanese": "上へ"
+    },
+    {
+      "english": "updated",
+      "japanese": "更新された"
+    },
+    {
+      "english": "us",
+      "japanese": "わたしたちを／に"
+    },
+    {
+      "english": "usa",
+      "japanese": "アメリカ合衆国（略）"
+    },
+    {
+      "english": "use",
+      "japanese": "使う"
+    },
+    {
+      "english": "used",
+      "japanese": "使った／中古の"
+    },
+    {
+      "english": "user",
+      "japanese": "ユーザー"
+    },
+    {
+      "english": "users",
+      "japanese": "ユーザー（複数）"
+    },
+    {
+      "english": "using",
+      "japanese": "使って"
+    }
+  ]
+}

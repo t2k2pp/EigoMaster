@@ -1,0 +1,413 @@
+{
+  "name": "中学生 V-Z",
+  "words": [
+    {
+      "english": "va",
+      "japanese": "バージニア州（VA）／退役軍人局（VA）"
+    },
+    {
+      "english": "vacation",
+      "japanese": "休暇"
+    },
+    {
+      "english": "valid",
+      "japanese": "有効な"
+    },
+    {
+      "english": "valley",
+      "japanese": "谷"
+    },
+    {
+      "english": "values",
+      "japanese": "価値（複数）／値（複数）"
+    },
+    {
+      "english": "van",
+      "japanese": "バン"
+    },
+    {
+      "english": "variable",
+      "japanese": "変数／変わりやすい"
+    },
+    {
+      "english": "variety",
+      "japanese": "多様性／種類"
+    },
+    {
+      "english": "various",
+      "japanese": "さまざまな"
+    },
+    {
+      "english": "vegas",
+      "japanese": "ベガス（ラスベガス）"
+    },
+    {
+      "english": "vehicle",
+      "japanese": "車両／乗り物"
+    },
+    {
+      "english": "vehicles",
+      "japanese": "車両（複数）"
+    },
+    {
+      "english": "vhs",
+      "japanese": "VHS"
+    },
+    {
+      "english": "via",
+      "japanese": "経由で"
+    },
+    {
+      "english": "vice",
+      "japanese": "副～／悪徳"
+    },
+    {
+      "english": "videos",
+      "japanese": "動画（複数）／ビデオ（複数）"
+    },
+    {
+      "english": "viewed",
+      "japanese": "見られた／閲覧された"
+    },
+    {
+      "english": "views",
+      "japanese": "見解（複数）／景色（複数）"
+    },
+    {
+      "english": "village",
+      "japanese": "村"
+    },
+    {
+      "english": "vintage",
+      "japanese": "年代物の／ワインの年号"
+    },
+    {
+      "english": "virginia",
+      "japanese": "バージニア"
+    },
+    {
+      "english": "virtual",
+      "japanese": "仮想の"
+    },
+    {
+      "english": "virus",
+      "japanese": "ウイルス"
+    },
+    {
+      "english": "vision",
+      "japanese": "視力／構想"
+    },
+    {
+      "english": "visitors",
+      "japanese": "訪問者（複数）"
+    },
+    {
+      "english": "visual",
+      "japanese": "視覚の／ビジュアル"
+    },
+    {
+      "english": "voice",
+      "japanese": "声"
+    },
+    {
+      "english": "void",
+      "japanese": "無効の／空所"
+    },
+    {
+      "english": "vol",
+      "japanese": "巻（Vol.）／体積（vol）"
+    },
+    {
+      "english": "volume",
+      "japanese": "体積／音量／巻"
+    },
+    {
+      "english": "vote",
+      "japanese": "投票する／票"
+    },
+    {
+      "english": "votes",
+      "japanese": "ヴオトエス"
+    },
+    {
+      "english": "vs",
+      "japanese": "ヴス"
+    },
+    {
+      "english": "wa",
+      "japanese": "ウア"
+    },
+    {
+      "english": "wait",
+      "japanese": "ウアイト"
+    },
+    {
+      "english": "walk",
+      "japanese": "歩く"
+    },
+    {
+      "english": "wall",
+      "japanese": "ウアルル"
+    },
+    {
+      "english": "wanted",
+      "japanese": "ウアントエド"
+    },
+    {
+      "english": "wants",
+      "japanese": "ウアントス"
+    },
+    {
+      "english": "warning",
+      "japanese": "ウアルンイング"
+    },
+    {
+      "english": "warranty",
+      "japanese": "ウアルルアントイ"
+    },
+    {
+      "english": "waste",
+      "japanese": "ウアストエ"
+    },
+    {
+      "english": "watch",
+      "japanese": "見る"
+    },
+    {
+      "english": "watches",
+      "japanese": "見る（複数）"
+    },
+    {
+      "english": "ways",
+      "japanese": "ウアイス"
+    },
+    {
+      "english": "weather",
+      "japanese": "ウエアスエル"
+    },
+    {
+      "english": "websites",
+      "japanese": "ウエブスイトエス"
+    },
+    {
+      "english": "wed",
+      "japanese": "ウエド"
+    },
+    {
+      "english": "wedding",
+      "japanese": "ウエドドイング"
+    },
+    {
+      "english": "wednesday",
+      "japanese": "ウエドンエスドアイ"
+    },
+    {
+      "english": "weekend",
+      "japanese": "ウエエクエンド"
+    },
+    {
+      "english": "weekly",
+      "japanese": "ウエエクルイ"
+    },
+    {
+      "english": "weeks",
+      "japanese": "ウエエクス"
+    },
+    {
+      "english": "weight",
+      "japanese": "ウエイグハト"
+    },
+    {
+      "english": "went",
+      "japanese": "ウエント"
+    },
+    {
+      "english": "western",
+      "japanese": "ウエストエルン"
+    },
+    {
+      "english": "whatever",
+      "japanese": "ウハアトエヴエル"
+    },
+    {
+      "english": "whether",
+      "japanese": "ウハエスエル"
+    },
+    {
+      "english": "whole",
+      "japanese": "ウハオルエ"
+    },
+    {
+      "english": "wholesale",
+      "japanese": "ウハオルエスアルエ"
+    },
+    {
+      "english": "whose",
+      "japanese": "ウハオスエ"
+    },
+    {
+      "english": "wi",
+      "japanese": "ウイ"
+    },
+    {
+      "english": "wide",
+      "japanese": "ウイドエ"
+    },
+    {
+      "english": "wife",
+      "japanese": "ウイフエ"
+    },
+    {
+      "english": "wild",
+      "japanese": "ウイルド"
+    },
+    {
+      "english": "william",
+      "japanese": "ウイルルイアム"
+    },
+    {
+      "english": "williams",
+      "japanese": "ウイルルイアムス"
+    },
+    {
+      "english": "win",
+      "japanese": "ウイン"
+    },
+    {
+      "english": "wind",
+      "japanese": "ウインド"
+    },
+    {
+      "english": "window",
+      "japanese": "まど"
+    },
+    {
+      "english": "wine",
+      "japanese": "ウインエ"
+    },
+    {
+      "english": "winning",
+      "japanese": "ウインンイング"
+    },
+    {
+      "english": "winter",
+      "japanese": "ウイントエル"
+    },
+    {
+      "english": "wireless",
+      "japanese": "ウイルエルエスス"
+    },
+    {
+      "english": "wisconsin",
+      "japanese": "ウイスクオンスイン"
+    },
+    {
+      "english": "wish",
+      "japanese": "ウイシ"
+    },
+    {
+      "english": "woman",
+      "japanese": "女"
+    },
+    {
+      "english": "wood",
+      "japanese": "ウオオド"
+    },
+    {
+      "english": "word",
+      "japanese": "ウオルド"
+    },
+    {
+      "english": "words",
+      "japanese": "ウオルドス"
+    },
+    {
+      "english": "worked",
+      "japanese": "ウオルクエド"
+    },
+    {
+      "english": "workers",
+      "japanese": "ウオルクエルス"
+    },
+    {
+      "english": "works",
+      "japanese": "ウオルクス"
+    },
+    {
+      "english": "workshop",
+      "japanese": "ウオルクシオプ"
+    },
+    {
+      "english": "worldwide",
+      "japanese": "ウオルルドウイドエ"
+    },
+    {
+      "english": "worth",
+      "japanese": "ウオルス"
+    },
+    {
+      "english": "writing",
+      "japanese": "ウルイトイング"
+    },
+    {
+      "english": "written",
+      "japanese": "ウルイトトエン"
+    },
+    {
+      "english": "wrong",
+      "japanese": "ウルオング"
+    },
+    {
+      "english": "wrote",
+      "japanese": "ウルオトエ"
+    },
+    {
+      "english": "www",
+      "japanese": "ウウウ"
+    },
+    {
+      "english": "xbox",
+      "japanese": "クスブオクス"
+    },
+    {
+      "english": "xml",
+      "japanese": "クスムル"
+    },
+    {
+      "english": "xp",
+      "japanese": "クスプ"
+    },
+    {
+      "english": "xxx",
+      "japanese": "クスクスクス"
+    },
+    {
+      "english": "yellow",
+      "japanese": "黄"
+    },
+    {
+      "english": "yesterday",
+      "japanese": "イエストエルドアイ"
+    },
+    {
+      "english": "yourself",
+      "japanese": "イオウルスエルフ"
+    },
+    {
+      "english": "youth",
+      "japanese": "イオウス"
+    },
+    {
+      "english": "zealand",
+      "japanese": "ズエアルアンド"
+    },
+    {
+      "english": "zip",
+      "japanese": "ズイプ"
+    },
+    {
+      "english": "zone",
+      "japanese": "区域／ゾーン"
+    }
+  ]
+}

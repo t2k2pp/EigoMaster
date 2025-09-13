@@ -1,0 +1,341 @@
+{
+  "name": "小学生 M-O",
+  "words": [
+    {
+      "english": "made",
+      "japanese": "作った"
+    },
+    {
+      "english": "mail",
+      "japanese": "郵便／メール"
+    },
+    {
+      "english": "main",
+      "japanese": "主な"
+    },
+    {
+      "english": "major",
+      "japanese": "主要な／専攻"
+    },
+    {
+      "english": "make",
+      "japanese": "作る"
+    },
+    {
+      "english": "making",
+      "japanese": "作っている"
+    },
+    {
+      "english": "man",
+      "japanese": "男"
+    },
+    {
+      "english": "management",
+      "japanese": "経営／管理"
+    },
+    {
+      "english": "many",
+      "japanese": "たくさんの"
+    },
+    {
+      "english": "map",
+      "japanese": "地図"
+    },
+    {
+      "english": "march",
+      "japanese": "3月"
+    },
+    {
+      "english": "market",
+      "japanese": "市場"
+    },
+    {
+      "english": "marketing",
+      "japanese": "マーケティング"
+    },
+    {
+      "english": "may",
+      "japanese": "5月"
+    },
+    {
+      "english": "me",
+      "japanese": "わたしを／に"
+    },
+    {
+      "english": "media",
+      "japanese": "メディア"
+    },
+    {
+      "english": "medical",
+      "japanese": "医療の"
+    },
+    {
+      "english": "meeting",
+      "japanese": "会議"
+    },
+    {
+      "english": "member",
+      "japanese": "メンバー"
+    },
+    {
+      "english": "members",
+      "japanese": "メンバー（複数）"
+    },
+    {
+      "english": "memory",
+      "japanese": "記憶"
+    },
+    {
+      "english": "men",
+      "japanese": "男性（複数）"
+    },
+    {
+      "english": "message",
+      "japanese": "メッセージ"
+    },
+    {
+      "english": "messages",
+      "japanese": "メッセージ（複数）"
+    },
+    {
+      "english": "might",
+      "japanese": "～かもしれない"
+    },
+    {
+      "english": "million",
+      "japanese": "100万"
+    },
+    {
+      "english": "mobile",
+      "japanese": "携帯の／モバイル"
+    },
+    {
+      "english": "model",
+      "japanese": "模型／型"
+    },
+    {
+      "english": "money",
+      "japanese": "お金"
+    },
+    {
+      "english": "month",
+      "japanese": "月"
+    },
+    {
+      "english": "months",
+      "japanese": "月（複数）"
+    },
+    {
+      "english": "more",
+      "japanese": "もっと"
+    },
+    {
+      "english": "most",
+      "japanese": "最も"
+    },
+    {
+      "english": "movie",
+      "japanese": "映画"
+    },
+    {
+      "english": "movies",
+      "japanese": "映画（複数）"
+    },
+    {
+      "english": "much",
+      "japanese": "たくさん"
+    },
+    {
+      "english": "music",
+      "japanese": "音楽"
+    },
+    {
+      "english": "must",
+      "japanese": "～しなければならない"
+    },
+    {
+      "english": "my",
+      "japanese": "わたしの"
+    },
+    {
+      "english": "name",
+      "japanese": "名前"
+    },
+    {
+      "english": "national",
+      "japanese": "国の／国家の"
+    },
+    {
+      "english": "need",
+      "japanese": "必要とする"
+    },
+    {
+      "english": "needs",
+      "japanese": "必要とする（三単現／複数）"
+    },
+    {
+      "english": "net",
+      "japanese": "ネット"
+    },
+    {
+      "english": "network",
+      "japanese": "ネットワーク"
+    },
+    {
+      "english": "never",
+      "japanese": "決して～ない"
+    },
+    {
+      "english": "new",
+      "japanese": "新しい"
+    },
+    {
+      "english": "news",
+      "japanese": "ニュース"
+    },
+    {
+      "english": "next",
+      "japanese": "次の"
+    },
+    {
+      "english": "night",
+      "japanese": "夜"
+    },
+    {
+      "english": "no",
+      "japanese": "いいえ／～でない"
+    },
+    {
+      "english": "non",
+      "japanese": "非～"
+    },
+    {
+      "english": "north",
+      "japanese": "北"
+    },
+    {
+      "english": "not",
+      "japanese": "～でない"
+    },
+    {
+      "english": "note",
+      "japanese": "メモ／注意"
+    },
+    {
+      "english": "notice",
+      "japanese": "通知／掲示"
+    },
+    {
+      "english": "nov",
+      "japanese": "11月（略）"
+    },
+    {
+      "english": "november",
+      "japanese": "11月"
+    },
+    {
+      "english": "now",
+      "japanese": "今"
+    },
+    {
+      "english": "number",
+      "japanese": "数字／番号"
+    },
+    {
+      "english": "oct",
+      "japanese": "10月（略）"
+    },
+    {
+      "english": "october",
+      "japanese": "10月"
+    },
+    {
+      "english": "of",
+      "japanese": "～の"
+    },
+    {
+      "english": "off",
+      "japanese": "オフ／離れて"
+    },
+    {
+      "english": "offer",
+      "japanese": "申し出る／提供する"
+    },
+    {
+      "english": "offers",
+      "japanese": "申し出（複数）"
+    },
+    {
+      "english": "office",
+      "japanese": "事務所"
+    },
+    {
+      "english": "old",
+      "japanese": "古い"
+    },
+    {
+      "english": "on",
+      "japanese": "～の上に"
+    },
+    {
+      "english": "once",
+      "japanese": "一度"
+    },
+    {
+      "english": "one",
+      "japanese": "一"
+    },
+    {
+      "english": "online",
+      "japanese": "オンライン"
+    },
+    {
+      "english": "only",
+      "japanese": "だけ／唯一の"
+    },
+    {
+      "english": "open",
+      "japanese": "開ける"
+    },
+    {
+      "english": "options",
+      "japanese": "オプション（複数）"
+    },
+    {
+      "english": "or",
+      "japanese": "または"
+    },
+    {
+      "english": "order",
+      "japanese": "注文／順序"
+    },
+    {
+      "english": "original",
+      "japanese": "元の／オリジナル"
+    },
+    {
+      "english": "other",
+      "japanese": "ほかの"
+    },
+    {
+      "english": "others",
+      "japanese": "ほかの人々"
+    },
+    {
+      "english": "our",
+      "japanese": "わたしたちの"
+    },
+    {
+      "english": "out",
+      "japanese": "外へ"
+    },
+    {
+      "english": "over",
+      "japanese": "～の上に"
+    },
+    {
+      "english": "own",
+      "japanese": "自分の"
+    }
+  ]
+}

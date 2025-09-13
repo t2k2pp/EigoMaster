@@ -1,0 +1,1573 @@
+{
+  "name": "高校生 P-R",
+  "words": [
+    {
+      "english": "packaging",
+      "japanese": "包装／パッケージング"
+    },
+    {
+      "english": "packet",
+      "japanese": "パケット"
+    },
+    {
+      "english": "pad",
+      "japanese": "パッド／下敷き"
+    },
+    {
+      "english": "paint",
+      "japanese": "塗る／塗料"
+    },
+    {
+      "english": "painting",
+      "japanese": "絵画／塗装"
+    },
+    {
+      "english": "pair",
+      "japanese": "一対／ペア"
+    },
+    {
+      "english": "pakistan",
+      "japanese": "パキスタン"
+    },
+    {
+      "english": "palace",
+      "japanese": "宮殿"
+    },
+    {
+      "english": "pan",
+      "japanese": "パン（鍋）"
+    },
+    {
+      "english": "panasonic",
+      "japanese": "パナソニック"
+    },
+    {
+      "english": "pants",
+      "japanese": "ズボン"
+    },
+    {
+      "english": "par",
+      "japanese": "パー（標準打数）"
+    },
+    {
+      "english": "para",
+      "japanese": "傘下／準～（接頭）"
+    },
+    {
+      "english": "paradise",
+      "japanese": "楽園"
+    },
+    {
+      "english": "paragraph",
+      "japanese": "段落"
+    },
+    {
+      "english": "parallel",
+      "japanese": "平行な／類似の"
+    },
+    {
+      "english": "parameter",
+      "japanese": "パラメータ"
+    },
+    {
+      "english": "parameters",
+      "japanese": "パラメータ（複数）"
+    },
+    {
+      "english": "parks",
+      "japanese": "公園（複数）"
+    },
+    {
+      "english": "parliament",
+      "japanese": "議会"
+    },
+    {
+      "english": "partial",
+      "japanese": "部分的な"
+    },
+    {
+      "english": "participants",
+      "japanese": "参加者（複数）"
+    },
+    {
+      "english": "participate",
+      "japanese": "参加する"
+    },
+    {
+      "english": "participating",
+      "japanese": "参加している"
+    },
+    {
+      "english": "participation",
+      "japanese": "参加"
+    },
+    {
+      "english": "partly",
+      "japanese": "部分的に"
+    },
+    {
+      "english": "partnership",
+      "japanese": "提携／協同"
+    },
+    {
+      "english": "passing",
+      "japanese": "通過／合格"
+    },
+    {
+      "english": "passion",
+      "japanese": "情熱"
+    },
+    {
+      "english": "pat",
+      "japanese": "軽くたたく"
+    },
+    {
+      "english": "patches",
+      "japanese": "パッチ（複数）"
+    },
+    {
+      "english": "patent",
+      "japanese": "特許"
+    },
+    {
+      "english": "patrick",
+      "japanese": "パトリック（人名）"
+    },
+    {
+      "english": "patterns",
+      "japanese": "型／傾向（複数）"
+    },
+    {
+      "english": "paying",
+      "japanese": "支払っている"
+    },
+    {
+      "english": "pci",
+      "japanese": "プクイ"
+    },
+    {
+      "english": "pcs",
+      "japanese": "プクス"
+    },
+    {
+      "english": "pda",
+      "japanese": "プドア"
+    },
+    {
+      "english": "pdas",
+      "japanese": "プドアス"
+    },
+    {
+      "english": "pdt",
+      "japanese": "プドト"
+    },
+    {
+      "english": "peak",
+      "japanese": "プエアク"
+    },
+    {
+      "english": "pearl",
+      "japanese": "プエアルル"
+    },
+    {
+      "english": "peer",
+      "japanese": "プエエル"
+    },
+    {
+      "english": "pen",
+      "japanese": "プエン"
+    },
+    {
+      "english": "penalty",
+      "japanese": "プエンアルトイ"
+    },
+    {
+      "english": "penis",
+      "japanese": "プエンイス"
+    },
+    {
+      "english": "pension",
+      "japanese": "プエンション"
+    },
+    {
+      "english": "percentage",
+      "japanese": "プエルクエントアグエ"
+    },
+    {
+      "english": "perform",
+      "japanese": "プエルフオルム"
+    },
+    {
+      "english": "performed",
+      "japanese": "プエルフオルムエド"
+    },
+    {
+      "english": "performing",
+      "japanese": "プエルフオルムイング"
+    },
+    {
+      "english": "periods",
+      "japanese": "プエルイオドス"
+    },
+    {
+      "english": "perl",
+      "japanese": "プエルル"
+    },
+    {
+      "english": "permalink",
+      "japanese": "プエルムアルインク"
+    },
+    {
+      "english": "permanent",
+      "japanese": "プエルムアンエント"
+    },
+    {
+      "english": "permit",
+      "japanese": "プエルムイト"
+    },
+    {
+      "english": "permitted",
+      "japanese": "プエルムイトトエド"
+    },
+    {
+      "english": "personally",
+      "japanese": "プエルスオンアルルイ"
+    },
+    {
+      "english": "personals",
+      "japanese": "プエルスオンアルス"
+    },
+    {
+      "english": "perspective",
+      "japanese": "プエルスプエクトイヴエ"
+    },
+    {
+      "english": "pets",
+      "japanese": "プエトス"
+    },
+    {
+      "english": "pg",
+      "japanese": "プグ"
+    },
+    {
+      "english": "ph",
+      "japanese": "フ"
+    },
+    {
+      "english": "pharmacy",
+      "japanese": "フアルムアクイ"
+    },
+    {
+      "english": "phil",
+      "japanese": "フイル"
+    },
+    {
+      "english": "philadelphia",
+      "japanese": "フイルアドエルフイア"
+    },
+    {
+      "english": "philippines",
+      "japanese": "フイルイププインエス"
+    },
+    {
+      "english": "philips",
+      "japanese": "フイルイプス"
+    },
+    {
+      "english": "philosophy",
+      "japanese": "フイルオスオフイ"
+    },
+    {
+      "english": "phoenix",
+      "japanese": "フオエンイクス"
+    },
+    {
+      "english": "photographs",
+      "japanese": "フオトオグルアフス"
+    },
+    {
+      "english": "phrase",
+      "japanese": "フルアスエ"
+    },
+    {
+      "english": "physician",
+      "japanese": "フイスイクイアン"
+    },
+    {
+      "english": "physicians",
+      "japanese": "フイスイクイアンス"
+    },
+    {
+      "english": "physics",
+      "japanese": "フイスイクス"
+    },
+    {
+      "english": "piano",
+      "japanese": "プイアンオ"
+    },
+    {
+      "english": "picks",
+      "japanese": "プイックス"
+    },
+    {
+      "english": "pieces",
+      "japanese": "プイエクエス"
+    },
+    {
+      "english": "pills",
+      "japanese": "プイルルス"
+    },
+    {
+      "english": "pilot",
+      "japanese": "プイルオト"
+    },
+    {
+      "english": "pin",
+      "japanese": "プイン"
+    },
+    {
+      "english": "pine",
+      "japanese": "プインエ"
+    },
+    {
+      "english": "pioneer",
+      "japanese": "プイオンエエル"
+    },
+    {
+      "english": "pipe",
+      "japanese": "プイプエ"
+    },
+    {
+      "english": "pipeline",
+      "japanese": "プイプエルインエ"
+    },
+    {
+      "english": "pittsburgh",
+      "japanese": "プイトトスブウルグハ"
+    },
+    {
+      "english": "pizza",
+      "japanese": "プイズズア"
+    },
+    {
+      "english": "pl",
+      "japanese": "プル"
+    },
+    {
+      "english": "placement",
+      "japanese": "プルアクエムエント"
+    },
+    {
+      "english": "plain",
+      "japanese": "プルアイン"
+    },
+    {
+      "english": "plane",
+      "japanese": "プルアンエ"
+    },
+    {
+      "english": "planet",
+      "japanese": "プルアンエト"
+    },
+    {
+      "english": "planned",
+      "japanese": "プルアンンエド"
+    },
+    {
+      "english": "plasma",
+      "japanese": "プルアスムア"
+    },
+    {
+      "english": "plate",
+      "japanese": "プルアトエ"
+    },
+    {
+      "english": "plates",
+      "japanese": "プルアトエス"
+    },
+    {
+      "english": "platforms",
+      "japanese": "プルアトフオルムス"
+    },
+    {
+      "english": "platinum",
+      "japanese": "プルアトインウム"
+    },
+    {
+      "english": "plays",
+      "japanese": "遊ぶ（三単現／複数）"
+    },
+    {
+      "english": "playstation",
+      "japanese": "プルアイストアション"
+    },
+    {
+      "english": "plaza",
+      "japanese": "プルアズア"
+    },
+    {
+      "english": "pleased",
+      "japanese": "プルエアスエド"
+    },
+    {
+      "english": "pleasure",
+      "japanese": "プルエアジャー"
+    },
+    {
+      "english": "plenty",
+      "japanese": "プルエントイ"
+    },
+    {
+      "english": "plot",
+      "japanese": "プルオト"
+    },
+    {
+      "english": "plug",
+      "japanese": "プルウグ"
+    },
+    {
+      "english": "pmid",
+      "japanese": "プムイド"
+    },
+    {
+      "english": "poetry",
+      "japanese": "プオエトルイ"
+    },
+    {
+      "english": "poland",
+      "japanese": "プオルアンド"
+    },
+    {
+      "english": "polish",
+      "japanese": "プオルイシ"
+    },
+    {
+      "english": "poll",
+      "japanese": "プオルル"
+    },
+    {
+      "english": "polls",
+      "japanese": "プオルルス"
+    },
+    {
+      "english": "pollution",
+      "japanese": "プオルルウション"
+    },
+    {
+      "english": "popularity",
+      "japanese": "プオプウルアルイトイ"
+    },
+    {
+      "english": "portal",
+      "japanese": "プオルトアル"
+    },
+    {
+      "english": "portfolio",
+      "japanese": "プオルトフオルイオ"
+    },
+    {
+      "english": "portion",
+      "japanese": "プオルション"
+    },
+    {
+      "english": "portions",
+      "japanese": "プオルションス"
+    },
+    {
+      "english": "portland",
+      "japanese": "プオルトルアンド"
+    },
+    {
+      "english": "ports",
+      "japanese": "プオルトス"
+    },
+    {
+      "english": "portugal",
+      "japanese": "プオルトウグアル"
+    },
+    {
+      "english": "positions",
+      "japanese": "プオスイションス"
+    },
+    {
+      "english": "possibility",
+      "japanese": "プオススイブイルイトイ"
+    },
+    {
+      "english": "possibly",
+      "japanese": "プオススイブルイ"
+    },
+    {
+      "english": "postage",
+      "japanese": "プオストアグエ"
+    },
+    {
+      "english": "postal",
+      "japanese": "プオストアル"
+    },
+    {
+      "english": "posting",
+      "japanese": "プオストイング"
+    },
+    {
+      "english": "postposted",
+      "japanese": "プオストプオストエド"
+    },
+    {
+      "english": "pot",
+      "japanese": "プオト"
+    },
+    {
+      "english": "potter",
+      "japanese": "プオトトエル"
+    },
+    {
+      "english": "pottery",
+      "japanese": "プオトトエルイ"
+    },
+    {
+      "english": "pound",
+      "japanese": "プオウンド"
+    },
+    {
+      "english": "pounds",
+      "japanese": "プオウンドス"
+    },
+    {
+      "english": "pour",
+      "japanese": "プオウル"
+    },
+    {
+      "english": "poverty",
+      "japanese": "プオヴエルトイ"
+    },
+    {
+      "english": "powers",
+      "japanese": "プオウエルス"
+    },
+    {
+      "english": "pr",
+      "japanese": "プル"
+    },
+    {
+      "english": "practical",
+      "japanese": "プルアクトイクアル"
+    },
+    {
+      "english": "prayer",
+      "japanese": "プルアイエル"
+    },
+    {
+      "english": "precision",
+      "japanese": "プルエクイション"
+    },
+    {
+      "english": "prefer",
+      "japanese": "プルエフエル"
+    },
+    {
+      "english": "preferences",
+      "japanese": "プルエフエルエンクエス"
+    },
+    {
+      "english": "preferred",
+      "japanese": "プルエフエルルエド"
+    },
+    {
+      "english": "pregnancy",
+      "japanese": "プルエグンアンクイ"
+    },
+    {
+      "english": "pregnant",
+      "japanese": "プルエグンアント"
+    },
+    {
+      "english": "preliminary",
+      "japanese": "プルエルイムインアルイ"
+    },
+    {
+      "english": "premier",
+      "japanese": "プルエムイエル"
+    },
+    {
+      "english": "preparation",
+      "japanese": "プルエプアルアション"
+    },
+    {
+      "english": "prepare",
+      "japanese": "プルエプアルエ"
+    },
+    {
+      "english": "prescription",
+      "japanese": "プルエスクルイプション"
+    },
+    {
+      "english": "presence",
+      "japanese": "プルエスエンクエ"
+    },
+    {
+      "english": "presentations",
+      "japanese": "プルエスエントアションス"
+    },
+    {
+      "english": "presents",
+      "japanese": "プルエスエントス"
+    },
+    {
+      "english": "prevention",
+      "japanese": "プルエヴエンション"
+    },
+    {
+      "english": "preview",
+      "japanese": "プルエヴイエウ"
+    },
+    {
+      "english": "previously",
+      "japanese": "プルエヴイオウスルイ"
+    },
+    {
+      "english": "priced",
+      "japanese": "プルイクエド"
+    },
+    {
+      "english": "pride",
+      "japanese": "プルイドエ"
+    },
+    {
+      "english": "primarily",
+      "japanese": "プルイムアルイルイ"
+    },
+    {
+      "english": "prince",
+      "japanese": "プルインクエ"
+    },
+    {
+      "english": "princess",
+      "japanese": "プルインクエスス"
+    },
+    {
+      "english": "principal",
+      "japanese": "プルインクイプアル"
+    },
+    {
+      "english": "principle",
+      "japanese": "プルインクイプルエ"
+    },
+    {
+      "english": "principles",
+      "japanese": "プルインクイプルエス"
+    },
+    {
+      "english": "printable",
+      "japanese": "プルイントアブルエ"
+    },
+    {
+      "english": "printed",
+      "japanese": "プルイントエド"
+    },
+    {
+      "english": "printers",
+      "japanese": "プルイントエルス"
+    },
+    {
+      "english": "prints",
+      "japanese": "プルイントス"
+    },
+    {
+      "english": "prison",
+      "japanese": "プルイスオン"
+    },
+    {
+      "english": "prize",
+      "japanese": "プルイズエ"
+    },
+    {
+      "english": "probability",
+      "japanese": "プルオブアブイルイトイ"
+    },
+    {
+      "english": "proceedings",
+      "japanese": "プルオクエエドイングス"
+    },
+    {
+      "english": "processed",
+      "japanese": "プルオクエススエド"
+    },
+    {
+      "english": "processor",
+      "japanese": "プルオクエススオル"
+    },
+    {
+      "english": "producer",
+      "japanese": "プルオドウクエル"
+    },
+    {
+      "english": "producing",
+      "japanese": "プルオドウクイング"
+    },
+    {
+      "english": "productions",
+      "japanese": "プルオドウクションス"
+    },
+    {
+      "english": "productivity",
+      "japanese": "プルオドウクトイヴイトイ"
+    },
+    {
+      "english": "profiles",
+      "japanese": "プルオフイルエス"
+    },
+    {
+      "english": "profits",
+      "japanese": "プルオフイトス"
+    },
+    {
+      "english": "programmes",
+      "japanese": "プルオグルアムムエス"
+    },
+    {
+      "english": "progressive",
+      "japanese": "プルオグルエススイヴエ"
+    },
+    {
+      "english": "prohibited",
+      "japanese": "プルオハイブイトエド"
+    },
+    {
+      "english": "promise",
+      "japanese": "プルオムイスエ"
+    },
+    {
+      "english": "promoting",
+      "japanese": "プルオムオトイング"
+    },
+    {
+      "english": "promotion",
+      "japanese": "プルオムオション"
+    },
+    {
+      "english": "promotional",
+      "japanese": "プルオムオションアル"
+    },
+    {
+      "english": "promotions",
+      "japanese": "プルオムオションス"
+    },
+    {
+      "english": "proof",
+      "japanese": "プルオオフ"
+    },
+    {
+      "english": "proper",
+      "japanese": "プルオプエル"
+    },
+    {
+      "english": "properly",
+      "japanese": "プルオプエルルイ"
+    },
+    {
+      "english": "proposal",
+      "japanese": "プルオプオスアル"
+    },
+    {
+      "english": "proposals",
+      "japanese": "プルオプオスアルス"
+    },
+    {
+      "english": "protected",
+      "japanese": "プルオトエクトエド"
+    },
+    {
+      "english": "proteins",
+      "japanese": "プルオトエインス"
+    },
+    {
+      "english": "protocol",
+      "japanese": "プルオトオクオル"
+    },
+    {
+      "english": "proud",
+      "japanese": "プルオウド"
+    },
+    {
+      "english": "prove",
+      "japanese": "プルオヴエ"
+    },
+    {
+      "english": "proven",
+      "japanese": "プルオヴエン"
+    },
+    {
+      "english": "province",
+      "japanese": "プルオヴインクエ"
+    },
+    {
+      "english": "provision",
+      "japanese": "プルオヴイション"
+    },
+    {
+      "english": "provisions",
+      "japanese": "プルオヴイションス"
+    },
+    {
+      "english": "ps",
+      "japanese": "プス"
+    },
+    {
+      "english": "psp",
+      "japanese": "プスプ"
+    },
+    {
+      "english": "psychology",
+      "japanese": "プスイチオルオグイ"
+    },
+    {
+      "english": "pt",
+      "japanese": "プト"
+    },
+    {
+      "english": "pub",
+      "japanese": "プウブ"
+    },
+    {
+      "english": "publish",
+      "japanese": "プウブルイシ"
+    },
+    {
+      "english": "publishers",
+      "japanese": "プウブルイシエルス"
+    },
+    {
+      "english": "puerto",
+      "japanese": "プウエルトオ"
+    },
+    {
+      "english": "pull",
+      "japanese": "プウルル"
+    },
+    {
+      "english": "pulse",
+      "japanese": "プウルスエ"
+    },
+    {
+      "english": "pump",
+      "japanese": "プウムプ"
+    },
+    {
+      "english": "pupils",
+      "japanese": "プウプイルス"
+    },
+    {
+      "english": "purchased",
+      "japanese": "プウルチアスエド"
+    },
+    {
+      "english": "purchases",
+      "japanese": "プウルチアスエス"
+    },
+    {
+      "english": "purchasing",
+      "japanese": "プウルチアスイング"
+    },
+    {
+      "english": "pure",
+      "japanese": "プウルエ"
+    },
+    {
+      "english": "purple",
+      "japanese": "プウルプルエ"
+    },
+    {
+      "english": "pursuant",
+      "japanese": "プウルスウアント"
+    },
+    {
+      "english": "push",
+      "japanese": "プウシ"
+    },
+    {
+      "english": "putting",
+      "japanese": "プウトトイング"
+    },
+    {
+      "english": "puzzle",
+      "japanese": "プウズズルエ"
+    },
+    {
+      "english": "python",
+      "japanese": "プイスオン"
+    },
+    {
+      "english": "qty",
+      "japanese": "クトイ"
+    },
+    {
+      "english": "qualified",
+      "japanese": "クアルイフイエド"
+    },
+    {
+      "english": "quarterly",
+      "japanese": "クアルトエルルイ"
+    },
+    {
+      "english": "que",
+      "japanese": "ク"
+    },
+    {
+      "english": "queries",
+      "japanese": "クルイエス"
+    },
+    {
+      "english": "query",
+      "japanese": "クルイ"
+    },
+    {
+      "english": "quest",
+      "japanese": "クスト"
+    },
+    {
+      "english": "quiet",
+      "japanese": "クイエト"
+    },
+    {
+      "english": "ra",
+      "japanese": "ルア"
+    },
+    {
+      "english": "rack",
+      "japanese": "ルアック"
+    },
+    {
+      "english": "radar",
+      "japanese": "ルアドアル"
+    },
+    {
+      "english": "radiation",
+      "japanese": "ルアドイアション"
+    },
+    {
+      "english": "rail",
+      "japanese": "ルアイル"
+    },
+    {
+      "english": "rain",
+      "japanese": "ルアイン"
+    },
+    {
+      "english": "raise",
+      "japanese": "ルアイスエ"
+    },
+    {
+      "english": "raised",
+      "japanese": "ルアイスエド"
+    },
+    {
+      "english": "raising",
+      "japanese": "ルアイスイング"
+    },
+    {
+      "english": "ram",
+      "japanese": "ルアム"
+    },
+    {
+      "english": "ran",
+      "japanese": "ルアン"
+    },
+    {
+      "english": "ranking",
+      "japanese": "ルアンクイング"
+    },
+    {
+      "english": "rapid",
+      "japanese": "ルアプイド"
+    },
+    {
+      "english": "rare",
+      "japanese": "ルアルエ"
+    },
+    {
+      "english": "ratio",
+      "japanese": "ルアトイオ"
+    },
+    {
+      "english": "raw",
+      "japanese": "ルアウ"
+    },
+    {
+      "english": "rc",
+      "japanese": "ルク"
+    },
+    {
+      "english": "reached",
+      "japanese": "ルエアチエド"
+    },
+    {
+      "english": "reaction",
+      "japanese": "ルエアクション"
+    },
+    {
+      "english": "reads",
+      "japanese": "読む（三単現／複数）"
+    },
+    {
+      "english": "realize",
+      "japanese": "ルエアルイズエ"
+    },
+    {
+      "english": "rear",
+      "japanese": "ルエアル"
+    },
+    {
+      "english": "reasonable",
+      "japanese": "ルエアスオンアブルエ"
+    },
+    {
+      "english": "receipt",
+      "japanese": "ルエクエイプト"
+    },
+    {
+      "english": "receiver",
+      "japanese": "ルエクエイヴエル"
+    },
+    {
+      "english": "receiving",
+      "japanese": "ルエクエイヴイング"
+    },
+    {
+      "english": "reception",
+      "japanese": "ルエクエプション"
+    },
+    {
+      "english": "recipe",
+      "japanese": "ルエクイプエ"
+    },
+    {
+      "english": "recognition",
+      "japanese": "ルエクオグンイション"
+    },
+    {
+      "english": "recognize",
+      "japanese": "ルエクオグンイズエ"
+    },
+    {
+      "english": "recognized",
+      "japanese": "ルエクオグンイズエド"
+    },
+    {
+      "english": "recommendation",
+      "japanese": "ルエクオムムエンドアション"
+    },
+    {
+      "english": "recorded",
+      "japanese": "ルエクオルドエド"
+    },
+    {
+      "english": "recorder",
+      "japanese": "ルエクオルドエル"
+    },
+    {
+      "english": "recording",
+      "japanese": "ルエクオルドイング"
+    },
+    {
+      "english": "recreation",
+      "japanese": "ルエクルエアション"
+    },
+    {
+      "english": "recruitment",
+      "japanese": "ルエクルウイトムエント"
+    },
+    {
+      "english": "reduced",
+      "japanese": "ルエドウクエド"
+    },
+    {
+      "english": "reducing",
+      "japanese": "ルエドウクイング"
+    },
+    {
+      "english": "reduction",
+      "japanese": "ルエドウクション"
+    },
+    {
+      "english": "ref",
+      "japanese": "ルエフ"
+    },
+    {
+      "english": "refer",
+      "japanese": "ルエフエル"
+    },
+    {
+      "english": "referred",
+      "japanese": "ルエフエルルエド"
+    },
+    {
+      "english": "reflect",
+      "japanese": "ルエフルエクト"
+    },
+    {
+      "english": "reform",
+      "japanese": "ルエフオルム"
+    },
+    {
+      "english": "refund",
+      "japanese": "ルエフウンド"
+    },
+    {
+      "english": "reg",
+      "japanese": "ルエグ"
+    },
+    {
+      "english": "regard",
+      "japanese": "ルエグアルド"
+    },
+    {
+      "english": "regardless",
+      "japanese": "ルエグアルドルエスス"
+    },
+    {
+      "english": "regards",
+      "japanese": "ルエグアルドス"
+    },
+    {
+      "english": "regions",
+      "japanese": "ルエグイオンス"
+    },
+    {
+      "english": "registry",
+      "japanese": "ルエグイストルイ"
+    },
+    {
+      "english": "regularly",
+      "japanese": "ルエグウルアルルイ"
+    },
+    {
+      "english": "regulation",
+      "japanese": "ルエグウルアション"
+    },
+    {
+      "english": "regulatory",
+      "japanese": "ルエグウルアトオルイ"
+    },
+    {
+      "english": "rehabilitation",
+      "japanese": "ルエハアブイルイトアション"
+    },
+    {
+      "english": "relating",
+      "japanese": "ルエルアトイング"
+    },
+    {
+      "english": "relation",
+      "japanese": "ルエルアション"
+    },
+    {
+      "english": "relationships",
+      "japanese": "ルエルアションシイプス"
+    },
+    {
+      "english": "relative",
+      "japanese": "ルエルアトイヴエ"
+    },
+    {
+      "english": "relatively",
+      "japanese": "ルエルアトイヴエルイ"
+    },
+    {
+      "english": "reliability",
+      "japanese": "ルエルイアブイルイトイ"
+    },
+    {
+      "english": "reliable",
+      "japanese": "ルエルイアブルエ"
+    },
+    {
+      "english": "relief",
+      "japanese": "ルエルイエフ"
+    },
+    {
+      "english": "remain",
+      "japanese": "ルエムアイン"
+    },
+    {
+      "english": "remaining",
+      "japanese": "ルエムアインイング"
+    },
+    {
+      "english": "remains",
+      "japanese": "ルエムアインス"
+    },
+    {
+      "english": "removal",
+      "japanese": "ルエムオヴアル"
+    },
+    {
+      "english": "removed",
+      "japanese": "ルエムオヴエド"
+    },
+    {
+      "english": "rep",
+      "japanese": "ルエプ"
+    },
+    {
+      "english": "repeat",
+      "japanese": "ルエプエアト"
+    },
+    {
+      "english": "replace",
+      "japanese": "ルエプルアクエ"
+    },
+    {
+      "english": "replaced",
+      "japanese": "ルエプルアクエド"
+    },
+    {
+      "english": "replacement",
+      "japanese": "ルエプルアクエムエント"
+    },
+    {
+      "english": "reporter",
+      "japanese": "ルエプオルトエル"
+    },
+    {
+      "english": "represent",
+      "japanese": "ルエプルエスエント"
+    },
+    {
+      "english": "representation",
+      "japanese": "ルエプルエスエントアション"
+    },
+    {
+      "english": "representative",
+      "japanese": "ルエプルエスエントアトイヴエ"
+    },
+    {
+      "english": "representatives",
+      "japanese": "ルエプルエスエントアトイヴエス"
+    },
+    {
+      "english": "represented",
+      "japanese": "ルエプルエスエントエド"
+    },
+    {
+      "english": "represents",
+      "japanese": "ルエプルエスエントス"
+    },
+    {
+      "english": "reproduction",
+      "japanese": "ルエプルオドウクション"
+    },
+    {
+      "english": "republican",
+      "japanese": "ルエプウブルイクアン"
+    },
+    {
+      "english": "requested",
+      "japanese": "ルエクストエド"
+    },
+    {
+      "english": "requirement",
+      "japanese": "ルエクイルエムエント"
+    },
+    {
+      "english": "res",
+      "japanese": "ルエス"
+    },
+    {
+      "english": "rescue",
+      "japanese": "ルエスクウエ"
+    },
+    {
+      "english": "researchers",
+      "japanese": "ルエスエアルチエルス"
+    },
+    {
+      "english": "reservation",
+      "japanese": "ルエスエルヴアション"
+    },
+    {
+      "english": "reservations",
+      "japanese": "ルエスエルヴアションス"
+    },
+    {
+      "english": "reserves",
+      "japanese": "ルエスエルヴエス"
+    },
+    {
+      "english": "residence",
+      "japanese": "ルエスイドエンクエ"
+    },
+    {
+      "english": "resident",
+      "japanese": "ルエスイドエント"
+    },
+    {
+      "english": "residential",
+      "japanese": "ルエスイドエントイアル"
+    },
+    {
+      "english": "residents",
+      "japanese": "ルエスイドエントス"
+    },
+    {
+      "english": "resistance",
+      "japanese": "ルエスイストアンクエ"
+    },
+    {
+      "english": "resorts",
+      "japanese": "ルエスオルトス"
+    },
+    {
+      "english": "respectively",
+      "japanese": "ルエスプエクトイヴエルイ"
+    },
+    {
+      "english": "respond",
+      "japanese": "ルエスプオンド"
+    },
+    {
+      "english": "responses",
+      "japanese": "ルエスプオンスエス"
+    },
+    {
+      "english": "responsibilities",
+      "japanese": "ルエスプオンスイブイルイトイエス"
+    },
+    {
+      "english": "restricted",
+      "japanese": "ルエストルイクトエド"
+    },
+    {
+      "english": "restrictions",
+      "japanese": "ルエストルイクションス"
+    },
+    {
+      "english": "resulting",
+      "japanese": "結果（進行）"
+    },
+    {
+      "english": "resume",
+      "japanese": "ルエスウムエ"
+    },
+    {
+      "english": "retirement",
+      "japanese": "ルエトイルエムエント"
+    },
+    {
+      "english": "revealed",
+      "japanese": "ルエヴエアルエド"
+    },
+    {
+      "english": "revenues",
+      "japanese": "ルエヴエンウエス"
+    },
+    {
+      "english": "reverse",
+      "japanese": "ルエヴエルスエ"
+    },
+    {
+      "english": "reviewed",
+      "japanese": "ルエヴイエウエド"
+    },
+    {
+      "english": "reviewer",
+      "japanese": "ルエヴイエウエル"
+    },
+    {
+      "english": "revised",
+      "japanese": "ルエヴイスエド"
+    },
+    {
+      "english": "revision",
+      "japanese": "ルエヴイション"
+    },
+    {
+      "english": "revolution",
+      "japanese": "ルエヴオルウション"
+    },
+    {
+      "english": "rf",
+      "japanese": "ルフ"
+    },
+    {
+      "english": "rhode",
+      "japanese": "ルハオドエ"
+    },
+    {
+      "english": "ri",
+      "japanese": "ルイ"
+    },
+    {
+      "english": "rice",
+      "japanese": "ごはん"
+    },
+    {
+      "english": "richmond",
+      "japanese": "ルイチムオンド"
+    },
+    {
+      "english": "rick",
+      "japanese": "ルイック"
+    },
+    {
+      "english": "rico",
+      "japanese": "ルイクオ"
+    },
+    {
+      "english": "ride",
+      "japanese": "ルイドエ"
+    },
+    {
+      "english": "ridge",
+      "japanese": "ルイドグエ"
+    },
+    {
+      "english": "riding",
+      "japanese": "ルイドイング"
+    },
+    {
+      "english": "rings",
+      "japanese": "ルイングス"
+    },
+    {
+      "english": "ringtone",
+      "japanese": "ルイングトオンエ"
+    },
+    {
+      "english": "rise",
+      "japanese": "ルイスエ"
+    },
+    {
+      "english": "rising",
+      "japanese": "ルイスイング"
+    },
+    {
+      "english": "risks",
+      "japanese": "ルイスクス"
+    },
+    {
+      "english": "rm",
+      "japanese": "ルム"
+    },
+    {
+      "english": "roads",
+      "japanese": "道（三単現／複数）"
+    },
+    {
+      "english": "rob",
+      "japanese": "ルオブ"
+    },
+    {
+      "english": "roberts",
+      "japanese": "ルオブエルトス"
+    },
+    {
+      "english": "rod",
+      "japanese": "ルオド"
+    },
+    {
+      "english": "roger",
+      "japanese": "ルオグエル"
+    },
+    {
+      "english": "roles",
+      "japanese": "ルオルエス"
+    },
+    {
+      "english": "roll",
+      "japanese": "ルオルル"
+    },
+    {
+      "english": "rolling",
+      "japanese": "ルオルルイング"
+    },
+    {
+      "english": "rom",
+      "japanese": "ルオム"
+    },
+    {
+      "english": "roman",
+      "japanese": "ルオムアン"
+    },
+    {
+      "english": "romance",
+      "japanese": "ルオムアンクエ"
+    },
+    {
+      "english": "romantic",
+      "japanese": "ルオムアントイク"
+    },
+    {
+      "english": "rome",
+      "japanese": "ルオムエ"
+    },
+    {
+      "english": "ron",
+      "japanese": "ルオン"
+    },
+    {
+      "english": "roof",
+      "japanese": "ルオオフ"
+    },
+    {
+      "english": "roses",
+      "japanese": "ルオスエス"
+    },
+    {
+      "english": "ross",
+      "japanese": "ルオスス"
+    },
+    {
+      "english": "route",
+      "japanese": "ルオウトエ"
+    },
+    {
+      "english": "router",
+      "japanese": "ルオウトエル"
+    },
+    {
+      "english": "row",
+      "japanese": "ルオウ"
+    },
+    {
+      "english": "rpm",
+      "japanese": "ルプム"
+    },
+    {
+      "english": "rs",
+      "japanese": "ルス"
+    },
+    {
+      "english": "rt",
+      "japanese": "ルト"
+    },
+    {
+      "english": "rubber",
+      "japanese": "ルウブブエル"
+    },
+    {
+      "english": "rugby",
+      "japanese": "ルウグブイ"
+    },
+    {
+      "english": "runs",
+      "japanese": "走る（三単現／複数）"
+    },
+    {
+      "english": "rural",
+      "japanese": "ルウルアル"
+    },
+    {
+      "english": "rush",
+      "japanese": "ルウシ"
+    },
+    {
+      "english": "russell",
+      "japanese": "ルウススエルル"
+    },
+    {
+      "english": "ryan",
+      "japanese": "ルイアン"
+    }
+  ]
+}

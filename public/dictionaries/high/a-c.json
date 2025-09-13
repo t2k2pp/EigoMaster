@@ -1,0 +1,2529 @@
+{
+  "name": "高校生 A-C",
+  "words": [
+    {
+      "english": "aa",
+      "japanese": "アア"
+    },
+    {
+      "english": "ab",
+      "japanese": "アブ"
+    },
+    {
+      "english": "abc",
+      "japanese": "アブク"
+    },
+    {
+      "english": "abroad",
+      "japanese": "アブルオアド"
+    },
+    {
+      "english": "absence",
+      "japanese": "アブスエンクエ"
+    },
+    {
+      "english": "absolute",
+      "japanese": "アブスオルウトエ"
+    },
+    {
+      "english": "absolutely",
+      "japanese": "アブスオルウトエルイ"
+    },
+    {
+      "english": "academy",
+      "japanese": "アクアドエムイ"
+    },
+    {
+      "english": "acc",
+      "japanese": "アクク"
+    },
+    {
+      "english": "acceptable",
+      "japanese": "アククエプトアブルエ"
+    },
+    {
+      "english": "accessibility",
+      "japanese": "アククエススイブイルイトイ"
+    },
+    {
+      "english": "accessible",
+      "japanese": "アククエススイブルエ"
+    },
+    {
+      "english": "accessory",
+      "japanese": "アククエススオルイ"
+    },
+    {
+      "english": "accident",
+      "japanese": "アククイドエント"
+    },
+    {
+      "english": "accordance",
+      "japanese": "アククオルドアンクエ"
+    },
+    {
+      "english": "accuracy",
+      "japanese": "アククウルアクイ"
+    },
+    {
+      "english": "accurate",
+      "japanese": "アククウルアトエ"
+    },
+    {
+      "english": "achieve",
+      "japanese": "アチイエヴエ"
+    },
+    {
+      "english": "achieved",
+      "japanese": "アチイエヴエド"
+    },
+    {
+      "english": "acid",
+      "japanese": "アクイド"
+    },
+    {
+      "english": "acquisition",
+      "japanese": "アククイスイション"
+    },
+    {
+      "english": "acres",
+      "japanese": "アクルエス"
+    },
+    {
+      "english": "acrobat",
+      "japanese": "アクルオブアト"
+    },
+    {
+      "english": "acting",
+      "japanese": "アクトイング"
+    },
+    {
+      "english": "actor",
+      "japanese": "アクトオル"
+    },
+    {
+      "english": "acts",
+      "japanese": "アクトス"
+    },
+    {
+      "english": "adam",
+      "japanese": "アドアム"
+    },
+    {
+      "english": "adams",
+      "japanese": "アドアムス"
+    },
+    {
+      "english": "adapter",
+      "japanese": "アドアプトエル"
+    },
+    {
+      "english": "adding",
+      "japanese": "アドドイング"
+    },
+    {
+      "english": "addressed",
+      "japanese": "アドドルエススエド"
+    },
+    {
+      "english": "addresses",
+      "japanese": "アドドルエススエス"
+    },
+    {
+      "english": "adds",
+      "japanese": "アドドス"
+    },
+    {
+      "english": "adequate",
+      "japanese": "アドエクアトエ"
+    },
+    {
+      "english": "administrator",
+      "japanese": "アドムインイストルアトオル"
+    },
+    {
+      "english": "admission",
+      "japanese": "アドムイスション"
+    },
+    {
+      "english": "admissions",
+      "japanese": "アドムイスションス"
+    },
+    {
+      "english": "adobe",
+      "japanese": "アドオブエ"
+    },
+    {
+      "english": "adopted",
+      "japanese": "アドオプトエド"
+    },
+    {
+      "english": "adoption",
+      "japanese": "アドオプション"
+    },
+    {
+      "english": "adventures",
+      "japanese": "アドヴエンチャース"
+    },
+    {
+      "english": "advisor",
+      "japanese": "アドヴイスオル"
+    },
+    {
+      "english": "advisory",
+      "japanese": "アドヴイスオルイ"
+    },
+    {
+      "english": "affect",
+      "japanese": "アフフエクト"
+    },
+    {
+      "english": "affected",
+      "japanese": "アフフエクトエド"
+    },
+    {
+      "english": "affordable",
+      "japanese": "アフフオルドアブルエ"
+    },
+    {
+      "english": "afghanistan",
+      "japanese": "アフグハアンイストアン"
+    },
+    {
+      "english": "afternoon",
+      "japanese": "午後"
+    },
+    {
+      "english": "ag",
+      "japanese": "アグ"
+    },
+    {
+      "english": "aged",
+      "japanese": "アグエド"
+    },
+    {
+      "english": "agenda",
+      "japanese": "アグエンドア"
+    },
+    {
+      "english": "ages",
+      "japanese": "アグエス"
+    },
+    {
+      "english": "agreed",
+      "japanese": "アグルエエド"
+    },
+    {
+      "english": "agreements",
+      "japanese": "アグルエエムエントス"
+    },
+    {
+      "english": "agricultural",
+      "japanese": "アグルイクウルトウルアル"
+    },
+    {
+      "english": "agriculture",
+      "japanese": "アグルイクウルチャー"
+    },
+    {
+      "english": "ah",
+      "japanese": "アハ"
+    },
+    {
+      "english": "ahead",
+      "japanese": "アハエアド"
+    },
+    {
+      "english": "aim",
+      "japanese": "アイム"
+    },
+    {
+      "english": "aircraft",
+      "japanese": "アイルクルアフト"
+    },
+    {
+      "english": "airline",
+      "japanese": "アイルルインエ"
+    },
+    {
+      "english": "airlines",
+      "japanese": "アイルルインエス"
+    },
+    {
+      "english": "ak",
+      "japanese": "アク"
+    },
+    {
+      "english": "alabama",
+      "japanese": "アルアブアムア"
+    },
+    {
+      "english": "alan",
+      "japanese": "アルアン"
+    },
+    {
+      "english": "alarm",
+      "japanese": "アルアルム"
+    },
+    {
+      "english": "alaska",
+      "japanese": "アルアスクア"
+    },
+    {
+      "english": "albert",
+      "japanese": "アルブエルト"
+    },
+    {
+      "english": "alberta",
+      "japanese": "アルブエルトア"
+    },
+    {
+      "english": "albums",
+      "japanese": "アルブウムス"
+    },
+    {
+      "english": "alcohol",
+      "japanese": "アルクオハオル"
+    },
+    {
+      "english": "alerts",
+      "japanese": "アルエルトス"
+    },
+    {
+      "english": "alex",
+      "japanese": "アルエクス"
+    },
+    {
+      "english": "alexander",
+      "japanese": "アルエクスアンドエル"
+    },
+    {
+      "english": "algorithm",
+      "japanese": "アルグオルイスム"
+    },
+    {
+      "english": "alive",
+      "japanese": "アルイヴエ"
+    },
+    {
+      "english": "allen",
+      "japanese": "アルルエン"
+    },
+    {
+      "english": "alliance",
+      "japanese": "アルルイアンクエ"
+    },
+    {
+      "english": "allocated",
+      "japanese": "アルルオクアトエド"
+    },
+    {
+      "english": "allowing",
+      "japanese": "アルルオウイング"
+    },
+    {
+      "english": "alpha",
+      "japanese": "アルフア"
+    },
+    {
+      "english": "alternate",
+      "japanese": "アルトエルンアトエ"
+    },
+    {
+      "english": "aluminum",
+      "japanese": "アルウムインウム"
+    },
+    {
+      "english": "alumni",
+      "japanese": "アルウムンイ"
+    },
+    {
+      "english": "amazing",
+      "japanese": "アムアズイング"
+    },
+    {
+      "english": "amd",
+      "japanese": "アムド"
+    },
+    {
+      "english": "amended",
+      "japanese": "アムエンドエド"
+    },
+    {
+      "english": "amendment",
+      "japanese": "アムエンドムエント"
+    },
+    {
+      "english": "americans",
+      "japanese": "アムエルイクアンス"
+    },
+    {
+      "english": "amounts",
+      "japanese": "アムオウントス"
+    },
+    {
+      "english": "amp",
+      "japanese": "アムプ"
+    },
+    {
+      "english": "amsterdam",
+      "japanese": "アムストエルドアム"
+    },
+    {
+      "english": "analyst",
+      "japanese": "アンアルイスト"
+    },
+    {
+      "english": "ancient",
+      "japanese": "アンクイエント"
+    },
+    {
+      "english": "anderson",
+      "japanese": "アンドエルスオン"
+    },
+    {
+      "english": "andrew",
+      "japanese": "アンドルエウ"
+    },
+    {
+      "english": "andy",
+      "japanese": "アンドイ"
+    },
+    {
+      "english": "angel",
+      "japanese": "アングエル"
+    },
+    {
+      "english": "angels",
+      "japanese": "アングエルス"
+    },
+    {
+      "english": "angle",
+      "japanese": "アングルエ"
+    },
+    {
+      "english": "animation",
+      "japanese": "アンイムアション"
+    },
+    {
+      "english": "anime",
+      "japanese": "アンイムエ"
+    },
+    {
+      "english": "ann",
+      "japanese": "アンン"
+    },
+    {
+      "english": "anna",
+      "japanese": "アンンア"
+    },
+    {
+      "english": "anne",
+      "japanese": "アンンエ"
+    },
+    {
+      "english": "anniversary",
+      "japanese": "アンンイヴエルスアルイ"
+    },
+    {
+      "english": "annotation",
+      "japanese": "アンンオトアション"
+    },
+    {
+      "english": "announced",
+      "japanese": "アンンオウンクエド"
+    },
+    {
+      "english": "announcement",
+      "japanese": "アンンオウンクエムエント"
+    },
+    {
+      "english": "anthony",
+      "japanese": "アンスオンイ"
+    },
+    {
+      "english": "antique",
+      "japanese": "アントイク"
+    },
+    {
+      "english": "antiques",
+      "japanese": "アントイクス"
+    },
+    {
+      "english": "antonio",
+      "japanese": "アントオンイオ"
+    },
+    {
+      "english": "anytime",
+      "japanese": "アンイトイムエ"
+    },
+    {
+      "english": "anyway",
+      "japanese": "アンイウアイ"
+    },
+    {
+      "english": "anywhere",
+      "japanese": "アンイウハエルエ"
+    },
+    {
+      "english": "aol",
+      "japanese": "アオル"
+    },
+    {
+      "english": "ap",
+      "japanese": "アプ"
+    },
+    {
+      "english": "apache",
+      "japanese": "アプアチエ"
+    },
+    {
+      "english": "apart",
+      "japanese": "アプアルト"
+    },
+    {
+      "english": "apartment",
+      "japanese": "アプアルトムエント"
+    },
+    {
+      "english": "api",
+      "japanese": "アプイ"
+    },
+    {
+      "english": "apparently",
+      "japanese": "アププアルエントルイ"
+    },
+    {
+      "english": "appeal",
+      "japanese": "アププエアル"
+    },
+    {
+      "english": "appearance",
+      "japanese": "アププエアルアンクエ"
+    },
+    {
+      "english": "appeared",
+      "japanese": "アププエアルエド"
+    },
+    {
+      "english": "appearing",
+      "japanese": "アププエアルイング"
+    },
+    {
+      "english": "appendix",
+      "japanese": "アププエンドイクス"
+    },
+    {
+      "english": "appliances",
+      "japanese": "アププルイアンクエス"
+    },
+    {
+      "english": "applicant",
+      "japanese": "アププルイクアント"
+    },
+    {
+      "english": "applies",
+      "japanese": "アププルイエス"
+    },
+    {
+      "english": "applying",
+      "japanese": "アププルイイング"
+    },
+    {
+      "english": "appointed",
+      "japanese": "アププオイントエド"
+    },
+    {
+      "english": "appointment",
+      "japanese": "アププオイントムエント"
+    },
+    {
+      "english": "appreciate",
+      "japanese": "アププルエクイアトエ"
+    },
+    {
+      "english": "approaches",
+      "japanese": "アププルオアチエス"
+    },
+    {
+      "english": "arab",
+      "japanese": "アルアブ"
+    },
+    {
+      "english": "arcade",
+      "japanese": "アルクアドエ"
+    },
+    {
+      "english": "arena",
+      "japanese": "アルエンア"
+    },
+    {
+      "english": "argentina",
+      "japanese": "アルグエントインア"
+    },
+    {
+      "english": "arguments",
+      "japanese": "アルグウムエントス"
+    },
+    {
+      "english": "arkansas",
+      "japanese": "アルクアンスアス"
+    },
+    {
+      "english": "arm",
+      "japanese": "アルム"
+    },
+    {
+      "english": "armed",
+      "japanese": "アルムエド"
+    },
+    {
+      "english": "arms",
+      "japanese": "アルムス"
+    },
+    {
+      "english": "arrangements",
+      "japanese": "アルルアングエムエントス"
+    },
+    {
+      "english": "array",
+      "japanese": "アルルアイ"
+    },
+    {
+      "english": "arrival",
+      "japanese": "アルルイヴアル"
+    },
+    {
+      "english": "arrived",
+      "japanese": "アルルイヴエド"
+    },
+    {
+      "english": "arthur",
+      "japanese": "アルスウル"
+    },
+    {
+      "english": "asking",
+      "japanese": "たずねる（進行）"
+    },
+    {
+      "english": "asp",
+      "japanese": "アスプ"
+    },
+    {
+      "english": "aspect",
+      "japanese": "アスプエクト"
+    },
+    {
+      "english": "aspects",
+      "japanese": "アスプエクトス"
+    },
+    {
+      "english": "asset",
+      "japanese": "アススエト"
+    },
+    {
+      "english": "assets",
+      "japanese": "アススエトス"
+    },
+    {
+      "english": "assigned",
+      "japanese": "アススイグンエド"
+    },
+    {
+      "english": "assignment",
+      "japanese": "アススイグンムエント"
+    },
+    {
+      "english": "assist",
+      "japanese": "アススイスト"
+    },
+    {
+      "english": "associations",
+      "japanese": "アススオクイアションス"
+    },
+    {
+      "english": "assume",
+      "japanese": "アススウムエ"
+    },
+    {
+      "english": "assumes",
+      "japanese": "アススウムエス"
+    },
+    {
+      "english": "athletic",
+      "japanese": "アスルエトイク"
+    },
+    {
+      "english": "atlantic",
+      "japanese": "アトルアントイク"
+    },
+    {
+      "english": "atmosphere",
+      "japanese": "アトムオスフエルエ"
+    },
+    {
+      "english": "attached",
+      "japanese": "アトトアチエド"
+    },
+    {
+      "english": "attachment",
+      "japanese": "アトトアチムエント"
+    },
+    {
+      "english": "attacks",
+      "japanese": "アトトアックス"
+    },
+    {
+      "english": "attempt",
+      "japanese": "アトトエムプト"
+    },
+    {
+      "english": "attend",
+      "japanese": "アトトエンド"
+    },
+    {
+      "english": "attendance",
+      "japanese": "アトトエンドアンクエ"
+    },
+    {
+      "english": "attorneys",
+      "japanese": "アトトオルンエイス"
+    },
+    {
+      "english": "attractions",
+      "japanese": "アトトルアクションス"
+    },
+    {
+      "english": "attribute",
+      "japanese": "アトトルイブウトエ"
+    },
+    {
+      "english": "attributes",
+      "japanese": "アトトルイブウトエス"
+    },
+    {
+      "english": "aud",
+      "japanese": "アウド"
+    },
+    {
+      "english": "audience",
+      "japanese": "アウドイエンクエ"
+    },
+    {
+      "english": "audit",
+      "japanese": "アウドイト"
+    },
+    {
+      "english": "austin",
+      "japanese": "アウストイン"
+    },
+    {
+      "english": "austria",
+      "japanese": "アウストルイア"
+    },
+    {
+      "english": "authentication",
+      "japanese": "アウスエントイクアション"
+    },
+    {
+      "english": "authorities",
+      "japanese": "アウスオルイトイエス"
+    },
+    {
+      "english": "authorized",
+      "japanese": "アウスオルイズエド"
+    },
+    {
+      "english": "automatic",
+      "japanese": "アウトオムアトイク"
+    },
+    {
+      "english": "av",
+      "japanese": "アヴ"
+    },
+    {
+      "english": "avatar",
+      "japanese": "アヴアトアル"
+    },
+    {
+      "english": "avg",
+      "japanese": "アヴグ"
+    },
+    {
+      "english": "aviation",
+      "japanese": "アヴイアション"
+    },
+    {
+      "english": "awarded",
+      "japanese": "アウアルドエド"
+    },
+    {
+      "english": "aware",
+      "japanese": "アウアルエ"
+    },
+    {
+      "english": "awareness",
+      "japanese": "アウアルエンエスス"
+    },
+    {
+      "english": "awesome",
+      "japanese": "アウエスオムエ"
+    },
+    {
+      "english": "ba",
+      "japanese": "ブア"
+    },
+    {
+      "english": "babe",
+      "japanese": "ブアブエ"
+    },
+    {
+      "english": "babes",
+      "japanese": "ブアブエス"
+    },
+    {
+      "english": "babies",
+      "japanese": "ブアブイエス"
+    },
+    {
+      "english": "backup",
+      "japanese": "ブアックウプ"
+    },
+    {
+      "english": "bags",
+      "japanese": "ブアグス"
+    },
+    {
+      "english": "baker",
+      "japanese": "ブアクエル"
+    },
+    {
+      "english": "balls",
+      "japanese": "ブアルルス"
+    },
+    {
+      "english": "baltimore",
+      "japanese": "ブアルトイムオルエ"
+    },
+    {
+      "english": "bands",
+      "japanese": "ブアンドス"
+    },
+    {
+      "english": "bandwidth",
+      "japanese": "ブアンドウイドス"
+    },
+    {
+      "english": "bang",
+      "japanese": "ブアング"
+    },
+    {
+      "english": "banking",
+      "japanese": "ブアンクイング"
+    },
+    {
+      "english": "bankruptcy",
+      "japanese": "ブアンクルウプトクイ"
+    },
+    {
+      "english": "banks",
+      "japanese": "ブアンクス"
+    },
+    {
+      "english": "banner",
+      "japanese": "ブアンンエル"
+    },
+    {
+      "english": "barbara",
+      "japanese": "ブアルブアルア"
+    },
+    {
+      "english": "bargain",
+      "japanese": "ブアルグアイン"
+    },
+    {
+      "english": "barry",
+      "japanese": "ブアルルイ"
+    },
+    {
+      "english": "bars",
+      "japanese": "ブアルス"
+    },
+    {
+      "english": "baskets",
+      "japanese": "ブアスクエトス"
+    },
+    {
+      "english": "bass",
+      "japanese": "ブアスス"
+    },
+    {
+      "english": "bath",
+      "japanese": "ブアス"
+    },
+    {
+      "english": "bathroom",
+      "japanese": "お手洗い"
+    },
+    {
+      "english": "batteries",
+      "japanese": "ブアトトエルイエス"
+    },
+    {
+      "english": "battle",
+      "japanese": "ブアトトルエ"
+    },
+    {
+      "english": "bb",
+      "japanese": "ブブ"
+    },
+    {
+      "english": "bbc",
+      "japanese": "ブブク"
+    },
+    {
+      "english": "bc",
+      "japanese": "ブク"
+    },
+    {
+      "english": "bears",
+      "japanese": "ブエアルス"
+    },
+    {
+      "english": "beast",
+      "japanese": "ブエアスト"
+    },
+    {
+      "english": "beastiality",
+      "japanese": "ブエアストイアルイトイ"
+    },
+    {
+      "english": "beat",
+      "japanese": "ブエアト"
+    },
+    {
+      "english": "becomes",
+      "japanese": "ブエクオムエス"
+    },
+    {
+      "english": "becoming",
+      "japanese": "ブエクオムイング"
+    },
+    {
+      "english": "bedroom",
+      "japanese": "ブエドルオオム"
+    },
+    {
+      "english": "bedrooms",
+      "japanese": "ブエドルオオムス"
+    },
+    {
+      "english": "beds",
+      "japanese": "ブエドス"
+    },
+    {
+      "english": "beer",
+      "japanese": "ブエエル"
+    },
+    {
+      "english": "begins",
+      "japanese": "ブエグインス"
+    },
+    {
+      "english": "behalf",
+      "japanese": "ブエハアルフ"
+    },
+    {
+      "english": "behaviour",
+      "japanese": "ブエハアヴイオウル"
+    },
+    {
+      "english": "belgium",
+      "japanese": "ブエルグイウム"
+    },
+    {
+      "english": "believed",
+      "japanese": "ブエルイエヴエド"
+    },
+    {
+      "english": "bell",
+      "japanese": "ブエルル"
+    },
+    {
+      "english": "belt",
+      "japanese": "ブエルト"
+    },
+    {
+      "english": "ben",
+      "japanese": "ブエン"
+    },
+    {
+      "english": "berlin",
+      "japanese": "ブエルルイン"
+    },
+    {
+      "english": "bestiality",
+      "japanese": "ブエストイアルイトイ"
+    },
+    {
+      "english": "bet",
+      "japanese": "ブエト"
+    },
+    {
+      "english": "beta",
+      "japanese": "ブエトア"
+    },
+    {
+      "english": "betting",
+      "japanese": "ブエトトイング"
+    },
+    {
+      "english": "bi",
+      "japanese": "ブイ"
+    },
+    {
+      "english": "bidding",
+      "japanese": "ブイドドイング"
+    },
+    {
+      "english": "bids",
+      "japanese": "ブイドス"
+    },
+    {
+      "english": "bigger",
+      "japanese": "ブイググエル"
+    },
+    {
+      "english": "biggest",
+      "japanese": "ブイググエスト"
+    },
+    {
+      "english": "bike",
+      "japanese": "ブイクエ"
+    },
+    {
+      "english": "billing",
+      "japanese": "ブイルルイング"
+    },
+    {
+      "english": "bills",
+      "japanese": "ブイルルス"
+    },
+    {
+      "english": "billy",
+      "japanese": "ブイルルイ"
+    },
+    {
+      "english": "bio",
+      "japanese": "ブイオ"
+    },
+    {
+      "english": "biography",
+      "japanese": "ブイオグルアフイ"
+    },
+    {
+      "english": "biological",
+      "japanese": "ブイオルオグイクアル"
+    },
+    {
+      "english": "biology",
+      "japanese": "ブイオルオグイ"
+    },
+    {
+      "english": "bird",
+      "japanese": "鳥"
+    },
+    {
+      "english": "birds",
+      "japanese": "鳥（三単現／複数）"
+    },
+    {
+      "english": "birmingham",
+      "japanese": "ブイルムイングハアム"
+    },
+    {
+      "english": "birthday",
+      "japanese": "ブイルスドアイ"
+    },
+    {
+      "english": "bits",
+      "japanese": "ブイトス"
+    },
+    {
+      "english": "biz",
+      "japanese": "ブイズ"
+    },
+    {
+      "english": "blackjack",
+      "japanese": "ブルアックジアック"
+    },
+    {
+      "english": "blank",
+      "japanese": "ブルアンク"
+    },
+    {
+      "english": "blind",
+      "japanese": "ブルインド"
+    },
+    {
+      "english": "blocks",
+      "japanese": "ブルオックス"
+    },
+    {
+      "english": "blogger",
+      "japanese": "ブルオググエル"
+    },
+    {
+      "english": "blonde",
+      "japanese": "ブルオンドエ"
+    },
+    {
+      "english": "blow",
+      "japanese": "ブルオウ"
+    },
+    {
+      "english": "blowjob",
+      "japanese": "ブルオウジオブ"
+    },
+    {
+      "english": "blowjobs",
+      "japanese": "ブルオウジオブス"
+    },
+    {
+      "english": "blues",
+      "japanese": "青（三単現／複数）"
+    },
+    {
+      "english": "bluetooth",
+      "japanese": "ブルウエトオオス"
+    },
+    {
+      "english": "blvd",
+      "japanese": "ブルヴド"
+    },
+    {
+      "english": "bmw",
+      "japanese": "ブムウ"
+    },
+    {
+      "english": "boats",
+      "japanese": "ブオアトス"
+    },
+    {
+      "english": "bodies",
+      "japanese": "ブオドイエス"
+    },
+    {
+      "english": "bold",
+      "japanese": "ブオルド"
+    },
+    {
+      "english": "bond",
+      "japanese": "ブオンド"
+    },
+    {
+      "english": "bonds",
+      "japanese": "ブオンドス"
+    },
+    {
+      "english": "bone",
+      "japanese": "ブオンエ"
+    },
+    {
+      "english": "bonus",
+      "japanese": "ブオンウス"
+    },
+    {
+      "english": "boobs",
+      "japanese": "ブオオブス"
+    },
+    {
+      "english": "booking",
+      "japanese": "本（進行）"
+    },
+    {
+      "english": "bookmark",
+      "japanese": "ブオオクムアルク"
+    },
+    {
+      "english": "boost",
+      "japanese": "ブオオスト"
+    },
+    {
+      "english": "boot",
+      "japanese": "ブオオト"
+    },
+    {
+      "english": "boots",
+      "japanese": "ブオオトス"
+    },
+    {
+      "english": "booty",
+      "japanese": "ブオオトイ"
+    },
+    {
+      "english": "border",
+      "japanese": "ブオルドエル"
+    },
+    {
+      "english": "boss",
+      "japanese": "ブオスス"
+    },
+    {
+      "english": "bottle",
+      "japanese": "ブオトトルエ"
+    },
+    {
+      "english": "bought",
+      "japanese": "ブオウグハト"
+    },
+    {
+      "english": "bound",
+      "japanese": "ブオウンド"
+    },
+    {
+      "english": "bowl",
+      "japanese": "ブオウル"
+    },
+    {
+      "english": "boxes",
+      "japanese": "ブオクスエス"
+    },
+    {
+      "english": "br",
+      "japanese": "ブル"
+    },
+    {
+      "english": "brass",
+      "japanese": "ブルアスス"
+    },
+    {
+      "english": "brazil",
+      "japanese": "ブルアズイル"
+    },
+    {
+      "english": "bread",
+      "japanese": "パン"
+    },
+    {
+      "english": "breaking",
+      "japanese": "ブルエアクイング"
+    },
+    {
+      "english": "breaks",
+      "japanese": "ブルエアクス"
+    },
+    {
+      "english": "breasts",
+      "japanese": "ブルエアストス"
+    },
+    {
+      "english": "brian",
+      "japanese": "ブルイアン"
+    },
+    {
+      "english": "bright",
+      "japanese": "ブルイグハト"
+    },
+    {
+      "english": "bringing",
+      "japanese": "持ってくる（進行）"
+    },
+    {
+      "english": "brings",
+      "japanese": "持ってくる（三単現／複数）"
+    },
+    {
+      "english": "bristol",
+      "japanese": "ブルイストオル"
+    },
+    {
+      "english": "britain",
+      "japanese": "ブルイトアイン"
+    },
+    {
+      "english": "broad",
+      "japanese": "ブルオアド"
+    },
+    {
+      "english": "broadband",
+      "japanese": "ブルオアドブアンド"
+    },
+    {
+      "english": "broadcast",
+      "japanese": "ブルオアドクアスト"
+    },
+    {
+      "english": "broken",
+      "japanese": "ブルオクエン"
+    },
+    {
+      "english": "broker",
+      "japanese": "ブルオクエル"
+    },
+    {
+      "english": "brothers",
+      "japanese": "ブルオスエルス"
+    },
+    {
+      "english": "bruce",
+      "japanese": "ブルウクエ"
+    },
+    {
+      "english": "bs",
+      "japanese": "ブス"
+    },
+    {
+      "english": "buddy",
+      "japanese": "ブウドドイ"
+    },
+    {
+      "english": "buffalo",
+      "japanese": "ブウフフアルオ"
+    },
+    {
+      "english": "buffer",
+      "japanese": "ブウフフエル"
+    },
+    {
+      "english": "bugs",
+      "japanese": "ブウグス"
+    },
+    {
+      "english": "builder",
+      "japanese": "ブウイルドエル"
+    },
+    {
+      "english": "buildings",
+      "japanese": "ブウイルドイングス"
+    },
+    {
+      "english": "bukkake",
+      "japanese": "ブウククアクエ"
+    },
+    {
+      "english": "bulgaria",
+      "japanese": "ブウルグアルイア"
+    },
+    {
+      "english": "bulk",
+      "japanese": "ブウルク"
+    },
+    {
+      "english": "bulletin",
+      "japanese": "ブウルルエトイン"
+    },
+    {
+      "english": "bureau",
+      "japanese": "ブウルエアウ"
+    },
+    {
+      "english": "burn",
+      "japanese": "ブウルン"
+    },
+    {
+      "english": "burning",
+      "japanese": "ブウルンイング"
+    },
+    {
+      "english": "busty",
+      "japanese": "ブウストイ"
+    },
+    {
+      "english": "busy",
+      "japanese": "ブウスイ"
+    },
+    {
+      "english": "butt",
+      "japanese": "ブウトト"
+    },
+    {
+      "english": "buttons",
+      "japanese": "ブウトトオンス"
+    },
+    {
+      "english": "buyers",
+      "japanese": "ブウイエルス"
+    },
+    {
+      "english": "bytes",
+      "japanese": "ブイトエス"
+    },
+    {
+      "english": "cabinet",
+      "japanese": "クアブインエト"
+    },
+    {
+      "english": "cables",
+      "japanese": "クアブルエス"
+    },
+    {
+      "english": "cache",
+      "japanese": "クアチエ"
+    },
+    {
+      "english": "cached",
+      "japanese": "クアチエド"
+    },
+    {
+      "english": "cafe",
+      "japanese": "クアフエ"
+    },
+    {
+      "english": "cake",
+      "japanese": "クアクエ"
+    },
+    {
+      "english": "cal",
+      "japanese": "クアル"
+    },
+    {
+      "english": "calculate",
+      "japanese": "クアルクウルアトエ"
+    },
+    {
+      "english": "calculated",
+      "japanese": "クアルクウルアトエド"
+    },
+    {
+      "english": "calculator",
+      "japanese": "クアルクウルアトオル"
+    },
+    {
+      "english": "calling",
+      "japanese": "クアルルイング"
+    },
+    {
+      "english": "cam",
+      "japanese": "クアム"
+    },
+    {
+      "english": "cambridge",
+      "japanese": "クアムブルイドグエ"
+    },
+    {
+      "english": "camcorder",
+      "japanese": "クアムクオルドエル"
+    },
+    {
+      "english": "campbell",
+      "japanese": "クアムプブエルル"
+    },
+    {
+      "english": "camping",
+      "japanese": "クアムプイング"
+    },
+    {
+      "english": "cancel",
+      "japanese": "クアンクエル"
+    },
+    {
+      "english": "candidate",
+      "japanese": "クアンドイドアトエ"
+    },
+    {
+      "english": "candidates",
+      "japanese": "クアンドイドアトエス"
+    },
+    {
+      "english": "candy",
+      "japanese": "クアンドイ"
+    },
+    {
+      "english": "cap",
+      "japanese": "クアプ"
+    },
+    {
+      "english": "capabilities",
+      "japanese": "クアプアブイルイトイエス"
+    },
+    {
+      "english": "capability",
+      "japanese": "クアプアブイルイトイ"
+    },
+    {
+      "english": "capable",
+      "japanese": "クアプアブルエ"
+    },
+    {
+      "english": "cape",
+      "japanese": "クアプエ"
+    },
+    {
+      "english": "captain",
+      "japanese": "クアプトアイン"
+    },
+    {
+      "english": "capture",
+      "japanese": "クアプチャー"
+    },
+    {
+      "english": "carbon",
+      "japanese": "クアルブオン"
+    },
+    {
+      "english": "carefully",
+      "japanese": "クアルエフウルルイ"
+    },
+    {
+      "english": "caribbean",
+      "japanese": "クアルイブブエアン"
+    },
+    {
+      "english": "carried",
+      "japanese": "クアルルイエド"
+    },
+    {
+      "english": "carrier",
+      "japanese": "クアルルイエル"
+    },
+    {
+      "english": "carrying",
+      "japanese": "クアルルイイング"
+    },
+    {
+      "english": "carter",
+      "japanese": "クアルトエル"
+    },
+    {
+      "english": "cartoon",
+      "japanese": "クアルトオオン"
+    },
+    {
+      "english": "cartoons",
+      "japanese": "クアルトオオンス"
+    },
+    {
+      "english": "cartridge",
+      "japanese": "クアルトルイドグエ"
+    },
+    {
+      "english": "casinos",
+      "japanese": "クアスインオス"
+    },
+    {
+      "english": "castle",
+      "japanese": "クアストルエ"
+    },
+    {
+      "english": "casual",
+      "japanese": "クアスウアル"
+    },
+    {
+      "english": "catalogue",
+      "japanese": "クアトアルオグウエ"
+    },
+    {
+      "english": "catch",
+      "japanese": "クアトチ"
+    },
+    {
+      "english": "catering",
+      "japanese": "クアトエルイング"
+    },
+    {
+      "english": "catholic",
+      "japanese": "クアスオルイク"
+    },
+    {
+      "english": "cats",
+      "japanese": "猫（三単現／複数）"
+    },
+    {
+      "english": "caught",
+      "japanese": "クアウグハト"
+    },
+    {
+      "english": "caused",
+      "japanese": "クアウスエド"
+    },
+    {
+      "english": "causes",
+      "japanese": "クアウスエス"
+    },
+    {
+      "english": "ce",
+      "japanese": "クエ"
+    },
+    {
+      "english": "celebrity",
+      "japanese": "クエルエブルイトイ"
+    },
+    {
+      "english": "cellular",
+      "japanese": "クエルルウルアル"
+    },
+    {
+      "english": "census",
+      "japanese": "クエンスウス"
+    },
+    {
+      "english": "cent",
+      "japanese": "クエント"
+    },
+    {
+      "english": "centres",
+      "japanese": "クエントルエス"
+    },
+    {
+      "english": "ceo",
+      "japanese": "クエオ"
+    },
+    {
+      "english": "certainly",
+      "japanese": "クエルトアインルイ"
+    },
+    {
+      "english": "certificates",
+      "japanese": "クエルトイフイクアトエス"
+    },
+    {
+      "english": "certification",
+      "japanese": "クエルトイフイクアション"
+    },
+    {
+      "english": "cf",
+      "japanese": "クフ"
+    },
+    {
+      "english": "ch",
+      "japanese": "チ"
+    },
+    {
+      "english": "chairman",
+      "japanese": "チアイルムアン"
+    },
+    {
+      "english": "chairs",
+      "japanese": "チアイルス"
+    },
+    {
+      "english": "challenges",
+      "japanese": "チアルルエングエス"
+    },
+    {
+      "english": "chamber",
+      "japanese": "チアムブエル"
+    },
+    {
+      "english": "champion",
+      "japanese": "チアムプイオン"
+    },
+    {
+      "english": "championship",
+      "japanese": "チアムプイオンシイプ"
+    },
+    {
+      "english": "channels",
+      "japanese": "チアンンエルス"
+    },
+    {
+      "english": "char",
+      "japanese": "チアル"
+    },
+    {
+      "english": "characteristics",
+      "japanese": "チアルアクトエルイストイクス"
+    },
+    {
+      "english": "charged",
+      "japanese": "チアルグエド"
+    },
+    {
+      "english": "charger",
+      "japanese": "チアルグエル"
+    },
+    {
+      "english": "charity",
+      "japanese": "チアルイトイ"
+    },
+    {
+      "english": "charlotte",
+      "japanese": "チアルルオトトエ"
+    },
+    {
+      "english": "charter",
+      "japanese": "チアルトエル"
+    },
+    {
+      "english": "charts",
+      "japanese": "チアルトス"
+    },
+    {
+      "english": "cheats",
+      "japanese": "チエアトス"
+    },
+    {
+      "english": "checked",
+      "japanese": "チエックエド"
+    },
+    {
+      "english": "checking",
+      "japanese": "チエックイング"
+    },
+    {
+      "english": "checks",
+      "japanese": "チエックス"
+    },
+    {
+      "english": "cheese",
+      "japanese": "チエエスエ"
+    },
+    {
+      "english": "chemicals",
+      "japanese": "チエムイクアルス"
+    },
+    {
+      "english": "chemistry",
+      "japanese": "チエムイストルイ"
+    },
+    {
+      "english": "cherry",
+      "japanese": "チエルルイ"
+    },
+    {
+      "english": "chest",
+      "japanese": "チエスト"
+    },
+    {
+      "english": "chevrolet",
+      "japanese": "チエヴルオルエト"
+    },
+    {
+      "english": "chicken",
+      "japanese": "チイックエン"
+    },
+    {
+      "english": "chile",
+      "japanese": "チイルエ"
+    },
+    {
+      "english": "chip",
+      "japanese": "チイプ"
+    },
+    {
+      "english": "chips",
+      "japanese": "チイプス"
+    },
+    {
+      "english": "chocolate",
+      "japanese": "チオクオルアトエ"
+    },
+    {
+      "english": "choices",
+      "japanese": "チオイクエス"
+    },
+    {
+      "english": "chosen",
+      "japanese": "チオスエン"
+    },
+    {
+      "english": "christ",
+      "japanese": "チルイスト"
+    },
+    {
+      "english": "christopher",
+      "japanese": "チルイストオフエル"
+    },
+    {
+      "english": "chronic",
+      "japanese": "チルオンイク"
+    },
+    {
+      "english": "churches",
+      "japanese": "チウルチエス"
+    },
+    {
+      "english": "cialis",
+      "japanese": "クイアルイス"
+    },
+    {
+      "english": "cincinnati",
+      "japanese": "クインクインンアトイ"
+    },
+    {
+      "english": "cinema",
+      "japanese": "クインエムア"
+    },
+    {
+      "english": "circle",
+      "japanese": "クイルクルエ"
+    },
+    {
+      "english": "circuit",
+      "japanese": "クイルクウイト"
+    },
+    {
+      "english": "circumstances",
+      "japanese": "クイルクウムストアンクエス"
+    },
+    {
+      "english": "cisco",
+      "japanese": "クイスクオ"
+    },
+    {
+      "english": "citizen",
+      "japanese": "クイトイズエン"
+    },
+    {
+      "english": "citizens",
+      "japanese": "クイトイズエンス"
+    },
+    {
+      "english": "citysearch",
+      "japanese": "クイトイスエアルチ"
+    },
+    {
+      "english": "clark",
+      "japanese": "クルアルク"
+    },
+    {
+      "english": "classics",
+      "japanese": "クルアススイクス"
+    },
+    {
+      "english": "classification",
+      "japanese": "クルアススイフイクアション"
+    },
+    {
+      "english": "classified",
+      "japanese": "クルアススイフイエド"
+    },
+    {
+      "english": "classroom",
+      "japanese": "クルアススルオオム"
+    },
+    {
+      "english": "clause",
+      "japanese": "クルアウスエ"
+    },
+    {
+      "english": "clay",
+      "japanese": "クルアイ"
+    },
+    {
+      "english": "cleaning",
+      "japanese": "クルエアンイング"
+    },
+    {
+      "english": "clearance",
+      "japanese": "クルエアルアンクエ"
+    },
+    {
+      "english": "cleveland",
+      "japanese": "クルエヴエルアンド"
+    },
+    {
+      "english": "clicking",
+      "japanese": "クルイックイング"
+    },
+    {
+      "english": "climate",
+      "japanese": "クルイムアトエ"
+    },
+    {
+      "english": "clinic",
+      "japanese": "クルインイク"
+    },
+    {
+      "english": "clinton",
+      "japanese": "クルイントオン"
+    },
+    {
+      "english": "clip",
+      "japanese": "クルイプ"
+    },
+    {
+      "english": "clock",
+      "japanese": "クルオック"
+    },
+    {
+      "english": "closely",
+      "japanese": "クルオスエルイ"
+    },
+    {
+      "english": "closer",
+      "japanese": "クルオスエル"
+    },
+    {
+      "english": "closing",
+      "japanese": "クルオスイング"
+    },
+    {
+      "english": "clothes",
+      "japanese": "クルオスエス"
+    },
+    {
+      "english": "cloudy",
+      "japanese": "クルオウドイ"
+    },
+    {
+      "english": "cluster",
+      "japanese": "クルウストエル"
+    },
+    {
+      "english": "coach",
+      "japanese": "クオアチ"
+    },
+    {
+      "english": "coastal",
+      "japanese": "クオアストアル"
+    },
+    {
+      "english": "cocks",
+      "japanese": "クオックス"
+    },
+    {
+      "english": "coins",
+      "japanese": "クオインス"
+    },
+    {
+      "english": "collaboration",
+      "japanese": "クオルルアブオルアション"
+    },
+    {
+      "english": "collect",
+      "japanese": "クオルルエクト"
+    },
+    {
+      "english": "collectables",
+      "japanese": "クオルルエクトアブルエス"
+    },
+    {
+      "english": "collected",
+      "japanese": "クオルルエクトエド"
+    },
+    {
+      "english": "collectibles",
+      "japanese": "クオルルエクトイブルエス"
+    },
+    {
+      "english": "collections",
+      "japanese": "クオルルエクションス"
+    },
+    {
+      "english": "colleges",
+      "japanese": "クオルルエグエス"
+    },
+    {
+      "english": "colors",
+      "japanese": "色（三単現／複数）"
+    },
+    {
+      "english": "colour",
+      "japanese": "クオルオウル"
+    },
+    {
+      "english": "columbus",
+      "japanese": "クオルウムブウス"
+    },
+    {
+      "english": "columns",
+      "japanese": "クオルウムンス"
+    },
+    {
+      "english": "combat",
+      "japanese": "クオムブアト"
+    },
+    {
+      "english": "combination",
+      "japanese": "クオムブインアション"
+    },
+    {
+      "english": "combine",
+      "japanese": "クオムブインエ"
+    },
+    {
+      "english": "combined",
+      "japanese": "クオムブインエド"
+    },
+    {
+      "english": "comedy",
+      "japanese": "クオムエドイ"
+    },
+    {
+      "english": "comfort",
+      "japanese": "クオムフオルト"
+    },
+    {
+      "english": "comfortable",
+      "japanese": "クオムフオルトアブルエ"
+    },
+    {
+      "english": "comic",
+      "japanese": "クオムイク"
+    },
+    {
+      "english": "comics",
+      "japanese": "クオムイクス"
+    },
+    {
+      "english": "commands",
+      "japanese": "クオムムアンドス"
+    },
+    {
+      "english": "commentary",
+      "japanese": "クオムムエントアルイ"
+    },
+    {
+      "english": "commissioner",
+      "japanese": "クオムムイスションエル"
+    },
+    {
+      "english": "commit",
+      "japanese": "クオムムイト"
+    },
+    {
+      "english": "commitment",
+      "japanese": "クオムムイトムエント"
+    },
+    {
+      "english": "committed",
+      "japanese": "クオムムイトトエド"
+    },
+    {
+      "english": "committees",
+      "japanese": "クオムムイトトエエス"
+    },
+    {
+      "english": "commons",
+      "japanese": "クオムムオンス"
+    },
+    {
+      "english": "communicate",
+      "japanese": "クオムムウンイクアトエ"
+    },
+    {
+      "english": "compact",
+      "japanese": "クオムプアクト"
+    },
+    {
+      "english": "compaq",
+      "japanese": "クオムプアク"
+    },
+    {
+      "english": "compatible",
+      "japanese": "クオムプアトイブルエ"
+    },
+    {
+      "english": "compensation",
+      "japanese": "クオムプエンスアション"
+    },
+    {
+      "english": "competitive",
+      "japanese": "クオムプエトイトイヴエ"
+    },
+    {
+      "english": "compiled",
+      "japanese": "クオムプイルエド"
+    },
+    {
+      "english": "complaint",
+      "japanese": "クオムプルアイント"
+    },
+    {
+      "english": "complaints",
+      "japanese": "クオムプルアイントス"
+    },
+    {
+      "english": "completion",
+      "japanese": "クオムプルエション"
+    },
+    {
+      "english": "comply",
+      "japanese": "クオムプルイ"
+    },
+    {
+      "english": "composition",
+      "japanese": "クオムプオスイション"
+    },
+    {
+      "english": "con",
+      "japanese": "クオン"
+    },
+    {
+      "english": "concentration",
+      "japanese": "クオンクエントルアション"
+    },
+    {
+      "english": "concepts",
+      "japanese": "クオンクエプトス"
+    },
+    {
+      "english": "concern",
+      "japanese": "クオンクエルン"
+    },
+    {
+      "english": "concerned",
+      "japanese": "クオンクエルンエド"
+    },
+    {
+      "english": "concerning",
+      "japanese": "クオンクエルンイング"
+    },
+    {
+      "english": "concerns",
+      "japanese": "クオンクエルンス"
+    },
+    {
+      "english": "concert",
+      "japanese": "クオンクエルト"
+    },
+    {
+      "english": "conclusion",
+      "japanese": "クオンクルウション"
+    },
+    {
+      "english": "concrete",
+      "japanese": "クオンクルエトエ"
+    },
+    {
+      "english": "conduct",
+      "japanese": "クオンドウクト"
+    },
+    {
+      "english": "conducted",
+      "japanese": "クオンドウクトエド"
+    },
+    {
+      "english": "conferences",
+      "japanese": "クオンフエルエンクエス"
+    },
+    {
+      "english": "confidence",
+      "japanese": "クオンフイドエンクエ"
+    },
+    {
+      "english": "config",
+      "japanese": "クオンフイグ"
+    },
+    {
+      "english": "configure",
+      "japanese": "クオンフイグウルエ"
+    },
+    {
+      "english": "confirm",
+      "japanese": "クオンフイルム"
+    },
+    {
+      "english": "confirmed",
+      "japanese": "クオンフイルムエド"
+    },
+    {
+      "english": "conflict",
+      "japanese": "クオンフルイクト"
+    },
+    {
+      "english": "connected",
+      "japanese": "クオンンエクトエド"
+    },
+    {
+      "english": "connecticut",
+      "japanese": "クオンンエクトイクウト"
+    },
+    {
+      "english": "connections",
+      "japanese": "クオンンエクションス"
+    },
+    {
+      "english": "consent",
+      "japanese": "クオンスエント"
+    },
+    {
+      "english": "consequences",
+      "japanese": "クオンスエクンクエス"
+    },
+    {
+      "english": "conservation",
+      "japanese": "クオンスエルヴアション"
+    },
+    {
+      "english": "conservative",
+      "japanese": "クオンスエルヴアトイヴエ"
+    },
+    {
+      "english": "consideration",
+      "japanese": "クオンスイドエルアション"
+    },
+    {
+      "english": "considering",
+      "japanese": "クオンスイドエルイング"
+    },
+    {
+      "english": "consistent",
+      "japanese": "クオンスイストエント"
+    },
+    {
+      "english": "consists",
+      "japanese": "クオンスイストス"
+    },
+    {
+      "english": "console",
+      "japanese": "クオンスオルエ"
+    },
+    {
+      "english": "consolidation",
+      "japanese": "クオンスオルイドアション"
+    },
+    {
+      "english": "const",
+      "japanese": "クオンスト"
+    },
+    {
+      "english": "constant",
+      "japanese": "クオンストアント"
+    },
+    {
+      "english": "constitutes",
+      "japanese": "クオンストイトウトエス"
+    },
+    {
+      "english": "constitution",
+      "japanese": "クオンストイトウション"
+    },
+    {
+      "english": "consultant",
+      "japanese": "クオンスウルトアント"
+    },
+    {
+      "english": "consultants",
+      "japanese": "クオンスウルトアントス"
+    },
+    {
+      "english": "consultation",
+      "japanese": "クオンスウルトアション"
+    },
+    {
+      "english": "consulting",
+      "japanese": "クオンスウルトイング"
+    },
+    {
+      "english": "consumers",
+      "japanese": "クオンスウムエルス"
+    },
+    {
+      "english": "consumption",
+      "japanese": "クオンスウムプション"
+    },
+    {
+      "english": "contain",
+      "japanese": "クオントアイン"
+    },
+    {
+      "english": "contained",
+      "japanese": "クオントアインエド"
+    },
+    {
+      "english": "containing",
+      "japanese": "クオントアインイング"
+    },
+    {
+      "english": "contemporary",
+      "japanese": "クオントエムプオルアルイ"
+    },
+    {
+      "english": "contest",
+      "japanese": "クオントエスト"
+    },
+    {
+      "english": "continental",
+      "japanese": "クオントインエントアル"
+    },
+    {
+      "english": "continues",
+      "japanese": "クオントインウエス"
+    },
+    {
+      "english": "continuing",
+      "japanese": "クオントインウイング"
+    },
+    {
+      "english": "continuous",
+      "japanese": "クオントインウオウス"
+    },
+    {
+      "english": "contractor",
+      "japanese": "クオントルアクトオル"
+    },
+    {
+      "english": "contractors",
+      "japanese": "クオントルアクトオルス"
+    },
+    {
+      "english": "contracts",
+      "japanese": "クオントルアクトス"
+    },
+    {
+      "english": "contrast",
+      "japanese": "クオントルアスト"
+    },
+    {
+      "english": "contribute",
+      "japanese": "クオントルイブウトエ"
+    },
+    {
+      "english": "contributed",
+      "japanese": "クオントルイブウトエド"
+    },
+    {
+      "english": "contribution",
+      "japanese": "クオントルイブウション"
+    },
+    {
+      "english": "contributions",
+      "japanese": "クオントルイブウションス"
+    },
+    {
+      "english": "controlled",
+      "japanese": "クオントルオルルエド"
+    },
+    {
+      "english": "controller",
+      "japanese": "クオントルオルルエル"
+    },
+    {
+      "english": "controls",
+      "japanese": "クオントルオルス"
+    },
+    {
+      "english": "convention",
+      "japanese": "クオンヴエンション"
+    },
+    {
+      "english": "conversation",
+      "japanese": "クオンヴエルスアション"
+    },
+    {
+      "english": "conversion",
+      "japanese": "クオンヴエルション"
+    },
+    {
+      "english": "convert",
+      "japanese": "クオンヴエルト"
+    },
+    {
+      "english": "converted",
+      "japanese": "クオンヴエルトエド"
+    },
+    {
+      "english": "converter",
+      "japanese": "クオンヴエルトエル"
+    },
+    {
+      "english": "cook",
+      "japanese": "クオオク"
+    },
+    {
+      "english": "cookies",
+      "japanese": "クオオクイエス"
+    },
+    {
+      "english": "cooking",
+      "japanese": "クオオクイング"
+    },
+    {
+      "english": "cooling",
+      "japanese": "クオオルイング"
+    },
+    {
+      "english": "cooperation",
+      "japanese": "クオオプエルアション"
+    },
+    {
+      "english": "coordinator",
+      "japanese": "クオオルドインアトオル"
+    },
+    {
+      "english": "copies",
+      "japanese": "クオプイエス"
+    },
+    {
+      "english": "copper",
+      "japanese": "クオププエル"
+    },
+    {
+      "english": "correction",
+      "japanese": "クオルルエクション"
+    },
+    {
+      "english": "corrections",
+      "japanese": "クオルルエクションス"
+    },
+    {
+      "english": "correctly",
+      "japanese": "クオルルエクトルイ"
+    },
+    {
+      "english": "corresponding",
+      "japanese": "クオルルエスプオンドイング"
+    },
+    {
+      "english": "costa",
+      "japanese": "クオストア"
+    },
+    {
+      "english": "cotton",
+      "japanese": "クオトトオン"
+    },
+    {
+      "english": "counsel",
+      "japanese": "クオウンスエル"
+    },
+    {
+      "english": "counseling",
+      "japanese": "クオウンスエルイング"
+    },
+    {
+      "english": "counties",
+      "japanese": "クオウントイエス"
+    },
+    {
+      "english": "counts",
+      "japanese": "クオウントス"
+    },
+    {
+      "english": "couples",
+      "japanese": "クオウプルエス"
+    },
+    {
+      "english": "coupons",
+      "japanese": "クオウプオンス"
+    },
+    {
+      "english": "courts",
+      "japanese": "クオウルトス"
+    },
+    {
+      "english": "covering",
+      "japanese": "クオヴエルイング"
+    },
+    {
+      "english": "cp",
+      "japanese": "クプ"
+    },
+    {
+      "english": "cpu",
+      "japanese": "クプウ"
+    },
+    {
+      "english": "cr",
+      "japanese": "クル"
+    },
+    {
+      "english": "crack",
+      "japanese": "クルアック"
+    },
+    {
+      "english": "craft",
+      "japanese": "クルアフト"
+    },
+    {
+      "english": "crafts",
+      "japanese": "クルアフトス"
+    },
+    {
+      "english": "craig",
+      "japanese": "クルアイグ"
+    },
+    {
+      "english": "crash",
+      "japanese": "クルアシ"
+    },
+    {
+      "english": "crazy",
+      "japanese": "クルアズイ"
+    },
+    {
+      "english": "cream",
+      "japanese": "クルエアム"
+    },
+    {
+      "english": "creates",
+      "japanese": "クルエアトエス"
+    },
+    {
+      "english": "creation",
+      "japanese": "クルエアション"
+    },
+    {
+      "english": "crew",
+      "japanese": "クルエウ"
+    },
+    {
+      "english": "crisis",
+      "japanese": "クルイスイス"
+    },
+    {
+      "english": "crm",
+      "japanese": "クルム"
+    },
+    {
+      "english": "crown",
+      "japanese": "クルオウン"
+    },
+    {
+      "english": "cruise",
+      "japanese": "クルウイスエ"
+    },
+    {
+      "english": "cruises",
+      "japanese": "クルウイスエス"
+    },
+    {
+      "english": "crystal",
+      "japanese": "クルイストアル"
+    },
+    {
+      "english": "cs",
+      "japanese": "クス"
+    },
+    {
+      "english": "css",
+      "japanese": "クスス"
+    },
+    {
+      "english": "cst",
+      "japanese": "クスト"
+    },
+    {
+      "english": "cuba",
+      "japanese": "クウブア"
+    },
+    {
+      "english": "cumshot",
+      "japanese": "クウムシオト"
+    },
+    {
+      "english": "cumshots",
+      "japanese": "クウムシオトス"
+    },
+    {
+      "english": "curriculum",
+      "japanese": "クウルルイクウルウム"
+    },
+    {
+      "english": "customize",
+      "japanese": "クウストオムイズエ"
+    },
+    {
+      "english": "cute",
+      "japanese": "クウトエ"
+    },
+    {
+      "english": "cutting",
+      "japanese": "クウトトイング"
+    },
+    {
+      "english": "cycle",
+      "japanese": "クイクルエ"
+    },
+    {
+      "english": "cyprus",
+      "japanese": "クイプルウス"
+    },
+    {
+      "english": "czech",
+      "japanese": "クズエチ"
+    }
+  ]
+}

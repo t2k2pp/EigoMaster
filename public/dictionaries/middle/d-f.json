@@ -1,0 +1,1253 @@
+{
+  "name": "中学生 D-F",
+  "words": [
+    {
+      "english": "da",
+      "japanese": "デシベル（dB）などの略"
+    },
+    {
+      "english": "daily",
+      "japanese": "毎日の"
+    },
+    {
+      "english": "dakota",
+      "japanese": "ダコタ"
+    },
+    {
+      "english": "damage",
+      "japanese": "損害／損傷"
+    },
+    {
+      "english": "dance",
+      "japanese": "踊る／ダンス"
+    },
+    {
+      "english": "dark",
+      "japanese": "暗い"
+    },
+    {
+      "english": "database",
+      "japanese": "データベース"
+    },
+    {
+      "english": "dates",
+      "japanese": "日付（複数）／デート（複数）"
+    },
+    {
+      "english": "dating",
+      "japanese": "交際する"
+    },
+    {
+      "english": "dave",
+      "japanese": "デイブ（人名）"
+    },
+    {
+      "english": "david",
+      "japanese": "デイビッド（人名）"
+    },
+    {
+      "english": "dc",
+      "japanese": "直流／ワシントンD.C.（略）"
+    },
+    {
+      "english": "dead",
+      "japanese": "死んだ"
+    },
+    {
+      "english": "deal",
+      "japanese": "取引／扱う"
+    },
+    {
+      "english": "deals",
+      "japanese": "取引（複数）／お買い得"
+    },
+    {
+      "english": "death",
+      "japanese": "死"
+    },
+    {
+      "english": "debt",
+      "japanese": "借金／負債"
+    },
+    {
+      "english": "decided",
+      "japanese": "決めた"
+    },
+    {
+      "english": "decision",
+      "japanese": "決定／判断"
+    },
+    {
+      "english": "dedicated",
+      "japanese": "専用の／献身的な"
+    },
+    {
+      "english": "deep",
+      "japanese": "深い"
+    },
+    {
+      "english": "default",
+      "japanese": "既定／初期設定"
+    },
+    {
+      "english": "defense",
+      "japanese": "防衛／守備"
+    },
+    {
+      "english": "define",
+      "japanese": "定義する"
+    },
+    {
+      "english": "defined",
+      "japanese": "定義された"
+    },
+    {
+      "english": "definition",
+      "japanese": "定義"
+    },
+    {
+      "english": "degree",
+      "japanese": "程度／学位"
+    },
+    {
+      "english": "del",
+      "japanese": "削除（del キー）"
+    },
+    {
+      "english": "delete",
+      "japanese": "削除する"
+    },
+    {
+      "english": "demand",
+      "japanese": "需要／要求"
+    },
+    {
+      "english": "depth",
+      "japanese": "深さ"
+    },
+    {
+      "english": "des",
+      "japanese": "（略）"
+    },
+    {
+      "english": "described",
+      "japanese": "記述された／説明された"
+    },
+    {
+      "english": "designated",
+      "japanese": "指定された"
+    },
+    {
+      "english": "designed",
+      "japanese": "設計された"
+    },
+    {
+      "english": "designs",
+      "japanese": "デザイン（複数）"
+    },
+    {
+      "english": "desk",
+      "japanese": "机"
+    },
+    {
+      "english": "desktop",
+      "japanese": "デスクトップ"
+    },
+    {
+      "english": "destination",
+      "japanese": "目的地"
+    },
+    {
+      "english": "detail",
+      "japanese": "詳細"
+    },
+    {
+      "english": "detailed",
+      "japanese": "詳細な"
+    },
+    {
+      "english": "determine",
+      "japanese": "決定する／特定する"
+    },
+    {
+      "english": "determined",
+      "japanese": "決心した／特定された"
+    },
+    {
+      "english": "dev",
+      "japanese": "開発（略）"
+    },
+    {
+      "english": "develop",
+      "japanese": "発展させる／開発する"
+    },
+    {
+      "english": "developed",
+      "japanese": "発展した／開発された"
+    },
+    {
+      "english": "developer",
+      "japanese": "開発者"
+    },
+    {
+      "english": "developing",
+      "japanese": "開発している／発展途上の"
+    },
+    {
+      "english": "device",
+      "japanese": "装置／デバイス"
+    },
+    {
+      "english": "devices",
+      "japanese": "装置（複数）"
+    },
+    {
+      "english": "di",
+      "japanese": "（略）"
+    },
+    {
+      "english": "diamond",
+      "japanese": "ダイヤモンド"
+    },
+    {
+      "english": "dictionary",
+      "japanese": "辞書"
+    },
+    {
+      "english": "die",
+      "japanese": "死ぬ"
+    },
+    {
+      "english": "died",
+      "japanese": "死んだ"
+    },
+    {
+      "english": "diego",
+      "japanese": "ディエゴ（地名・人名）"
+    },
+    {
+      "english": "diet",
+      "japanese": "食事／ダイエット"
+    },
+    {
+      "english": "difference",
+      "japanese": "違い／差"
+    },
+    {
+      "english": "difficult",
+      "japanese": "難しい"
+    },
+    {
+      "english": "dining",
+      "japanese": "ドインイング"
+    },
+    {
+      "english": "direct",
+      "japanese": "ドイルエクト"
+    },
+    {
+      "english": "direction",
+      "japanese": "ドイルエクション"
+    },
+    {
+      "english": "directions",
+      "japanese": "ドイルエクションス"
+    },
+    {
+      "english": "directly",
+      "japanese": "ドイルエクトルイ"
+    },
+    {
+      "english": "director",
+      "japanese": "ドイルエクトオル"
+    },
+    {
+      "english": "disc",
+      "japanese": "ドイスク"
+    },
+    {
+      "english": "disclaimer",
+      "japanese": "ドイスクルアイムエル"
+    },
+    {
+      "english": "discount",
+      "japanese": "ドイスクオウント"
+    },
+    {
+      "english": "discuss",
+      "japanese": "ドイスクウスス"
+    },
+    {
+      "english": "discussions",
+      "japanese": "ドイスクウスションス"
+    },
+    {
+      "english": "disease",
+      "japanese": "ドイスエアスエ"
+    },
+    {
+      "english": "disk",
+      "japanese": "ドイスク"
+    },
+    {
+      "english": "display",
+      "japanese": "ドイスプルアイ"
+    },
+    {
+      "english": "distance",
+      "japanese": "ドイストアンクエ"
+    },
+    {
+      "english": "distribution",
+      "japanese": "ドイストルイブウション"
+    },
+    {
+      "english": "district",
+      "japanese": "ドイストルイクト"
+    },
+    {
+      "english": "division",
+      "japanese": "ドイヴイション"
+    },
+    {
+      "english": "dj",
+      "japanese": "ドジ"
+    },
+    {
+      "english": "doctor",
+      "japanese": "ドオクトオル"
+    },
+    {
+      "english": "document",
+      "japanese": "ドオクウムエント"
+    },
+    {
+      "english": "documentation",
+      "japanese": "ドオクウムエントアション"
+    },
+    {
+      "english": "documents",
+      "japanese": "ドオクウムエントス"
+    },
+    {
+      "english": "dog",
+      "japanese": "犬"
+    },
+    {
+      "english": "doing",
+      "japanese": "する（進行）"
+    },
+    {
+      "english": "dollar",
+      "japanese": "ドオルルアル"
+    },
+    {
+      "english": "dollars",
+      "japanese": "ドオルルアルス"
+    },
+    {
+      "english": "domain",
+      "japanese": "ドオムアイン"
+    },
+    {
+      "english": "domestic",
+      "japanese": "ドオムエストイク"
+    },
+    {
+      "english": "done",
+      "japanese": "ドオンエ"
+    },
+    {
+      "english": "door",
+      "japanese": "ドア"
+    },
+    {
+      "english": "double",
+      "japanese": "二倍の／ダブル"
+    },
+    {
+      "english": "downloads",
+      "japanese": "ダウンロード（複数）"
+    },
+    {
+      "english": "dr",
+      "japanese": "Dr.（医師・博士の敬称）"
+    },
+    {
+      "english": "draft",
+      "japanese": "下書き／草案"
+    },
+    {
+      "english": "dream",
+      "japanese": "夢"
+    },
+    {
+      "english": "drive",
+      "japanese": "運転する／ドライブ"
+    },
+    {
+      "english": "driver",
+      "japanese": "運転手／ドライバー"
+    },
+    {
+      "english": "driving",
+      "japanese": "運転している"
+    },
+    {
+      "english": "drop",
+      "japanese": "落とす／しずく"
+    },
+    {
+      "english": "drug",
+      "japanese": "薬／麻薬"
+    },
+    {
+      "english": "drugs",
+      "japanese": "薬（複数）／麻薬"
+    },
+    {
+      "english": "dry",
+      "japanese": "乾いた／乾かす"
+    },
+    {
+      "english": "du",
+      "japanese": "（略）"
+    },
+    {
+      "english": "due",
+      "japanese": "期限の／～のために"
+    },
+    {
+      "english": "duty",
+      "japanese": "義務／税"
+    },
+    {
+      "english": "dvds",
+      "japanese": "DVD（複数）"
+    },
+    {
+      "english": "earlier",
+      "japanese": "より早く／以前の"
+    },
+    {
+      "english": "early",
+      "japanese": "早い／初期の"
+    },
+    {
+      "english": "earth",
+      "japanese": "地球／土"
+    },
+    {
+      "english": "easily",
+      "japanese": "簡単に"
+    },
+    {
+      "english": "eastern",
+      "japanese": "東部の"
+    },
+    {
+      "english": "economic",
+      "japanese": "経済の"
+    },
+    {
+      "english": "economy",
+      "japanese": "経済"
+    },
+    {
+      "english": "ed",
+      "japanese": "教育（edu 略）／編集（ed.）"
+    },
+    {
+      "english": "edge",
+      "japanese": "縁／刃先／端"
+    },
+    {
+      "english": "edit",
+      "japanese": "編集する"
+    },
+    {
+      "english": "editor",
+      "japanese": "編集者"
+    },
+    {
+      "english": "educational",
+      "japanese": "教育の"
+    },
+    {
+      "english": "effect",
+      "japanese": "効果／影響"
+    },
+    {
+      "english": "effective",
+      "japanese": "効果的な"
+    },
+    {
+      "english": "effects",
+      "japanese": "効果（複数）"
+    },
+    {
+      "english": "effort",
+      "japanese": "努力"
+    },
+    {
+      "english": "efforts",
+      "japanese": "努力（複数）"
+    },
+    {
+      "english": "eg",
+      "japanese": "例（e.g.）"
+    },
+    {
+      "english": "eight",
+      "japanese": "八"
+    },
+    {
+      "english": "either",
+      "japanese": "どちらか／～もまた"
+    },
+    {
+      "english": "el",
+      "japanese": "スペイン語の定冠詞（el）／（略）"
+    },
+    {
+      "english": "election",
+      "japanese": "エルエクション"
+    },
+    {
+      "english": "electric",
+      "japanese": "エルエクトルイク"
+    },
+    {
+      "english": "electrical",
+      "japanese": "エルエクトルイクアル"
+    },
+    {
+      "english": "electronic",
+      "japanese": "エルエクトルオンイク"
+    },
+    {
+      "english": "electronics",
+      "japanese": "エルエクトルオンイクス"
+    },
+    {
+      "english": "element",
+      "japanese": "エルエムエント"
+    },
+    {
+      "english": "elements",
+      "japanese": "エルエムエントス"
+    },
+    {
+      "english": "eligible",
+      "japanese": "エルイグイブルエ"
+    },
+    {
+      "english": "else",
+      "japanese": "エルスエ"
+    },
+    {
+      "english": "em",
+      "japanese": "エム"
+    },
+    {
+      "english": "emergency",
+      "japanese": "エムエルグエンクイ"
+    },
+    {
+      "english": "employee",
+      "japanese": "エムプルオイエエ"
+    },
+    {
+      "english": "employees",
+      "japanese": "従業員（複数）"
+    },
+    {
+      "english": "employment",
+      "japanese": "雇用"
+    },
+    {
+      "english": "en",
+      "japanese": "英語（en 略）"
+    },
+    {
+      "english": "enable",
+      "japanese": "有効にする"
+    },
+    {
+      "english": "ended",
+      "japanese": "終わった"
+    },
+    {
+      "english": "ending",
+      "japanese": "結末／終了"
+    },
+    {
+      "english": "ends",
+      "japanese": "終わり（複数）"
+    },
+    {
+      "english": "engine",
+      "japanese": "エンジン"
+    },
+    {
+      "english": "engineering",
+      "japanese": "工学"
+    },
+    {
+      "english": "england",
+      "japanese": "イングランド"
+    },
+    {
+      "english": "enjoy",
+      "japanese": "楽しむ"
+    },
+    {
+      "english": "enlarge",
+      "japanese": "拡大する"
+    },
+    {
+      "english": "enough",
+      "japanese": "十分な／十分に"
+    },
+    {
+      "english": "ensure",
+      "japanese": "確実にする／保証する"
+    },
+    {
+      "english": "enterprise",
+      "japanese": "企業／事業"
+    },
+    {
+      "english": "entire",
+      "japanese": "全体の／完全な"
+    },
+    {
+      "english": "entries",
+      "japanese": "項目（複数）／エントリー（複数）"
+    },
+    {
+      "english": "entry",
+      "japanese": "項目／入力／入場"
+    },
+    {
+      "english": "environment",
+      "japanese": "環境"
+    },
+    {
+      "english": "environmental",
+      "japanese": "環境の"
+    },
+    {
+      "english": "equal",
+      "japanese": "等しい"
+    },
+    {
+      "english": "error",
+      "japanese": "エラー／誤り"
+    },
+    {
+      "english": "errors",
+      "japanese": "エラー（複数）"
+    },
+    {
+      "english": "especially",
+      "japanese": "とくに"
+    },
+    {
+      "english": "essential",
+      "japanese": "不可欠な"
+    },
+    {
+      "english": "est",
+      "japanese": "米国東部標準時（EST）"
+    },
+    {
+      "english": "established",
+      "japanese": "設立された／確立した"
+    },
+    {
+      "english": "estimated",
+      "japanese": "推定の／見積もり"
+    },
+    {
+      "english": "et",
+      "japanese": "など（et）"
+    },
+    {
+      "english": "etc",
+      "japanese": "など（etc.）"
+    },
+    {
+      "english": "eu",
+      "japanese": "欧州連合（EU）"
+    },
+    {
+      "english": "eur",
+      "japanese": "ユーロ（EUR）"
+    },
+    {
+      "english": "europe",
+      "japanese": "エウルオプエ"
+    },
+    {
+      "english": "european",
+      "japanese": "エウルオプエアン"
+    },
+    {
+      "english": "evaluation",
+      "japanese": "エヴアルウアション"
+    },
+    {
+      "english": "evening",
+      "japanese": "夕方"
+    },
+    {
+      "english": "ever",
+      "japanese": "エヴエル"
+    },
+    {
+      "english": "everyone",
+      "japanese": "エヴエルイオンエ"
+    },
+    {
+      "english": "everything",
+      "japanese": "エヴエルイスイング"
+    },
+    {
+      "english": "evidence",
+      "japanese": "エヴイドエンクエ"
+    },
+    {
+      "english": "ex",
+      "japanese": "エクス"
+    },
+    {
+      "english": "exactly",
+      "japanese": "エクスアクトルイ"
+    },
+    {
+      "english": "examples",
+      "japanese": "エクスアムプルエス"
+    },
+    {
+      "english": "excellent",
+      "japanese": "エクスクエルルエント"
+    },
+    {
+      "english": "except",
+      "japanese": "エクスクエプト"
+    },
+    {
+      "english": "exchange",
+      "japanese": "エクスチアングエ"
+    },
+    {
+      "english": "executive",
+      "japanese": "エクスエクウトイヴエ"
+    },
+    {
+      "english": "exercise",
+      "japanese": "エクスエルクイスエ"
+    },
+    {
+      "english": "existing",
+      "japanese": "エクスイストイング"
+    },
+    {
+      "english": "expect",
+      "japanese": "エクスプエクト"
+    },
+    {
+      "english": "expected",
+      "japanese": "エクスプエクトエド"
+    },
+    {
+      "english": "expert",
+      "japanese": "エクスプエルト"
+    },
+    {
+      "english": "experts",
+      "japanese": "エクスプエルトス"
+    },
+    {
+      "english": "explore",
+      "japanese": "エクスプルオルエ"
+    },
+    {
+      "english": "express",
+      "japanese": "エクスプルエスス"
+    },
+    {
+      "english": "extended",
+      "japanese": "エクストエンドエド"
+    },
+    {
+      "english": "extension",
+      "japanese": "エクストエンション"
+    },
+    {
+      "english": "external",
+      "japanese": "エクストエルンアル"
+    },
+    {
+      "english": "extra",
+      "japanese": "追加の／特別の"
+    },
+    {
+      "english": "eye",
+      "japanese": "目"
+    },
+    {
+      "english": "eyes",
+      "japanese": "目（複数）"
+    },
+    {
+      "english": "face",
+      "japanese": "顔／向き合う"
+    },
+    {
+      "english": "facilities",
+      "japanese": "施設（複数）"
+    },
+    {
+      "english": "facility",
+      "japanese": "施設"
+    },
+    {
+      "english": "fact",
+      "japanese": "事実"
+    },
+    {
+      "english": "factor",
+      "japanese": "要因"
+    },
+    {
+      "english": "factors",
+      "japanese": "要因（複数）"
+    },
+    {
+      "english": "facts",
+      "japanese": "事実（複数）"
+    },
+    {
+      "english": "faculty",
+      "japanese": "（大学の）学部／教員"
+    },
+    {
+      "english": "failure",
+      "japanese": "失敗／故障"
+    },
+    {
+      "english": "fair",
+      "japanese": "公平な／見本市"
+    },
+    {
+      "english": "faith",
+      "japanese": "信仰／信用"
+    },
+    {
+      "english": "fall",
+      "japanese": "落ちる／秋"
+    },
+    {
+      "english": "falls",
+      "japanese": "滝／落ちる（三単現）"
+    },
+    {
+      "english": "false",
+      "japanese": "偽の／誤った"
+    },
+    {
+      "english": "families",
+      "japanese": "家族（複数）"
+    },
+    {
+      "english": "fan",
+      "japanese": "ファン／扇風機"
+    },
+    {
+      "english": "fantasy",
+      "japanese": "空想／ファンタジー"
+    },
+    {
+      "english": "far",
+      "japanese": "遠くに／はるかに"
+    },
+    {
+      "english": "farm",
+      "japanese": "農場"
+    },
+    {
+      "english": "fashion",
+      "japanese": "流行／ファッション"
+    },
+    {
+      "english": "fast",
+      "japanese": "速い／断食する"
+    },
+    {
+      "english": "faster",
+      "japanese": "より速い"
+    },
+    {
+      "english": "fat",
+      "japanese": "脂肪／太った"
+    },
+    {
+      "english": "father",
+      "japanese": "父"
+    },
+    {
+      "english": "favorite",
+      "japanese": "お気に入りの"
+    },
+    {
+      "english": "feature",
+      "japanese": "機能／特徴"
+    },
+    {
+      "english": "featured",
+      "japanese": "特集された／目玉の"
+    },
+    {
+      "english": "feb",
+      "japanese": "2月（略）"
+    },
+    {
+      "english": "federal",
+      "japanese": "連邦の"
+    },
+    {
+      "english": "fee",
+      "japanese": "料金／手数料"
+    },
+    {
+      "english": "feed",
+      "japanese": "餌を与える／フィード"
+    },
+    {
+      "english": "feeds",
+      "japanese": "フィード（複数）"
+    },
+    {
+      "english": "feel",
+      "japanese": "感じる"
+    },
+    {
+      "english": "fees",
+      "japanese": "料金（複数）／手数料（複数）"
+    },
+    {
+      "english": "feet",
+      "japanese": "フィート（複数）／足"
+    },
+    {
+      "english": "felt",
+      "japanese": "感じた／フェルト"
+    },
+    {
+      "english": "female",
+      "japanese": "女性の"
+    },
+    {
+      "english": "festival",
+      "japanese": "祭り／フェスティバル"
+    },
+    {
+      "english": "fi",
+      "japanese": "（略）"
+    },
+    {
+      "english": "fiction",
+      "japanese": "小説／フィクション"
+    },
+    {
+      "english": "fields",
+      "japanese": "分野（複数）／畑（複数）"
+    },
+    {
+      "english": "figure",
+      "japanese": "数字／人物／図"
+    },
+    {
+      "english": "fill",
+      "japanese": "満たす／記入する"
+    },
+    {
+      "english": "films",
+      "japanese": "映画（複数）"
+    },
+    {
+      "english": "filter",
+      "japanese": "フィルター"
+    },
+    {
+      "english": "final",
+      "japanese": "最後の／決勝の"
+    },
+    {
+      "english": "finally",
+      "japanese": "ついに／最後に"
+    },
+    {
+      "english": "finance",
+      "japanese": "財務／金融"
+    },
+    {
+      "english": "finding",
+      "japanese": "発見／判決"
+    },
+    {
+      "english": "fine",
+      "japanese": "よい／細かい／罰金"
+    },
+    {
+      "english": "fire",
+      "japanese": "火／解雇する"
+    },
+    {
+      "english": "firm",
+      "japanese": "会社／堅い"
+    },
+    {
+      "english": "fish",
+      "japanese": "魚"
+    },
+    {
+      "english": "fishing",
+      "japanese": "釣り"
+    },
+    {
+      "english": "fit",
+      "japanese": "合う／適した"
+    },
+    {
+      "english": "fitness",
+      "japanese": "体力／フィットネス"
+    },
+    {
+      "english": "five",
+      "japanese": "五"
+    },
+    {
+      "english": "fix",
+      "japanese": "修理する／固定する"
+    },
+    {
+      "english": "fixed",
+      "japanese": "固定された／修理された"
+    },
+    {
+      "english": "fl",
+      "japanese": "フロリダ州（略）"
+    },
+    {
+      "english": "flag",
+      "japanese": "旗"
+    },
+    {
+      "english": "flash",
+      "japanese": "閃光／フラッシュ"
+    },
+    {
+      "english": "flat",
+      "japanese": "平らな／アパート（英）"
+    },
+    {
+      "english": "flight",
+      "japanese": "便／飛行"
+    },
+    {
+      "english": "flights",
+      "japanese": "便（複数）"
+    },
+    {
+      "english": "floor",
+      "japanese": "床／階"
+    },
+    {
+      "english": "florida",
+      "japanese": "フロリダ"
+    },
+    {
+      "english": "flow",
+      "japanese": "流れ"
+    },
+    {
+      "english": "flower",
+      "japanese": "花"
+    },
+    {
+      "english": "flowers",
+      "japanese": "花（複数）"
+    },
+    {
+      "english": "focus",
+      "japanese": "焦点／集中する"
+    },
+    {
+      "english": "follow",
+      "japanese": "従う／フォローする"
+    },
+    {
+      "english": "follows",
+      "japanese": "従う（三単現）"
+    },
+    {
+      "english": "foot",
+      "japanese": "足／フィート"
+    },
+    {
+      "english": "football",
+      "japanese": "フットボール／サッカー（地域による）"
+    },
+    {
+      "english": "force",
+      "japanese": "力／強制する"
+    },
+    {
+      "english": "forces",
+      "japanese": "軍隊／力（複数）"
+    },
+    {
+      "english": "ford",
+      "japanese": "フォード（社名・地名）"
+    },
+    {
+      "english": "foreign",
+      "japanese": "外国の"
+    },
+    {
+      "english": "forest",
+      "japanese": "森林"
+    },
+    {
+      "english": "forgot",
+      "japanese": "忘れた"
+    },
+    {
+      "english": "former",
+      "japanese": "以前の／元の"
+    },
+    {
+      "english": "forms",
+      "japanese": "形（複数）／用紙（複数）"
+    },
+    {
+      "english": "fort",
+      "japanese": "要塞"
+    },
+    {
+      "english": "forward",
+      "japanese": "前へ／転送する"
+    },
+    {
+      "english": "foundation",
+      "japanese": "土台／基金"
+    },
+    {
+      "english": "frame",
+      "japanese": "枠／骨組み"
+    },
+    {
+      "english": "framework",
+      "japanese": "枠組み／フレームワーク"
+    },
+    {
+      "english": "france",
+      "japanese": "フランス"
+    },
+    {
+      "english": "francisco",
+      "japanese": "フランシスコ"
+    },
+    {
+      "english": "freedom",
+      "japanese": "自由"
+    },
+    {
+      "english": "french",
+      "japanese": "フランス語／フランスの"
+    },
+    {
+      "english": "frequently",
+      "japanese": "しばしば"
+    },
+    {
+      "english": "fresh",
+      "japanese": "新鮮な"
+    },
+    {
+      "english": "fri",
+      "japanese": "金（略）"
+    },
+    {
+      "english": "friday",
+      "japanese": "金曜日"
+    },
+    {
+      "english": "friendly",
+      "japanese": "親しみやすい"
+    },
+    {
+      "english": "front",
+      "japanese": "前部／前線"
+    },
+    {
+      "english": "ft",
+      "japanese": "フィート（略）"
+    },
+    {
+      "english": "fuck",
+      "japanese": "（不適切語）"
+    },
+    {
+      "english": "fucking",
+      "japanese": "（不適切語）"
+    },
+    {
+      "english": "fuel",
+      "japanese": "燃料"
+    },
+    {
+      "english": "fully",
+      "japanese": "完全に"
+    },
+    {
+      "english": "fun",
+      "japanese": "楽しいこと"
+    },
+    {
+      "english": "function",
+      "japanese": "機能"
+    },
+    {
+      "english": "functional",
+      "japanese": "機能的な"
+    },
+    {
+      "english": "functions",
+      "japanese": "機能（複数）／関数（複数）"
+    },
+    {
+      "english": "fund",
+      "japanese": "基金／資金"
+    },
+    {
+      "english": "funding",
+      "japanese": "資金提供"
+    },
+    {
+      "english": "funds",
+      "japanese": "資金（複数）"
+    },
+    {
+      "english": "funny",
+      "japanese": "おかしい／変な"
+    }
+    {
+      "english": "furniture",
+      "japanese": "フウルンイチャー"
+    }
+  ]
+}

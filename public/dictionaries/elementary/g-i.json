@@ -1,0 +1,289 @@
+{
+  "name": "小学生 G-I",
+  "words": [
+    {
+      "english": "gallery",
+      "japanese": "ギャラリー"
+    },
+    {
+      "english": "game",
+      "japanese": "ゲーム"
+    },
+    {
+      "english": "games",
+      "japanese": "ゲーム（複数）"
+    },
+    {
+      "english": "garden",
+      "japanese": "庭"
+    },
+    {
+      "english": "gay",
+      "japanese": "ゲイ"
+    },
+    {
+      "english": "general",
+      "japanese": "一般の"
+    },
+    {
+      "english": "get",
+      "japanese": "得る"
+    },
+    {
+      "english": "gift",
+      "japanese": "贈り物"
+    },
+    {
+      "english": "girls",
+      "japanese": "女の子たち"
+    },
+    {
+      "english": "give",
+      "japanese": "与える"
+    },
+    {
+      "english": "given",
+      "japanese": "与えられた"
+    },
+    {
+      "english": "go",
+      "japanese": "行く"
+    },
+    {
+      "english": "god",
+      "japanese": "神"
+    },
+    {
+      "english": "going",
+      "japanese": "行く（進行）"
+    },
+    {
+      "english": "good",
+      "japanese": "よい"
+    },
+    {
+      "english": "got",
+      "japanese": "得た"
+    },
+    {
+      "english": "government",
+      "japanese": "政府"
+    },
+    {
+      "english": "great",
+      "japanese": "すばらしい"
+    },
+    {
+      "english": "group",
+      "japanese": "グループ"
+    },
+    {
+      "english": "groups",
+      "japanese": "グループ（複数）"
+    },
+    {
+      "english": "guide",
+      "japanese": "案内"
+    },
+    {
+      "english": "had",
+      "japanese": "持っていた"
+    },
+    {
+      "english": "hand",
+      "japanese": "手"
+    },
+    {
+      "english": "hard",
+      "japanese": "難しい"
+    },
+    {
+      "english": "has",
+      "japanese": "持っている"
+    },
+    {
+      "english": "have",
+      "japanese": "持つ"
+    },
+    {
+      "english": "he",
+      "japanese": "かれ"
+    },
+    {
+      "english": "head",
+      "japanese": "頭"
+    },
+    {
+      "english": "health",
+      "japanese": "ハエアルス"
+    },
+    {
+      "english": "help",
+      "japanese": "助ける"
+    },
+    {
+      "english": "her",
+      "japanese": "彼女の／彼女を"
+    },
+    {
+      "english": "here",
+      "japanese": "ここ"
+    },
+    {
+      "english": "high",
+      "japanese": "高い"
+    },
+    {
+      "english": "him",
+      "japanese": "彼を"
+    },
+    {
+      "english": "his",
+      "japanese": "彼の"
+    },
+    {
+      "english": "history",
+      "japanese": "歴史"
+    },
+    {
+      "english": "home",
+      "japanese": "家"
+    },
+    {
+      "english": "hot",
+      "japanese": "熱い"
+    },
+    {
+      "english": "hotel",
+      "japanese": "ホテル"
+    },
+    {
+      "english": "hotels",
+      "japanese": "ホテル（複数）"
+    },
+    {
+      "english": "hours",
+      "japanese": "時間（複数）"
+    },
+    {
+      "english": "house",
+      "japanese": "家"
+    },
+    {
+      "english": "how",
+      "japanese": "どうやって"
+    },
+    {
+      "english": "however",
+      "japanese": "しかしながら"
+    },
+    {
+      "english": "human",
+      "japanese": "人間"
+    },
+    {
+      "english": "id",
+      "japanese": "ID／身分証"
+    },
+    {
+      "english": "if",
+      "japanese": "もし"
+    },
+    {
+      "english": "ii",
+      "japanese": "II（ローマ数字）"
+    },
+    {
+      "english": "image",
+      "japanese": "画像"
+    },
+    {
+      "english": "images",
+      "japanese": "画像（複数）"
+    },
+    {
+      "english": "important",
+      "japanese": "重要な"
+    },
+    {
+      "english": "in",
+      "japanese": "～の中に"
+    },
+    {
+      "english": "include",
+      "japanese": "含む"
+    },
+    {
+      "english": "includes",
+      "japanese": "含む（三単現）"
+    },
+    {
+      "english": "including",
+      "japanese": "含んで"
+    },
+    {
+      "english": "index",
+      "japanese": "索引"
+    },
+    {
+      "english": "industry",
+      "japanese": "産業"
+    },
+    {
+      "english": "info",
+      "japanese": "情報"
+    },
+    {
+      "english": "information",
+      "japanese": "情報"
+    },
+    {
+      "english": "insurance",
+      "japanese": "保険"
+    },
+    {
+      "english": "interest",
+      "japanese": "興味／利子"
+    },
+    {
+      "english": "international",
+      "japanese": "国際的な"
+    },
+    {
+      "english": "internet",
+      "japanese": "インターネット"
+    },
+    {
+      "english": "into",
+      "japanese": "～の中へ"
+    },
+    {
+      "english": "is",
+      "japanese": "～である"
+    },
+    {
+      "english": "issue",
+      "japanese": "問題"
+    },
+    {
+      "english": "issues",
+      "japanese": "問題（複数）"
+    },
+    {
+      "english": "it",
+      "japanese": "それ"
+    },
+    {
+      "english": "item",
+      "japanese": "項目"
+    },
+    {
+      "english": "items",
+      "japanese": "項目（複数）"
+    },
+    {
+      "english": "its",
+      "japanese": "その"
+    }
+  ]
+}

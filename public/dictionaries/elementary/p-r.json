@@ -1,0 +1,389 @@
+{
+  "name": "小学生 P-R",
+  "words": [
+    {
+      "english": "page",
+      "japanese": "ページ"
+    },
+    {
+      "english": "pages",
+      "japanese": "ページ（複数）"
+    },
+    {
+      "english": "paper",
+      "japanese": "紙／レポート"
+    },
+    {
+      "english": "park",
+      "japanese": "公園"
+    },
+    {
+      "english": "part",
+      "japanese": "部分"
+    },
+    {
+      "english": "party",
+      "japanese": "パーティー／政党"
+    },
+    {
+      "english": "password",
+      "japanese": "パスワード"
+    },
+    {
+      "english": "pay",
+      "japanese": "支払う"
+    },
+    {
+      "english": "payment",
+      "japanese": "支払い"
+    },
+    {
+      "english": "pc",
+      "japanese": "PC"
+    },
+    {
+      "english": "people",
+      "japanese": "人々"
+    },
+    {
+      "english": "per",
+      "japanese": "～につき"
+    },
+    {
+      "english": "performance",
+      "japanese": "成績／性能／上演"
+    },
+    {
+      "english": "person",
+      "japanese": "人"
+    },
+    {
+      "english": "personal",
+      "japanese": "個人の"
+    },
+    {
+      "english": "phone",
+      "japanese": "電話"
+    },
+    {
+      "english": "photo",
+      "japanese": "写真"
+    },
+    {
+      "english": "photos",
+      "japanese": "写真（複数）"
+    },
+    {
+      "english": "picture",
+      "japanese": "絵／写真"
+    },
+    {
+      "english": "pictures",
+      "japanese": "絵／写真（複数）"
+    },
+    {
+      "english": "place",
+      "japanese": "場所"
+    },
+    {
+      "english": "plan",
+      "japanese": "計画"
+    },
+    {
+      "english": "play",
+      "japanese": "あそぶ"
+    },
+    {
+      "english": "please",
+      "japanese": "お願いします"
+    },
+    {
+      "english": "pm",
+      "japanese": "午後（略）"
+    },
+    {
+      "english": "point",
+      "japanese": "点"
+    },
+    {
+      "english": "poker",
+      "japanese": "ポーカー"
+    },
+    {
+      "english": "policy",
+      "japanese": "方針／ポリシー"
+    },
+    {
+      "english": "popular",
+      "japanese": "人気のある"
+    },
+    {
+      "english": "porn",
+      "japanese": "ポルノ"
+    },
+    {
+      "english": "possible",
+      "japanese": "可能な"
+    },
+    {
+      "english": "post",
+      "japanese": "プオスト"
+    },
+    {
+      "english": "posted",
+      "japanese": "投稿した"
+    },
+    {
+      "english": "posts",
+      "japanese": "投稿（複数）"
+    },
+    {
+      "english": "power",
+      "japanese": "力／電力"
+    },
+    {
+      "english": "president",
+      "japanese": "大統領／社長"
+    },
+    {
+      "english": "press",
+      "japanese": "押す／報道"
+    },
+    {
+      "english": "previous",
+      "japanese": "前の"
+    },
+    {
+      "english": "price",
+      "japanese": "価格"
+    },
+    {
+      "english": "prices",
+      "japanese": "価格（複数）"
+    },
+    {
+      "english": "print",
+      "japanese": "印刷する"
+    },
+    {
+      "english": "privacy",
+      "japanese": "プライバシー"
+    },
+    {
+      "english": "private",
+      "japanese": "私的な／民間の"
+    },
+    {
+      "english": "problem",
+      "japanese": "問題"
+    },
+    {
+      "english": "problems",
+      "japanese": "問題（複数）"
+    },
+    {
+      "english": "process",
+      "japanese": "過程／処理"
+    },
+    {
+      "english": "product",
+      "japanese": "製品"
+    },
+    {
+      "english": "products",
+      "japanese": "製品（複数）"
+    },
+    {
+      "english": "professional",
+      "japanese": "専門的な／プロの"
+    },
+    {
+      "english": "profile",
+      "japanese": "プロフィール"
+    },
+    {
+      "english": "program",
+      "japanese": "番組／プログラム"
+    },
+    {
+      "english": "programs",
+      "japanese": "番組／プログラム（複数）"
+    },
+    {
+      "english": "project",
+      "japanese": "計画／プロジェクト"
+    },
+    {
+      "english": "property",
+      "japanese": "財産／不動産"
+    },
+    {
+      "english": "provide",
+      "japanese": "提供する"
+    },
+    {
+      "english": "provided",
+      "japanese": "提供された"
+    },
+    {
+      "english": "public",
+      "japanese": "公共の／公の"
+    },
+    {
+      "english": "put",
+      "japanese": "置く"
+    },
+    {
+      "english": "quality",
+      "japanese": "品質"
+    },
+    {
+      "english": "question",
+      "japanese": "質問"
+    },
+    {
+      "english": "questions",
+      "japanese": "質問（複数）"
+    },
+    {
+      "english": "quote",
+      "japanese": "引用"
+    },
+    {
+      "english": "radio",
+      "japanese": "ラジオ"
+    },
+    {
+      "english": "range",
+      "japanese": "範囲"
+    },
+    {
+      "english": "rate",
+      "japanese": "ルアトエ"
+    },
+    {
+      "english": "rates",
+      "japanese": "ルアトエス"
+    },
+    {
+      "english": "rating",
+      "japanese": "ルアトイング"
+    },
+    {
+      "english": "re",
+      "japanese": "ルエ"
+    },
+    {
+      "english": "read",
+      "japanese": "読む"
+    },
+    {
+      "english": "real",
+      "japanese": "本当の／現実の"
+    },
+    {
+      "english": "really",
+      "japanese": "本当に"
+    },
+    {
+      "english": "recent",
+      "japanese": "最近の"
+    },
+    {
+      "english": "red",
+      "japanese": "あか"
+    },
+    {
+      "english": "reference",
+      "japanese": "参照"
+    },
+    {
+      "english": "register",
+      "japanese": "登録する"
+    },
+    {
+      "english": "related",
+      "japanese": "関連した"
+    },
+    {
+      "english": "release",
+      "japanese": "発売／解放"
+    },
+    {
+      "english": "reply",
+      "japanese": "返信する"
+    },
+    {
+      "english": "report",
+      "japanese": "報告書／報告する"
+    },
+    {
+      "english": "reports",
+      "japanese": "報告書（複数）"
+    },
+    {
+      "english": "request",
+      "japanese": "依頼／要求"
+    },
+    {
+      "english": "required",
+      "japanese": "必須の"
+    },
+    {
+      "english": "research",
+      "japanese": "研究"
+    },
+    {
+      "english": "reserved",
+      "japanese": "予約済み／権利保有"
+    },
+    {
+      "english": "resources",
+      "japanese": "資源／リソース（複数）"
+    },
+    {
+      "english": "result",
+      "japanese": "結果"
+    },
+    {
+      "english": "results",
+      "japanese": "結果（複数）"
+    },
+    {
+      "english": "return",
+      "japanese": "戻る／返す"
+    },
+    {
+      "english": "review",
+      "japanese": "レビュー"
+    },
+    {
+      "english": "reviews",
+      "japanese": "レビュー（複数）"
+    },
+    {
+      "english": "right",
+      "japanese": "右／権利"
+    },
+    {
+      "english": "rights",
+      "japanese": "権利（複数）"
+    },
+    {
+      "english": "road",
+      "japanese": "道"
+    },
+    {
+      "english": "room",
+      "japanese": "部屋"
+    },
+    {
+      "english": "rss",
+      "japanese": "RSS"
+    },
+    {
+      "english": "run",
+      "japanese": "はしる"
+    }
+  ]
+}

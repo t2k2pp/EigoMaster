@@ -1,0 +1,629 @@
+{
+  "name": "高校生 J-L",
+  "words": [
+    {
+      "english": "ja",
+      "japanese": "ジア"
+    },
+    {
+      "english": "jacket",
+      "japanese": "ジアックエト"
+    },
+    {
+      "english": "jane",
+      "japanese": "ジアンエ"
+    },
+    {
+      "english": "jason",
+      "japanese": "ジアスオン"
+    },
+    {
+      "english": "javascript",
+      "japanese": "ジアヴアスクルイプト"
+    },
+    {
+      "english": "jay",
+      "japanese": "ジアイ"
+    },
+    {
+      "english": "jazz",
+      "japanese": "ジアズズ"
+    },
+    {
+      "english": "jean",
+      "japanese": "ジエアン"
+    },
+    {
+      "english": "jeff",
+      "japanese": "ジエフフ"
+    },
+    {
+      "english": "jennifer",
+      "japanese": "ジエンンイフエル"
+    },
+    {
+      "english": "jerry",
+      "japanese": "ジエルルイ"
+    },
+    {
+      "english": "jessica",
+      "japanese": "ジエススイクア"
+    },
+    {
+      "english": "jet",
+      "japanese": "ジエト"
+    },
+    {
+      "english": "jewellery",
+      "japanese": "ジエウエルルエルイ"
+    },
+    {
+      "english": "jewish",
+      "japanese": "ジエウイシ"
+    },
+    {
+      "english": "jimmy",
+      "japanese": "ジイムムイ"
+    },
+    {
+      "english": "johnny",
+      "japanese": "ジオハンンイ"
+    },
+    {
+      "english": "jokes",
+      "japanese": "ジオクエス"
+    },
+    {
+      "english": "jon",
+      "japanese": "ジオン"
+    },
+    {
+      "english": "jonathan",
+      "japanese": "ジオンアスアン"
+    },
+    {
+      "english": "jordan",
+      "japanese": "ジオルドアン"
+    },
+    {
+      "english": "jose",
+      "japanese": "ジオスエ"
+    },
+    {
+      "english": "joseph",
+      "japanese": "ジオスエフ"
+    },
+    {
+      "english": "journals",
+      "japanese": "ジオウルンアルス"
+    },
+    {
+      "english": "journey",
+      "japanese": "ジオウルンエイ"
+    },
+    {
+      "english": "joy",
+      "japanese": "ジオイ"
+    },
+    {
+      "english": "jr",
+      "japanese": "ジル"
+    },
+    {
+      "english": "judge",
+      "japanese": "ジウドグエ"
+    },
+    {
+      "english": "judgment",
+      "japanese": "ジウドグムエント"
+    },
+    {
+      "english": "junior",
+      "japanese": "ジウンイオル"
+    },
+    {
+      "english": "karen",
+      "japanese": "クアルエン"
+    },
+    {
+      "english": "kate",
+      "japanese": "クアトエ"
+    },
+    {
+      "english": "keeping",
+      "japanese": "保つ（進行）"
+    },
+    {
+      "english": "keeps",
+      "japanese": "保つ（三単現／複数）"
+    },
+    {
+      "english": "keith",
+      "japanese": "クエイス"
+    },
+    {
+      "english": "kelly",
+      "japanese": "クエルルイ"
+    },
+    {
+      "english": "ken",
+      "japanese": "クエン"
+    },
+    {
+      "english": "kent",
+      "japanese": "クエント"
+    },
+    {
+      "english": "kentucky",
+      "japanese": "クエントウックイ"
+    },
+    {
+      "english": "kept",
+      "japanese": "クエプト"
+    },
+    {
+      "english": "kernel",
+      "japanese": "クエルンエル"
+    },
+    {
+      "english": "kerry",
+      "japanese": "クエルルイ"
+    },
+    {
+      "english": "kevin",
+      "japanese": "クエヴイン"
+    },
+    {
+      "english": "keyboard",
+      "japanese": "クエイブオアルド"
+    },
+    {
+      "english": "keys",
+      "japanese": "クエイス"
+    },
+    {
+      "english": "kg",
+      "japanese": "クグ"
+    },
+    {
+      "english": "kick",
+      "japanese": "クイック"
+    },
+    {
+      "english": "kid",
+      "japanese": "クイド"
+    },
+    {
+      "english": "kill",
+      "japanese": "クイルル"
+    },
+    {
+      "english": "killed",
+      "japanese": "クイルルエド"
+    },
+    {
+      "english": "kim",
+      "japanese": "クイム"
+    },
+    {
+      "english": "kings",
+      "japanese": "クイングス"
+    },
+    {
+      "english": "kiss",
+      "japanese": "クイスス"
+    },
+    {
+      "english": "kits",
+      "japanese": "クイトス"
+    },
+    {
+      "english": "knowing",
+      "japanese": "知る（進行）"
+    },
+    {
+      "english": "knows",
+      "japanese": "知る（三単現／複数）"
+    },
+    {
+      "english": "korea",
+      "japanese": "クオルエア"
+    },
+    {
+      "english": "korean",
+      "japanese": "クオルエアン"
+    },
+    {
+      "english": "ks",
+      "japanese": "クス"
+    },
+    {
+      "english": "ky",
+      "japanese": "クイ"
+    },
+    {
+      "english": "labels",
+      "japanese": "ルアブエルス"
+    },
+    {
+      "english": "labour",
+      "japanese": "ルアブオウル"
+    },
+    {
+      "english": "labs",
+      "japanese": "ルアブス"
+    },
+    {
+      "english": "ladies",
+      "japanese": "ルアドイエス"
+    },
+    {
+      "english": "lady",
+      "japanese": "ルアドイ"
+    },
+    {
+      "english": "laid",
+      "japanese": "ルアイド"
+    },
+    {
+      "english": "lakes",
+      "japanese": "ルアクエス"
+    },
+    {
+      "english": "lamp",
+      "japanese": "ルアムプ"
+    },
+    {
+      "english": "lan",
+      "japanese": "ルアン"
+    },
+    {
+      "english": "lands",
+      "japanese": "ルアンドス"
+    },
+    {
+      "english": "landscape",
+      "japanese": "ルアンドスクアプエ"
+    },
+    {
+      "english": "lane",
+      "japanese": "ルアンエ"
+    },
+    {
+      "english": "laptops",
+      "japanese": "ルアプトオプス"
+    },
+    {
+      "english": "larry",
+      "japanese": "ルアルルイ"
+    },
+    {
+      "english": "latina",
+      "japanese": "ルアトインア"
+    },
+    {
+      "english": "latter",
+      "japanese": "ルアトトエル"
+    },
+    {
+      "english": "launch",
+      "japanese": "ルアウンチ"
+    },
+    {
+      "english": "launched",
+      "japanese": "ルアウンチエド"
+    },
+    {
+      "english": "laura",
+      "japanese": "ルアウルア"
+    },
+    {
+      "english": "lawrence",
+      "japanese": "ルアウルエンクエ"
+    },
+    {
+      "english": "lawyer",
+      "japanese": "ルアウイエル"
+    },
+    {
+      "english": "lawyers",
+      "japanese": "ルアウイエルス"
+    },
+    {
+      "english": "lay",
+      "japanese": "ルアイ"
+    },
+    {
+      "english": "layer",
+      "japanese": "ルアイエル"
+    },
+    {
+      "english": "layout",
+      "japanese": "ルアイオウト"
+    },
+    {
+      "english": "lbs",
+      "japanese": "ルブス"
+    },
+    {
+      "english": "leads",
+      "japanese": "ルエアドス"
+    },
+    {
+      "english": "leaf",
+      "japanese": "ルエアフ"
+    },
+    {
+      "english": "learned",
+      "japanese": "学ぶ（過去）"
+    },
+    {
+      "english": "lease",
+      "japanese": "ルエアスエ"
+    },
+    {
+      "english": "leaves",
+      "japanese": "ルエアヴエス"
+    },
+    {
+      "english": "leaving",
+      "japanese": "ルエアヴイング"
+    },
+    {
+      "english": "lecture",
+      "japanese": "ルエクチャー"
+    },
+    {
+      "english": "leg",
+      "japanese": "ルエグ"
+    },
+    {
+      "english": "legacy",
+      "japanese": "ルエグアクイ"
+    },
+    {
+      "english": "legend",
+      "japanese": "ルエグエンド"
+    },
+    {
+      "english": "legislation",
+      "japanese": "ルエグイスルアション"
+    },
+    {
+      "english": "legislative",
+      "japanese": "ルエグイスルアトイヴエ"
+    },
+    {
+      "english": "legs",
+      "japanese": "ルエグス"
+    },
+    {
+      "english": "leisure",
+      "japanese": "ルエイジャー"
+    },
+    {
+      "english": "lens",
+      "japanese": "ルエンス"
+    },
+    {
+      "english": "les",
+      "japanese": "ルエス"
+    },
+    {
+      "english": "lesbians",
+      "japanese": "ルエスブイアンス"
+    },
+    {
+      "english": "lesson",
+      "japanese": "ルエススオン"
+    },
+    {
+      "english": "lessons",
+      "japanese": "ルエススオンス"
+    },
+    {
+      "english": "lets",
+      "japanese": "ルエトス"
+    },
+    {
+      "english": "lewis",
+      "japanese": "ルエウイス"
+    },
+    {
+      "english": "lg",
+      "japanese": "ルグ"
+    },
+    {
+      "english": "li",
+      "japanese": "ルイ"
+    },
+    {
+      "english": "liability",
+      "japanese": "ルイアブイルイトイ"
+    },
+    {
+      "english": "lib",
+      "japanese": "ルイブ"
+    },
+    {
+      "english": "liberal",
+      "japanese": "ルイブエルアル"
+    },
+    {
+      "english": "liberty",
+      "japanese": "ルイブエルトイ"
+    },
+    {
+      "english": "libraries",
+      "japanese": "ルイブルアルイエス"
+    },
+    {
+      "english": "licensed",
+      "japanese": "ルイクエンスエド"
+    },
+    {
+      "english": "licensing",
+      "japanese": "ルイクエンスイング"
+    },
+    {
+      "english": "lie",
+      "japanese": "ルイエ"
+    },
+    {
+      "english": "lies",
+      "japanese": "ルイエス"
+    },
+    {
+      "english": "lifestyle",
+      "japanese": "ルイフエストイルエ"
+    },
+    {
+      "english": "lifetime",
+      "japanese": "ルイフエトイムエ"
+    },
+    {
+      "english": "lift",
+      "japanese": "ルイフト"
+    },
+    {
+      "english": "lights",
+      "japanese": "ルイグハトス"
+    },
+    {
+      "english": "limits",
+      "japanese": "ルイムイトス"
+    },
+    {
+      "english": "limousines",
+      "japanese": "ルイムオウスインエス"
+    },
+    {
+      "english": "lincoln",
+      "japanese": "ルインクオルン"
+    },
+    {
+      "english": "linda",
+      "japanese": "ルインドア"
+    },
+    {
+      "english": "linear",
+      "japanese": "ルインエアル"
+    },
+    {
+      "english": "lingerie",
+      "japanese": "ルイングエルイエ"
+    },
+    {
+      "english": "linked",
+      "japanese": "ルインクエド"
+    },
+    {
+      "english": "liquid",
+      "japanese": "ルイクイド"
+    },
+    {
+      "english": "lisa",
+      "japanese": "ルイスア"
+    },
+    {
+      "english": "listening",
+      "japanese": "聞く（進行）"
+    },
+    {
+      "english": "livecam",
+      "japanese": "ルイヴエクアム"
+    },
+    {
+      "english": "lived",
+      "japanese": "ルイヴエド"
+    },
+    {
+      "english": "lo",
+      "japanese": "ルオ"
+    },
+    {
+      "english": "loaded",
+      "japanese": "ルオアドエド"
+    },
+    {
+      "english": "loading",
+      "japanese": "ルオアドイング"
+    },
+    {
+      "english": "locate",
+      "japanese": "ルオクアトエ"
+    },
+    {
+      "english": "lock",
+      "japanese": "ルオック"
+    },
+    {
+      "english": "lodge",
+      "japanese": "ルオドグエ"
+    },
+    {
+      "english": "lodging",
+      "japanese": "ルオドグイング"
+    },
+    {
+      "english": "logic",
+      "japanese": "ルオグイク"
+    },
+    {
+      "english": "logos",
+      "japanese": "ルオグオス"
+    },
+    {
+      "english": "lol",
+      "japanese": "ルオル"
+    },
+    {
+      "english": "loop",
+      "japanese": "ルオオプ"
+    },
+    {
+      "english": "lose",
+      "japanese": "ルオスエ"
+    },
+    {
+      "english": "losses",
+      "japanese": "ルオススエス"
+    },
+    {
+      "english": "louisiana",
+      "japanese": "ルオウイスイアンア"
+    },
+    {
+      "english": "lounge",
+      "japanese": "ルオウングエ"
+    },
+    {
+      "english": "loved",
+      "japanese": "ルオヴエド"
+    },
+    {
+      "english": "lovely",
+      "japanese": "ルオヴエルイ"
+    },
+    {
+      "english": "lp",
+      "japanese": "ルプ"
+    },
+    {
+      "english": "luck",
+      "japanese": "ルウック"
+    },
+    {
+      "english": "lucky",
+      "japanese": "ルウックイ"
+    },
+    {
+      "english": "lunch",
+      "japanese": "ルウンチ"
+    },
+    {
+      "english": "luxury",
+      "japanese": "ルウクスウルイ"
+    }
+  ]
+}

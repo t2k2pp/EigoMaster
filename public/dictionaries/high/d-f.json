@@ -1,0 +1,1553 @@
+{
+  "name": "高校生 D-F",
+  "words": [
+    {
+      "english": "dad",
+      "japanese": "ドアド"
+    },
+    {
+      "english": "dallas",
+      "japanese": "ドアルルアス"
+    },
+    {
+      "english": "damages",
+      "japanese": "ドアムアグエス"
+    },
+    {
+      "english": "dan",
+      "japanese": "ドアン"
+    },
+    {
+      "english": "dancing",
+      "japanese": "ドアンクイング"
+    },
+    {
+      "english": "danger",
+      "japanese": "ドアングエル"
+    },
+    {
+      "english": "dangerous",
+      "japanese": "ドアングエルオウス"
+    },
+    {
+      "english": "daniel",
+      "japanese": "ドアンイエル"
+    },
+    {
+      "english": "databases",
+      "japanese": "ドアトアブアスエス"
+    },
+    {
+      "english": "daughter",
+      "japanese": "ドアウグハトエル"
+    },
+    {
+      "english": "davis",
+      "japanese": "ドアヴイス"
+    },
+    {
+      "english": "db",
+      "japanese": "ドブ"
+    },
+    {
+      "english": "dd",
+      "japanese": "ドド"
+    },
+    {
+      "english": "dealer",
+      "japanese": "ドエアルエル"
+    },
+    {
+      "english": "dealers",
+      "japanese": "ドエアルエルス"
+    },
+    {
+      "english": "dealing",
+      "japanese": "ドエアルイング"
+    },
+    {
+      "english": "dean",
+      "japanese": "ドエアン"
+    },
+    {
+      "english": "dear",
+      "japanese": "ドエアル"
+    },
+    {
+      "english": "debate",
+      "japanese": "ドエブアトエ"
+    },
+    {
+      "english": "debian",
+      "japanese": "ドエブイアン"
+    },
+    {
+      "english": "decide",
+      "japanese": "ドエクイドエ"
+    },
+    {
+      "english": "decisions",
+      "japanese": "ドエクイションス"
+    },
+    {
+      "english": "deck",
+      "japanese": "ドエック"
+    },
+    {
+      "english": "decrease",
+      "japanese": "ドエクルエアスエ"
+    },
+    {
+      "english": "def",
+      "japanese": "ドエフ"
+    },
+    {
+      "english": "defence",
+      "japanese": "ドエフエンクエ"
+    },
+    {
+      "english": "definitely",
+      "japanese": "ドエフインイトエルイ"
+    },
+    {
+      "english": "definitions",
+      "japanese": "ドエフインイションス"
+    },
+    {
+      "english": "degrees",
+      "japanese": "ドエグルエエス"
+    },
+    {
+      "english": "delaware",
+      "japanese": "ドエルアウアルエ"
+    },
+    {
+      "english": "delay",
+      "japanese": "ドエルアイ"
+    },
+    {
+      "english": "deliver",
+      "japanese": "ドエルイヴエル"
+    },
+    {
+      "english": "delivered",
+      "japanese": "ドエルイヴエルエド"
+    },
+    {
+      "english": "dell",
+      "japanese": "ドエルル"
+    },
+    {
+      "english": "delta",
+      "japanese": "ドエルトア"
+    },
+    {
+      "english": "deluxe",
+      "japanese": "ドエルウクスエ"
+    },
+    {
+      "english": "demo",
+      "japanese": "ドエムオ"
+    },
+    {
+      "english": "democracy",
+      "japanese": "ドエムオクルアクイ"
+    },
+    {
+      "english": "democratic",
+      "japanese": "ドエムオクルアトイク"
+    },
+    {
+      "english": "demonstrate",
+      "japanese": "ドエムオンストルアトエ"
+    },
+    {
+      "english": "den",
+      "japanese": "ドエン"
+    },
+    {
+      "english": "denmark",
+      "japanese": "ドエンムアルク"
+    },
+    {
+      "english": "density",
+      "japanese": "ドエンスイトイ"
+    },
+    {
+      "english": "dental",
+      "japanese": "ドエントアル"
+    },
+    {
+      "english": "denver",
+      "japanese": "ドエンヴエル"
+    },
+    {
+      "english": "departments",
+      "japanese": "ドエプアルトムエントス"
+    },
+    {
+      "english": "dependent",
+      "japanese": "ドエプエンドエント"
+    },
+    {
+      "english": "depending",
+      "japanese": "ドエプエンドイング"
+    },
+    {
+      "english": "depends",
+      "japanese": "ドエプエンドス"
+    },
+    {
+      "english": "deposit",
+      "japanese": "ドエプオスイト"
+    },
+    {
+      "english": "depression",
+      "japanese": "ドエプルエスション"
+    },
+    {
+      "english": "deputy",
+      "japanese": "ドエプウトイ"
+    },
+    {
+      "english": "der",
+      "japanese": "ドエル"
+    },
+    {
+      "english": "derived",
+      "japanese": "ドエルイヴエド"
+    },
+    {
+      "english": "describe",
+      "japanese": "ドエスクルイブエ"
+    },
+    {
+      "english": "describes",
+      "japanese": "ドエスクルイブエス"
+    },
+    {
+      "english": "descriptions",
+      "japanese": "ドエスクルイプションス"
+    },
+    {
+      "english": "desert",
+      "japanese": "ドエスエルト"
+    },
+    {
+      "english": "designer",
+      "japanese": "ドエスイグンエル"
+    },
+    {
+      "english": "designers",
+      "japanese": "ドエスイグンエルス"
+    },
+    {
+      "english": "desire",
+      "japanese": "ドエスイルエ"
+    },
+    {
+      "english": "desired",
+      "japanese": "ドエスイルエド"
+    },
+    {
+      "english": "desktops",
+      "japanese": "ドエスクトオプス"
+    },
+    {
+      "english": "despite",
+      "japanese": "ドエスプイトエ"
+    },
+    {
+      "english": "destinations",
+      "japanese": "ドエストインアションス"
+    },
+    {
+      "english": "detection",
+      "japanese": "ドエトエクション"
+    },
+    {
+      "english": "determination",
+      "japanese": "ドエトエルムインアション"
+    },
+    {
+      "english": "detroit",
+      "japanese": "ドエトルオイト"
+    },
+    {
+      "english": "deutsch",
+      "japanese": "ドエウトスチ"
+    },
+    {
+      "english": "devel",
+      "japanese": "ドエヴエル"
+    },
+    {
+      "english": "developers",
+      "japanese": "ドエヴエルオプエルス"
+    },
+    {
+      "english": "developments",
+      "japanese": "ドエヴエルオプムエントス"
+    },
+    {
+      "english": "devil",
+      "japanese": "ドエヴイル"
+    },
+    {
+      "english": "diabetes",
+      "japanese": "ドイアブエトエス"
+    },
+    {
+      "english": "diagnosis",
+      "japanese": "ドイアグンオスイス"
+    },
+    {
+      "english": "dial",
+      "japanese": "ドイアル"
+    },
+    {
+      "english": "diary",
+      "japanese": "ドイアルイ"
+    },
+    {
+      "english": "dick",
+      "japanese": "ドイック"
+    },
+    {
+      "english": "dicke",
+      "japanese": "ドイックエ"
+    },
+    {
+      "english": "diesel",
+      "japanese": "ドイエスエル"
+    },
+    {
+      "english": "diff",
+      "japanese": "ドイフフ"
+    },
+    {
+      "english": "differences",
+      "japanese": "ドイフフエルエンクエス"
+    },
+    {
+      "english": "digest",
+      "japanese": "ドイグエスト"
+    },
+    {
+      "english": "dildo",
+      "japanese": "ドイルドオ"
+    },
+    {
+      "english": "dimension",
+      "japanese": "ドイムエンション"
+    },
+    {
+      "english": "dimensions",
+      "japanese": "ドイムエンションス"
+    },
+    {
+      "english": "dinner",
+      "japanese": "ドインンエル"
+    },
+    {
+      "english": "directed",
+      "japanese": "ドイルエクトエド"
+    },
+    {
+      "english": "directories",
+      "japanese": "ドイルエクトオルイエス"
+    },
+    {
+      "english": "directors",
+      "japanese": "ドイルエクトオルス"
+    },
+    {
+      "english": "dirty",
+      "japanese": "ドイルトイ"
+    },
+    {
+      "english": "disabilities",
+      "japanese": "ドイスアブイルイトイエス"
+    },
+    {
+      "english": "disability",
+      "japanese": "ドイスアブイルイトイ"
+    },
+    {
+      "english": "disabled",
+      "japanese": "ドイスアブルエド"
+    },
+    {
+      "english": "disaster",
+      "japanese": "ドイスアストエル"
+    },
+    {
+      "english": "disclosure",
+      "japanese": "ドイスクルオジャー"
+    },
+    {
+      "english": "discounts",
+      "japanese": "ドイスクオウントス"
+    },
+    {
+      "english": "discover",
+      "japanese": "ドイスクオヴエル"
+    },
+    {
+      "english": "discovered",
+      "japanese": "ドイスクオヴエルエド"
+    },
+    {
+      "english": "discovery",
+      "japanese": "ドイスクオヴエルイ"
+    },
+    {
+      "english": "discrimination",
+      "japanese": "ドイスクルイムインアション"
+    },
+    {
+      "english": "discussed",
+      "japanese": "ドイスクウススエド"
+    },
+    {
+      "english": "diseases",
+      "japanese": "ドイスエアスエス"
+    },
+    {
+      "english": "dish",
+      "japanese": "ドイシ"
+    },
+    {
+      "english": "disney",
+      "japanese": "ドイスンエイ"
+    },
+    {
+      "english": "disorders",
+      "japanese": "ドイスオルドエルス"
+    },
+    {
+      "english": "displayed",
+      "japanese": "ドイスプルアイエド"
+    },
+    {
+      "english": "displays",
+      "japanese": "ドイスプルアイス"
+    },
+    {
+      "english": "distributed",
+      "japanese": "ドイストルイブウトエド"
+    },
+    {
+      "english": "districts",
+      "japanese": "ドイストルイクトス"
+    },
+    {
+      "english": "diverse",
+      "japanese": "ドイヴエルスエ"
+    },
+    {
+      "english": "diversity",
+      "japanese": "ドイヴエルスイトイ"
+    },
+    {
+      "english": "divided",
+      "japanese": "ドイヴイドエド"
+    },
+    {
+      "english": "divorce",
+      "japanese": "ドイヴオルクエ"
+    },
+    {
+      "english": "dna",
+      "japanese": "ドンア"
+    },
+    {
+      "english": "doc",
+      "japanese": "ドオク"
+    },
+    {
+      "english": "doctors",
+      "japanese": "ドオクトオルス"
+    },
+    {
+      "english": "dodge",
+      "japanese": "ドオドグエ"
+    },
+    {
+      "english": "dogs",
+      "japanese": "犬（三単現／複数）"
+    },
+    {
+      "english": "dolls",
+      "japanese": "ドオルルス"
+    },
+    {
+      "english": "domains",
+      "japanese": "ドオムアインス"
+    },
+    {
+      "english": "don",
+      "japanese": "ドオン"
+    },
+    {
+      "english": "donald",
+      "japanese": "ドオンアルド"
+    },
+    {
+      "english": "donate",
+      "japanese": "ドオンアトエ"
+    },
+    {
+      "english": "donations",
+      "japanese": "ドオンアションス"
+    },
+    {
+      "english": "dont",
+      "japanese": "ドオント"
+    },
+    {
+      "english": "doors",
+      "japanese": "ドア（三単現／複数）"
+    },
+    {
+      "english": "dose",
+      "japanese": "ドオスエ"
+    },
+    {
+      "english": "dot",
+      "japanese": "ドオト"
+    },
+    {
+      "english": "doubt",
+      "japanese": "ドオウブト"
+    },
+    {
+      "english": "douglas",
+      "japanese": "ドオウグルアス"
+    },
+    {
+      "english": "downtown",
+      "japanese": "ドオウントオウン"
+    },
+    {
+      "english": "dragon",
+      "japanese": "ドルアグオン"
+    },
+    {
+      "english": "drama",
+      "japanese": "ドルアムア"
+    },
+    {
+      "english": "draw",
+      "japanese": "ドルアウ"
+    },
+    {
+      "english": "drawing",
+      "japanese": "ドルアウイング"
+    },
+    {
+      "english": "drawn",
+      "japanese": "ドルアウン"
+    },
+    {
+      "english": "dreams",
+      "japanese": "ドルエアムス"
+    },
+    {
+      "english": "dress",
+      "japanese": "ドルエスス"
+    },
+    {
+      "english": "drink",
+      "japanese": "飲む"
+    },
+    {
+      "english": "drinking",
+      "japanese": "飲む（進行）"
+    },
+    {
+      "english": "driven",
+      "japanese": "ドルイヴエン"
+    },
+    {
+      "english": "drivers",
+      "japanese": "ドルイヴエルス"
+    },
+    {
+      "english": "drives",
+      "japanese": "ドルイヴエス"
+    },
+    {
+      "english": "drum",
+      "japanese": "ドルウム"
+    },
+    {
+      "english": "ds",
+      "japanese": "ドス"
+    },
+    {
+      "english": "dsl",
+      "japanese": "ドスル"
+    },
+    {
+      "english": "dual",
+      "japanese": "ドウアル"
+    },
+    {
+      "english": "dublin",
+      "japanese": "ドウブルイン"
+    },
+    {
+      "english": "duration",
+      "japanese": "ドウルアション"
+    },
+    {
+      "english": "dust",
+      "japanese": "ドウスト"
+    },
+    {
+      "english": "dutch",
+      "japanese": "ドウトチ"
+    },
+    {
+      "english": "duties",
+      "japanese": "ドウトイエス"
+    },
+    {
+      "english": "dynamic",
+      "japanese": "ドインアムイク"
+    },
+    {
+      "english": "dynamics",
+      "japanese": "ドインアムイクス"
+    },
+    {
+      "english": "ea",
+      "japanese": "エア"
+    },
+    {
+      "english": "eagle",
+      "japanese": "エアグルエ"
+    },
+    {
+      "english": "ear",
+      "japanese": "耳"
+    },
+    {
+      "english": "earn",
+      "japanese": "エアルン"
+    },
+    {
+      "english": "earnings",
+      "japanese": "エアルンイングス"
+    },
+    {
+      "english": "ease",
+      "japanese": "エアスエ"
+    },
+    {
+      "english": "easier",
+      "japanese": "エアスイエル"
+    },
+    {
+      "english": "eat",
+      "japanese": "食べる"
+    },
+    {
+      "english": "eating",
+      "japanese": "食べる（進行）"
+    },
+    {
+      "english": "ebony",
+      "japanese": "エブオンイ"
+    },
+    {
+      "english": "ec",
+      "japanese": "エク"
+    },
+    {
+      "english": "echo",
+      "japanese": "エチオ"
+    },
+    {
+      "english": "economics",
+      "japanese": "エクオンオムイクス"
+    },
+    {
+      "english": "edinburgh",
+      "japanese": "エドインブウルグハ"
+    },
+    {
+      "english": "edited",
+      "japanese": "エドイトエド"
+    },
+    {
+      "english": "editing",
+      "japanese": "エドイトイング"
+    },
+    {
+      "english": "editions",
+      "japanese": "エドイションス"
+    },
+    {
+      "english": "editorial",
+      "japanese": "エドイトオルイアル"
+    },
+    {
+      "english": "editors",
+      "japanese": "エドイトオルス"
+    },
+    {
+      "english": "edt",
+      "japanese": "エドト"
+    },
+    {
+      "english": "edward",
+      "japanese": "エドウアルド"
+    },
+    {
+      "english": "ee",
+      "japanese": "エエ"
+    },
+    {
+      "english": "effectively",
+      "japanese": "エフフエクトイヴエルイ"
+    },
+    {
+      "english": "effectiveness",
+      "japanese": "エフフエクトイヴエンエスス"
+    },
+    {
+      "english": "efficiency",
+      "japanese": "エフフイクイエンクイ"
+    },
+    {
+      "english": "efficient",
+      "japanese": "エフフイクイエント"
+    },
+    {
+      "english": "egypt",
+      "japanese": "エグイプト"
+    },
+    {
+      "english": "elected",
+      "japanese": "エルエクトエド"
+    },
+    {
+      "english": "elections",
+      "japanese": "エルエクションス"
+    },
+    {
+      "english": "electricity",
+      "japanese": "エルエクトルイクイトイ"
+    },
+    {
+      "english": "elementary",
+      "japanese": "エルエムエントアルイ"
+    },
+    {
+      "english": "eligibility",
+      "japanese": "エルイグイブイルイトイ"
+    },
+    {
+      "english": "elizabeth",
+      "japanese": "エルイズアブエス"
+    },
+    {
+      "english": "elsewhere",
+      "japanese": "エルスエウハエルエ"
+    },
+    {
+      "english": "emails",
+      "japanese": "エムアイルス"
+    },
+    {
+      "english": "emerging",
+      "japanese": "エムエルグイング"
+    },
+    {
+      "english": "emissions",
+      "japanese": "エムイスションス"
+    },
+    {
+      "english": "emotional",
+      "japanese": "エムオションアル"
+    },
+    {
+      "english": "emphasis",
+      "japanese": "エムフアスイス"
+    },
+    {
+      "english": "empire",
+      "japanese": "エムプイルエ"
+    },
+    {
+      "english": "employed",
+      "japanese": "エムプルオイエド"
+    },
+    {
+      "english": "employer",
+      "japanese": "エムプルオイエル"
+    },
+    {
+      "english": "employers",
+      "japanese": "エムプルオイエルス"
+    },
+    {
+      "english": "empty",
+      "japanese": "エムプトイ"
+    },
+    {
+      "english": "enabled",
+      "japanese": "エンアブルエド"
+    },
+    {
+      "english": "enables",
+      "japanese": "エンアブルエス"
+    },
+    {
+      "english": "encourage",
+      "japanese": "エンクオウルアグエ"
+    },
+    {
+      "english": "encyclopedia",
+      "japanese": "エンクイクルオプエドイア"
+    },
+    {
+      "english": "enemy",
+      "japanese": "エンエムイ"
+    },
+    {
+      "english": "enforcement",
+      "japanese": "エンフオルクエムエント"
+    },
+    {
+      "english": "engineer",
+      "japanese": "エングインエエル"
+    },
+    {
+      "english": "engineers",
+      "japanese": "エングインエエルス"
+    },
+    {
+      "english": "engines",
+      "japanese": "エングインエス"
+    },
+    {
+      "english": "enhance",
+      "japanese": "エンハアンクエ"
+    },
+    {
+      "english": "enhanced",
+      "japanese": "エンハアンクエド"
+    },
+    {
+      "english": "entered",
+      "japanese": "エントエルエド"
+    },
+    {
+      "english": "entering",
+      "japanese": "エントエルイング"
+    },
+    {
+      "english": "enterprises",
+      "japanese": "エントエルプルイスエス"
+    },
+    {
+      "english": "entirely",
+      "japanese": "エントイルエルイ"
+    },
+    {
+      "english": "entitled",
+      "japanese": "エントイトルエド"
+    },
+    {
+      "english": "entity",
+      "japanese": "エントイトイ"
+    },
+    {
+      "english": "environments",
+      "japanese": "エンヴイルオンムエントス"
+    },
+    {
+      "english": "epa",
+      "japanese": "エプア"
+    },
+    {
+      "english": "epinions",
+      "japanese": "エプインイオンス"
+    },
+    {
+      "english": "episode",
+      "japanese": "エプイスオドエ"
+    },
+    {
+      "english": "epson",
+      "japanese": "エプスオン"
+    },
+    {
+      "english": "equation",
+      "japanese": "エクアション"
+    },
+    {
+      "english": "equity",
+      "japanese": "エクイトイ"
+    },
+    {
+      "english": "equivalent",
+      "japanese": "エクイヴアルエント"
+    },
+    {
+      "english": "er",
+      "japanese": "エル"
+    },
+    {
+      "english": "era",
+      "japanese": "エルア"
+    },
+    {
+      "english": "eric",
+      "japanese": "エルイク"
+    },
+    {
+      "english": "ericsson",
+      "japanese": "エルイクススオン"
+    },
+    {
+      "english": "erotic",
+      "japanese": "エルオトイク"
+    },
+    {
+      "english": "es",
+      "japanese": "エス"
+    },
+    {
+      "english": "escape",
+      "japanese": "エスクアプエ"
+    },
+    {
+      "english": "essays",
+      "japanese": "エススアイス"
+    },
+    {
+      "english": "establish",
+      "japanese": "エストアブルイシ"
+    },
+    {
+      "english": "establishment",
+      "japanese": "エストアブルイシムエント"
+    },
+    {
+      "english": "estimate",
+      "japanese": "エストイムアトエ"
+    },
+    {
+      "english": "estimates",
+      "japanese": "エストイムアトエス"
+    },
+    {
+      "english": "ethernet",
+      "japanese": "エスエルンエト"
+    },
+    {
+      "english": "ethics",
+      "japanese": "エスイクス"
+    },
+    {
+      "english": "ethnic",
+      "japanese": "エスンイク"
+    },
+    {
+      "english": "euro",
+      "japanese": "エウルオ"
+    },
+    {
+      "english": "evaluate",
+      "japanese": "エヴアルウアトエ"
+    },
+    {
+      "english": "eve",
+      "japanese": "エヴエ"
+    },
+    {
+      "english": "eventually",
+      "japanese": "エヴエントウアルルイ"
+    },
+    {
+      "english": "everybody",
+      "japanese": "エヴエルイブオドイ"
+    },
+    {
+      "english": "everyday",
+      "japanese": "エヴエルイドアイ"
+    },
+    {
+      "english": "evil",
+      "japanese": "エヴイル"
+    },
+    {
+      "english": "evolution",
+      "japanese": "エヴオルウション"
+    },
+    {
+      "english": "exact",
+      "japanese": "エクスアクト"
+    },
+    {
+      "english": "exam",
+      "japanese": "エクスアム"
+    },
+    {
+      "english": "examination",
+      "japanese": "エクスアムインアション"
+    },
+    {
+      "english": "examine",
+      "japanese": "エクスアムインエ"
+    },
+    {
+      "english": "exceed",
+      "japanese": "エクスクエエド"
+    },
+    {
+      "english": "excel",
+      "japanese": "エクスクエル"
+    },
+    {
+      "english": "excellence",
+      "japanese": "エクスクエルルエンクエ"
+    },
+    {
+      "english": "exception",
+      "japanese": "エクスクエプション"
+    },
+    {
+      "english": "excess",
+      "japanese": "エクスクエスス"
+    },
+    {
+      "english": "exciting",
+      "japanese": "エクスクイトイング"
+    },
+    {
+      "english": "exclusive",
+      "japanese": "エクスクルウスイヴエ"
+    },
+    {
+      "english": "execution",
+      "japanese": "エクスエクウション"
+    },
+    {
+      "english": "exhibit",
+      "japanese": "エクスハイブイト"
+    },
+    {
+      "english": "exhibition",
+      "japanese": "エクスハイブイション"
+    },
+    {
+      "english": "exist",
+      "japanese": "エクスイスト"
+    },
+    {
+      "english": "existence",
+      "japanese": "エクスイストエンクエ"
+    },
+    {
+      "english": "exists",
+      "japanese": "エクスイストス"
+    },
+    {
+      "english": "exit",
+      "japanese": "エクスイト"
+    },
+    {
+      "english": "exp",
+      "japanese": "エクスプ"
+    },
+    {
+      "english": "expand",
+      "japanese": "エクスプアンド"
+    },
+    {
+      "english": "expanded",
+      "japanese": "エクスプアンドエド"
+    },
+    {
+      "english": "expansion",
+      "japanese": "エクスプアンション"
+    },
+    {
+      "english": "expectations",
+      "japanese": "エクスプエクトアションス"
+    },
+    {
+      "english": "expense",
+      "japanese": "エクスプエンスエ"
+    },
+    {
+      "english": "expenses",
+      "japanese": "エクスプエンスエス"
+    },
+    {
+      "english": "expensive",
+      "japanese": "エクスプエンスイヴエ"
+    },
+    {
+      "english": "experienced",
+      "japanese": "エクスプエルイエンクエド"
+    },
+    {
+      "english": "experiences",
+      "japanese": "エクスプエルイエンクエス"
+    },
+    {
+      "english": "experiment",
+      "japanese": "エクスプエルイムエント"
+    },
+    {
+      "english": "experimental",
+      "japanese": "エクスプエルイムエントアル"
+    },
+    {
+      "english": "experiments",
+      "japanese": "エクスプエルイムエントス"
+    },
+    {
+      "english": "expertise",
+      "japanese": "エクスプエルトイスエ"
+    },
+    {
+      "english": "explain",
+      "japanese": "説明する"
+    },
+    {
+      "english": "explained",
+      "japanese": "説明する（過去）"
+    },
+    {
+      "english": "explanation",
+      "japanese": "エクスプルアンアション"
+    },
+    {
+      "english": "explorer",
+      "japanese": "エクスプルオルエル"
+    },
+    {
+      "english": "export",
+      "japanese": "エクスプオルト"
+    },
+    {
+      "english": "exposed",
+      "japanese": "エクスプオスエド"
+    },
+    {
+      "english": "exposure",
+      "japanese": "エクスプオジャー"
+    },
+    {
+      "english": "expressed",
+      "japanese": "エクスプルエススエド"
+    },
+    {
+      "english": "expression",
+      "japanese": "エクスプルエスション"
+    },
+    {
+      "english": "extend",
+      "japanese": "エクストエンド"
+    },
+    {
+      "english": "extensive",
+      "japanese": "エクストエンスイヴエ"
+    },
+    {
+      "english": "extent",
+      "japanese": "エクストエント"
+    },
+    {
+      "english": "extras",
+      "japanese": "エクストルアス"
+    },
+    {
+      "english": "extreme",
+      "japanese": "エクストルエムエ"
+    },
+    {
+      "english": "extremely",
+      "japanese": "エクストルエムエルイ"
+    },
+    {
+      "english": "fabric",
+      "japanese": "フアブルイク"
+    },
+    {
+      "english": "faces",
+      "japanese": "フアクエス"
+    },
+    {
+      "english": "facing",
+      "japanese": "フアクイング"
+    },
+    {
+      "english": "factory",
+      "japanese": "フアクトオルイ"
+    },
+    {
+      "english": "fail",
+      "japanese": "フアイル"
+    },
+    {
+      "english": "failed",
+      "japanese": "フアイルエド"
+    },
+    {
+      "english": "fairly",
+      "japanese": "フアイルルイ"
+    },
+    {
+      "english": "familiar",
+      "japanese": "フアムイルイアル"
+    },
+    {
+      "english": "famous",
+      "japanese": "フアムオウス"
+    },
+    {
+      "english": "fans",
+      "japanese": "フアンス"
+    },
+    {
+      "english": "fantastic",
+      "japanese": "フアントアストイク"
+    },
+    {
+      "english": "faqs",
+      "japanese": "フアクス"
+    },
+    {
+      "english": "farmers",
+      "japanese": "フアルムエルス"
+    },
+    {
+      "english": "fault",
+      "japanese": "フアウルト"
+    },
+    {
+      "english": "favorites",
+      "japanese": "フアヴオルイトエス"
+    },
+    {
+      "english": "favourite",
+      "japanese": "フアヴオウルイトエ"
+    },
+    {
+      "english": "favourites",
+      "japanese": "フアヴオウルイトエス"
+    },
+    {
+      "english": "fe",
+      "japanese": "フエ"
+    },
+    {
+      "english": "fear",
+      "japanese": "フエアル"
+    },
+    {
+      "english": "featuring",
+      "japanese": "フエアトウルイング"
+    },
+    {
+      "english": "federation",
+      "japanese": "フエドエルアション"
+    },
+    {
+      "english": "feeling",
+      "japanese": "フエエルイング"
+    },
+    {
+      "english": "fell",
+      "japanese": "フエルル"
+    },
+    {
+      "english": "fellow",
+      "japanese": "フエルルオウ"
+    },
+    {
+      "english": "fetish",
+      "japanese": "フエトイシ"
+    },
+    {
+      "english": "ff",
+      "japanese": "フフ"
+    },
+    {
+      "english": "fiber",
+      "japanese": "フイブエル"
+    },
+    {
+      "english": "fifth",
+      "japanese": "フイフス"
+    },
+    {
+      "english": "fig",
+      "japanese": "フイグ"
+    },
+    {
+      "english": "fight",
+      "japanese": "フイグハト"
+    },
+    {
+      "english": "fighting",
+      "japanese": "フイグハトイング"
+    },
+    {
+      "english": "figures",
+      "japanese": "フイグウルエス"
+    },
+    {
+      "english": "filed",
+      "japanese": "フイルエド"
+    },
+    {
+      "english": "filing",
+      "japanese": "フイルイング"
+    },
+    {
+      "english": "filled",
+      "japanese": "フイルルエド"
+    },
+    {
+      "english": "filters",
+      "japanese": "フイルトエルス"
+    },
+    {
+      "english": "financing",
+      "japanese": "フインアンクイング"
+    },
+    {
+      "english": "finder",
+      "japanese": "フインドエル"
+    },
+    {
+      "english": "findings",
+      "japanese": "フインドイングス"
+    },
+    {
+      "english": "finds",
+      "japanese": "フインドス"
+    },
+    {
+      "english": "finger",
+      "japanese": "ゆび"
+    },
+    {
+      "english": "finish",
+      "japanese": "フインイシ"
+    },
+    {
+      "english": "finished",
+      "japanese": "フインイシエド"
+    },
+    {
+      "english": "finland",
+      "japanese": "フインルアンド"
+    },
+    {
+      "english": "firefox",
+      "japanese": "フイルエフオクス"
+    },
+    {
+      "english": "firms",
+      "japanese": "フイルムス"
+    },
+    {
+      "english": "fiscal",
+      "japanese": "フイスクアル"
+    },
+    {
+      "english": "fits",
+      "japanese": "フイトス"
+    },
+    {
+      "english": "flags",
+      "japanese": "フルアグス"
+    },
+    {
+      "english": "flashing",
+      "japanese": "フルアシイング"
+    },
+    {
+      "english": "flexible",
+      "japanese": "フルエクスイブルエ"
+    },
+    {
+      "english": "flood",
+      "japanese": "フルオオド"
+    },
+    {
+      "english": "florist",
+      "japanese": "フルオルイスト"
+    },
+    {
+      "english": "fluid",
+      "japanese": "フルウイド"
+    },
+    {
+      "english": "fly",
+      "japanese": "フルイ"
+    },
+    {
+      "english": "flying",
+      "japanese": "フルイイング"
+    },
+    {
+      "english": "fm",
+      "japanese": "フム"
+    },
+    {
+      "english": "focused",
+      "japanese": "フオクウスエド"
+    },
+    {
+      "english": "folder",
+      "japanese": "フオルドエル"
+    },
+    {
+      "english": "folk",
+      "japanese": "フオルク"
+    },
+    {
+      "english": "folks",
+      "japanese": "フオルクス"
+    },
+    {
+      "english": "followed",
+      "japanese": "フオルルオウエド"
+    },
+    {
+      "english": "font",
+      "japanese": "フオント"
+    },
+    {
+      "english": "foods",
+      "japanese": "食べ物（三単現／複数）"
+    },
+    {
+      "english": "forced",
+      "japanese": "フオルクエド"
+    },
+    {
+      "english": "forecast",
+      "japanese": "フオルエクアスト"
+    },
+    {
+      "english": "forever",
+      "japanese": "フオルエヴエル"
+    },
+    {
+      "english": "forget",
+      "japanese": "フオルグエト"
+    },
+    {
+      "english": "forgotten",
+      "japanese": "フオルグオトトエン"
+    },
+    {
+      "english": "formal",
+      "japanese": "フオルムアル"
+    },
+    {
+      "english": "formation",
+      "japanese": "フオルムアション"
+    },
+    {
+      "english": "formats",
+      "japanese": "フオルムアトス"
+    },
+    {
+      "english": "formed",
+      "japanese": "フオルムエド"
+    },
+    {
+      "english": "formula",
+      "japanese": "フオルムウルア"
+    },
+    {
+      "english": "forth",
+      "japanese": "フオルス"
+    },
+    {
+      "english": "foster",
+      "japanese": "フオストエル"
+    },
+    {
+      "english": "foto",
+      "japanese": "フオトオ"
+    },
+    {
+      "english": "founded",
+      "japanese": "フオウンドエド"
+    },
+    {
+      "english": "fourth",
+      "japanese": "フオウルス"
+    },
+    {
+      "english": "fox",
+      "japanese": "フオクス"
+    },
+    {
+      "english": "fr",
+      "japanese": "フル"
+    },
+    {
+      "english": "frames",
+      "japanese": "フルアムエス"
+    },
+    {
+      "english": "franchise",
+      "japanese": "フルアンチイスエ"
+    },
+    {
+      "english": "frank",
+      "japanese": "フルアンク"
+    },
+    {
+      "english": "franklin",
+      "japanese": "フルアンクルイン"
+    },
+    {
+      "english": "fraud",
+      "japanese": "フルアウド"
+    },
+    {
+      "english": "fred",
+      "japanese": "フルエド"
+    },
+    {
+      "english": "frequency",
+      "japanese": "フルエクンクイ"
+    },
+    {
+      "english": "fruit",
+      "japanese": "フルウイト"
+    },
+    {
+      "english": "ftp",
+      "japanese": "フトプ"
+    },
+    {
+      "english": "functionality",
+      "japanese": "フウンクションアルイトイ"
+    },
+    {
+      "english": "fundamental",
+      "japanese": "フウンドアムエントアル"
+    },
+    {
+      "english": "funded",
+      "japanese": "フウンドエド"
+    }
+  ]
+}

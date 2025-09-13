@@ -1,0 +1,945 @@
+{
+  "name": "高校生 G-I",
+  "words": [
+    {
+      "english": "gambling",
+      "japanese": "グアムブルイング"
+    },
+    {
+      "english": "gang",
+      "japanese": "グアング"
+    },
+    {
+      "english": "gap",
+      "japanese": "グアプ"
+    },
+    {
+      "english": "garage",
+      "japanese": "グアルアグエ"
+    },
+    {
+      "english": "gardens",
+      "japanese": "グアルドエンス"
+    },
+    {
+      "english": "gary",
+      "japanese": "グアルイ"
+    },
+    {
+      "english": "gate",
+      "japanese": "グアトエ"
+    },
+    {
+      "english": "gateway",
+      "japanese": "グアトエウアイ"
+    },
+    {
+      "english": "gb",
+      "japanese": "グブ"
+    },
+    {
+      "english": "gcc",
+      "japanese": "グクク"
+    },
+    {
+      "english": "gender",
+      "japanese": "グエンドエル"
+    },
+    {
+      "english": "generate",
+      "japanese": "グエンエルアトエ"
+    },
+    {
+      "english": "generator",
+      "japanese": "グエンエルアトオル"
+    },
+    {
+      "english": "generic",
+      "japanese": "グエンエルイク"
+    },
+    {
+      "english": "genetic",
+      "japanese": "グエンエトイク"
+    },
+    {
+      "english": "genre",
+      "japanese": "グエンルエ"
+    },
+    {
+      "english": "genuine",
+      "japanese": "グエンウインエ"
+    },
+    {
+      "english": "geographic",
+      "japanese": "グエオグルアフイク"
+    },
+    {
+      "english": "geography",
+      "japanese": "グエオグルアフイ"
+    },
+    {
+      "english": "ghost",
+      "japanese": "グハオスト"
+    },
+    {
+      "english": "giant",
+      "japanese": "グイアント"
+    },
+    {
+      "english": "glad",
+      "japanese": "グルアド"
+    },
+    {
+      "english": "glance",
+      "japanese": "グルアンクエ"
+    },
+    {
+      "english": "glasses",
+      "japanese": "グルアススエス"
+    },
+    {
+      "english": "globe",
+      "japanese": "グルオブエ"
+    },
+    {
+      "english": "glory",
+      "japanese": "グルオルイ"
+    },
+    {
+      "english": "glossary",
+      "japanese": "グルオススアルイ"
+    },
+    {
+      "english": "gm",
+      "japanese": "グム"
+    },
+    {
+      "english": "gnu",
+      "japanese": "グンウ"
+    },
+    {
+      "english": "gonna",
+      "japanese": "グオンンア"
+    },
+    {
+      "english": "gordon",
+      "japanese": "グオルドオン"
+    },
+    {
+      "english": "gourmet",
+      "japanese": "グオウルムエト"
+    },
+    {
+      "english": "governance",
+      "japanese": "グオヴエルンアンクエ"
+    },
+    {
+      "english": "governments",
+      "japanese": "グオヴエルンムエントス"
+    },
+    {
+      "english": "governor",
+      "japanese": "グオヴエルンオル"
+    },
+    {
+      "english": "gps",
+      "japanese": "グプス"
+    },
+    {
+      "english": "grace",
+      "japanese": "グルアクエ"
+    },
+    {
+      "english": "grades",
+      "japanese": "グルアドエス"
+    },
+    {
+      "english": "graham",
+      "japanese": "グルアハアム"
+    },
+    {
+      "english": "granted",
+      "japanese": "グルアントエド"
+    },
+    {
+      "english": "grants",
+      "japanese": "グルアントス"
+    },
+    {
+      "english": "graph",
+      "japanese": "グルアフ"
+    },
+    {
+      "english": "grass",
+      "japanese": "グルアスス"
+    },
+    {
+      "english": "gratis",
+      "japanese": "グルアトイス"
+    },
+    {
+      "english": "gray",
+      "japanese": "グルアイ"
+    },
+    {
+      "english": "greatest",
+      "japanese": "グルエアトエスト"
+    },
+    {
+      "english": "greece",
+      "japanese": "グルエエクエ"
+    },
+    {
+      "english": "greek",
+      "japanese": "グルエエク"
+    },
+    {
+      "english": "greg",
+      "japanese": "グルエグ"
+    },
+    {
+      "english": "grey",
+      "japanese": "グルエイ"
+    },
+    {
+      "english": "grid",
+      "japanese": "グルイド"
+    },
+    {
+      "english": "gross",
+      "japanese": "グルオスス"
+    },
+    {
+      "english": "grounds",
+      "japanese": "グルオウンドス"
+    },
+    {
+      "english": "grove",
+      "japanese": "グルオヴエ"
+    },
+    {
+      "english": "grow",
+      "japanese": "グルオウ"
+    },
+    {
+      "english": "grown",
+      "japanese": "グルオウン"
+    },
+    {
+      "english": "guaranteed",
+      "japanese": "グウアルアントエエド"
+    },
+    {
+      "english": "guard",
+      "japanese": "グウアルド"
+    },
+    {
+      "english": "guardian",
+      "japanese": "グウアルドイアン"
+    },
+    {
+      "english": "guess",
+      "japanese": "グウエスス"
+    },
+    {
+      "english": "guestbook",
+      "japanese": "グウエストブオオク"
+    },
+    {
+      "english": "guests",
+      "japanese": "グウエストス"
+    },
+    {
+      "english": "guidance",
+      "japanese": "グウイドアンクエ"
+    },
+    {
+      "english": "guinea",
+      "japanese": "グウインエア"
+    },
+    {
+      "english": "gulf",
+      "japanese": "グウルフ"
+    },
+    {
+      "english": "gun",
+      "japanese": "グウン"
+    },
+    {
+      "english": "ha",
+      "japanese": "ハア"
+    },
+    {
+      "english": "hairy",
+      "japanese": "ハアイルイ"
+    },
+    {
+      "english": "hamilton",
+      "japanese": "ハアムイルトオン"
+    },
+    {
+      "english": "hampshire",
+      "japanese": "ハアムプシイルエ"
+    },
+    {
+      "english": "handbook",
+      "japanese": "ハアンドブオオク"
+    },
+    {
+      "english": "happen",
+      "japanese": "ハアププエン"
+    },
+    {
+      "english": "happened",
+      "japanese": "ハアププエンエド"
+    },
+    {
+      "english": "happens",
+      "japanese": "ハアププエンス"
+    },
+    {
+      "english": "harbor",
+      "japanese": "ハアルブオル"
+    },
+    {
+      "english": "hardcover",
+      "japanese": "ハアルドクオヴエル"
+    },
+    {
+      "english": "harris",
+      "japanese": "ハアルルイス"
+    },
+    {
+      "english": "hat",
+      "japanese": "ハアト"
+    },
+    {
+      "english": "hate",
+      "japanese": "ハアトエ"
+    },
+    {
+      "english": "hd",
+      "japanese": "ハド"
+    },
+    {
+      "english": "header",
+      "japanese": "ハエアドエル"
+    },
+    {
+      "english": "heads",
+      "japanese": "頭（三単現／複数）"
+    },
+    {
+      "english": "healing",
+      "japanese": "ハエアルイング"
+    },
+    {
+      "english": "healthcare",
+      "japanese": "ハエアルスクアルエ"
+    },
+    {
+      "english": "healthy",
+      "japanese": "ハエアルスイ"
+    },
+    {
+      "english": "hearts",
+      "japanese": "ハエアルトス"
+    },
+    {
+      "english": "heating",
+      "japanese": "ハエアトイング"
+    },
+    {
+      "english": "heaven",
+      "japanese": "ハエアヴエン"
+    },
+    {
+      "english": "height",
+      "japanese": "ハエイグハト"
+    },
+    {
+      "english": "heights",
+      "japanese": "ハエイグハトス"
+    },
+    {
+      "english": "hell",
+      "japanese": "ハエルル"
+    },
+    {
+      "english": "helped",
+      "japanese": "助ける（過去）"
+    },
+    {
+      "english": "helping",
+      "japanese": "助ける（進行）"
+    },
+    {
+      "english": "helps",
+      "japanese": "助ける（三単現／複数）"
+    },
+    {
+      "english": "hence",
+      "japanese": "ハエンクエ"
+    },
+    {
+      "english": "henry",
+      "japanese": "ハエンルイ"
+    },
+    {
+      "english": "heritage",
+      "japanese": "ハエルイトアグエ"
+    },
+    {
+      "english": "herself",
+      "japanese": "ハエルスエルフ"
+    },
+    {
+      "english": "hey",
+      "japanese": "ハエイ"
+    },
+    {
+      "english": "hidden",
+      "japanese": "ハイドドエン"
+    },
+    {
+      "english": "hide",
+      "japanese": "ハイドエ"
+    },
+    {
+      "english": "highlights",
+      "japanese": "ハイグハルイグハトス"
+    },
+    {
+      "english": "highway",
+      "japanese": "ハイグハウアイ"
+    },
+    {
+      "english": "hills",
+      "japanese": "ハイルルス"
+    },
+    {
+      "english": "hilton",
+      "japanese": "ハイルトオン"
+    },
+    {
+      "english": "hip",
+      "japanese": "ハイプ"
+    },
+    {
+      "english": "hist",
+      "japanese": "ハイスト"
+    },
+    {
+      "english": "historic",
+      "japanese": "ハイストオルイク"
+    },
+    {
+      "english": "hiv",
+      "japanese": "ハイヴ"
+    },
+    {
+      "english": "hobbies",
+      "japanese": "ハオブブイエス"
+    },
+    {
+      "english": "hockey",
+      "japanese": "ハオックエイ"
+    },
+    {
+      "english": "holdem",
+      "japanese": "ハオルドエム"
+    },
+    {
+      "english": "holder",
+      "japanese": "ハオルドエル"
+    },
+    {
+      "english": "holding",
+      "japanese": "ハオルドイング"
+    },
+    {
+      "english": "holds",
+      "japanese": "ハオルドス"
+    },
+    {
+      "english": "hole",
+      "japanese": "ハオルエ"
+    },
+    {
+      "english": "hollywood",
+      "japanese": "ハオルルイウオオド"
+    },
+    {
+      "english": "holy",
+      "japanese": "ハオルイ"
+    },
+    {
+      "english": "honda",
+      "japanese": "ハオンドア"
+    },
+    {
+      "english": "honor",
+      "japanese": "ハオンオル"
+    },
+    {
+      "english": "hop",
+      "japanese": "ハオプ"
+    },
+    {
+      "english": "horror",
+      "japanese": "ハオルルオル"
+    },
+    {
+      "english": "horses",
+      "japanese": "ハオルスエス"
+    },
+    {
+      "english": "hospitals",
+      "japanese": "ハオスプイトアルス"
+    },
+    {
+      "english": "hosted",
+      "japanese": "ハオストエド"
+    },
+    {
+      "english": "household",
+      "japanese": "ハオウスエハオルド"
+    },
+    {
+      "english": "houses",
+      "japanese": "家（三単現／複数）"
+    },
+    {
+      "english": "howard",
+      "japanese": "ハオウアルド"
+    },
+    {
+      "english": "hrs",
+      "japanese": "ハルス"
+    },
+    {
+      "english": "http",
+      "japanese": "ハトトプ"
+    },
+    {
+      "english": "humor",
+      "japanese": "ハウムオル"
+    },
+    {
+      "english": "hundred",
+      "japanese": "ハウンドルエド"
+    },
+    {
+      "english": "hundreds",
+      "japanese": "ハウンドルエドス"
+    },
+    {
+      "english": "hungary",
+      "japanese": "ハウングアルイ"
+    },
+    {
+      "english": "hunt",
+      "japanese": "ハウント"
+    },
+    {
+      "english": "hunter",
+      "japanese": "ハウントエル"
+    },
+    {
+      "english": "hunting",
+      "japanese": "ハウントイング"
+    },
+    {
+      "english": "hurricane",
+      "japanese": "ハウルルイクアンエ"
+    },
+    {
+      "english": "hurt",
+      "japanese": "ハウルト"
+    },
+    {
+      "english": "husband",
+      "japanese": "ハウスブアンド"
+    },
+    {
+      "english": "hybrid",
+      "japanese": "ハイブルイド"
+    },
+    {
+      "english": "ia",
+      "japanese": "イア"
+    },
+    {
+      "english": "ian",
+      "japanese": "イアン"
+    },
+    {
+      "english": "icons",
+      "japanese": "イクオンス"
+    },
+    {
+      "english": "idaho",
+      "japanese": "イドアハオ"
+    },
+    {
+      "english": "ideal",
+      "japanese": "イドエアル"
+    },
+    {
+      "english": "identification",
+      "japanese": "イドエントイフイクアション"
+    },
+    {
+      "english": "identity",
+      "japanese": "イドエントイトイ"
+    },
+    {
+      "english": "ignore",
+      "japanese": "イグンオルエ"
+    },
+    {
+      "english": "ill",
+      "japanese": "イルル"
+    },
+    {
+      "english": "illegal",
+      "japanese": "イルルエグアル"
+    },
+    {
+      "english": "illustrated",
+      "japanese": "イルルウストルアトエド"
+    },
+    {
+      "english": "imagine",
+      "japanese": "イムアグインエ"
+    },
+    {
+      "english": "imaging",
+      "japanese": "イムアグイング"
+    },
+    {
+      "english": "img",
+      "japanese": "イムグ"
+    },
+    {
+      "english": "immediate",
+      "japanese": "イムムエドイアトエ"
+    },
+    {
+      "english": "immigration",
+      "japanese": "イムムイグルアション"
+    },
+    {
+      "english": "implement",
+      "japanese": "イムプルエムエント"
+    },
+    {
+      "english": "implemented",
+      "japanese": "イムプルエムエントエド"
+    },
+    {
+      "english": "implementing",
+      "japanese": "イムプルエムエントイング"
+    },
+    {
+      "english": "implications",
+      "japanese": "イムプルイクアションス"
+    },
+    {
+      "english": "import",
+      "japanese": "イムプオルト"
+    },
+    {
+      "english": "importance",
+      "japanese": "イムプオルトアンクエ"
+    },
+    {
+      "english": "impossible",
+      "japanese": "イムプオススイブルエ"
+    },
+    {
+      "english": "improved",
+      "japanese": "イムプルオヴエド"
+    },
+    {
+      "english": "improvements",
+      "japanese": "イムプルオヴエムエントス"
+    },
+    {
+      "english": "improving",
+      "japanese": "イムプルオヴイング"
+    },
+    {
+      "english": "inches",
+      "japanese": "インチエス"
+    },
+    {
+      "english": "incident",
+      "japanese": "インクイドエント"
+    },
+    {
+      "english": "incorporated",
+      "japanese": "インクオルプオルアトエド"
+    },
+    {
+      "english": "increases",
+      "japanese": "インクルエアスエス"
+    },
+    {
+      "english": "increasing",
+      "japanese": "インクルエアスイング"
+    },
+    {
+      "english": "indeed",
+      "japanese": "インドエエド"
+    },
+    {
+      "english": "independence",
+      "japanese": "インドエプエンドエンクエ"
+    },
+    {
+      "english": "indexed",
+      "japanese": "インドエクスエド"
+    },
+    {
+      "english": "indicate",
+      "japanese": "インドイクアトエ"
+    },
+    {
+      "english": "indicated",
+      "japanese": "インドイクアトエド"
+    },
+    {
+      "english": "indicates",
+      "japanese": "インドイクアトエス"
+    },
+    {
+      "english": "indicators",
+      "japanese": "インドイクアトオルス"
+    },
+    {
+      "english": "indonesia",
+      "japanese": "インドオンエスイア"
+    },
+    {
+      "english": "indoor",
+      "japanese": "インドオオル"
+    },
+    {
+      "english": "industries",
+      "japanese": "インドウストルイエス"
+    },
+    {
+      "english": "infant",
+      "japanese": "インフアント"
+    },
+    {
+      "english": "infection",
+      "japanese": "インフエクション"
+    },
+    {
+      "english": "influence",
+      "japanese": "インフルウエンクエ"
+    },
+    {
+      "english": "infrastructure",
+      "japanese": "インフルアストルウクチャー"
+    },
+    {
+      "english": "ing",
+      "japanese": "イング"
+    },
+    {
+      "english": "ingredients",
+      "japanese": "イングルエドイエントス"
+    },
+    {
+      "english": "initiative",
+      "japanese": "インイトイアトイヴエ"
+    },
+    {
+      "english": "initiatives",
+      "japanese": "インイトイアトイヴエス"
+    },
+    {
+      "english": "injuries",
+      "japanese": "インジウルイエス"
+    },
+    {
+      "english": "injury",
+      "japanese": "インジウルイ"
+    },
+    {
+      "english": "ink",
+      "japanese": "インク"
+    },
+    {
+      "english": "inner",
+      "japanese": "インンエル"
+    },
+    {
+      "english": "innovation",
+      "japanese": "インンオヴアション"
+    },
+    {
+      "english": "innovative",
+      "japanese": "インンオヴアトイヴエ"
+    },
+    {
+      "english": "inquiry",
+      "japanese": "インクイルイ"
+    },
+    {
+      "english": "insert",
+      "japanese": "インスエルト"
+    },
+    {
+      "english": "insider",
+      "japanese": "インスイドエル"
+    },
+    {
+      "english": "insight",
+      "japanese": "インスイグハト"
+    },
+    {
+      "english": "inspection",
+      "japanese": "インスプエクション"
+    },
+    {
+      "english": "instance",
+      "japanese": "インストアンクエ"
+    },
+    {
+      "english": "instant",
+      "japanese": "インストアント"
+    },
+    {
+      "english": "institution",
+      "japanese": "インストイトウション"
+    },
+    {
+      "english": "institutional",
+      "japanese": "インストイトウションアル"
+    },
+    {
+      "english": "instruction",
+      "japanese": "インストルウクション"
+    },
+    {
+      "english": "instructor",
+      "japanese": "インストルウクトオル"
+    },
+    {
+      "english": "instrument",
+      "japanese": "インストルウムエント"
+    },
+    {
+      "english": "integrity",
+      "japanese": "イントエグルイトイ"
+    },
+    {
+      "english": "intel",
+      "japanese": "イントエル"
+    },
+    {
+      "english": "intellectual",
+      "japanese": "イントエルルエクトウアル"
+    },
+    {
+      "english": "intelligent",
+      "japanese": "イントエルルイグエント"
+    },
+    {
+      "english": "inter",
+      "japanese": "イントエル"
+    },
+    {
+      "english": "interaction",
+      "japanese": "イントエルアクション"
+    },
+    {
+      "english": "interior",
+      "japanese": "イントエルイオル"
+    },
+    {
+      "english": "intermediate",
+      "japanese": "イントエルムエドイアトエ"
+    },
+    {
+      "english": "interpretation",
+      "japanese": "イントエルプルエトアション"
+    },
+    {
+      "english": "interracial",
+      "japanese": "イントエルルアクイアル"
+    },
+    {
+      "english": "interviews",
+      "japanese": "イントエルヴイエウス"
+    },
+    {
+      "english": "introduce",
+      "japanese": "イントルオドウクエ"
+    },
+    {
+      "english": "introduced",
+      "japanese": "イントルオドウクエド"
+    },
+    {
+      "english": "inventory",
+      "japanese": "インヴエントオルイ"
+    },
+    {
+      "english": "investigation",
+      "japanese": "インヴエストイグアション"
+    },
+    {
+      "english": "investing",
+      "japanese": "インヴエストイング"
+    },
+    {
+      "english": "investments",
+      "japanese": "インヴエストムエントス"
+    },
+    {
+      "english": "investor",
+      "japanese": "インヴエストオル"
+    },
+    {
+      "english": "investors",
+      "japanese": "インヴエストオルス"
+    },
+    {
+      "english": "invited",
+      "japanese": "インヴイトエド"
+    },
+    {
+      "english": "involvement",
+      "japanese": "インヴオルヴエムエント"
+    },
+    {
+      "english": "involves",
+      "japanese": "インヴオルヴエス"
+    },
+    {
+      "english": "involving",
+      "japanese": "インヴオルヴイング"
+    },
+    {
+      "english": "iran",
+      "japanese": "イルアン"
+    },
+    {
+      "english": "iraqi",
+      "japanese": "イルアクイ"
+    },
+    {
+      "english": "irish",
+      "japanese": "イルイシ"
+    },
+    {
+      "english": "iso",
+      "japanese": "イスオ"
+    }
+  ]
+}
